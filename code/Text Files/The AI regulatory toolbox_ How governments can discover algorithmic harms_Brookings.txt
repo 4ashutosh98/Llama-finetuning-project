@@ -1,0 +1,125 @@
+Governments around the world are implementing foundational policies to regulateartificial intelligence (AI) and algorithmic systems more generally. While legislation isadvancing, regulators should not wait idly for legislators to act. Instead, regulatorsshould be actively learning about the algorithmic systems in their regulatory domainand evaluating those systems for compliance under existing statutory authority.
+Many regulatory agencies have started this work, including the U.S. Federal TradeCommission’s (FTC)
+and Consumer Financial Protection Bureau(CFPB), new algorithmic regulators in
+and
+, and onlineplatform regulators such as the UK’s
+(OFCOM) and the
+. These agencies and others havestarted to implement novel approaches and policies for AI regulation.
+Office of Technology
+the Netherlands
+Spain
+Office of Communications
+European Centre for Algorithmic Transparency
+COMMENTARY
+The AI regulatory toolbox: How governments candiscover algorithmic harms
+Alex Engler
+October 9, 2023
+While AI legislation advances, some regulators are experimenting with gathering information aboutalgorithmic systems and their potential societal effects.
+This experimentation has developed a toolbox of AI regulatory strategies, each with differentstrengths and weaknesses.
+These potential interventions include transparency requirements, algorithmic audits, AI sandboxes,leveraging the AI assurance industry, and welcoming whistleblowers.
+Of particular interest is how oversight agencies can learn about algorithmic systems,as well as their societal impact, harms, and legal compliance. As agencies experimentin gathering this information, it is possible to broadly characterize an emerging AIregulatory toolbox for evaluating algorithmic systems, particularly those with greaterrisk of harm.
+The toolbox includes expanding transparency, performing algorithmic audits,developing AI sandboxes, leveraging the AI assurance industry, and learning fromwhistleblowers. These interventions have different strengths and weaknesses forgoverning different types of AI systems, and further, they require different internalexpertise and statutory authorities. To better inform AI policymaking, regulators shouldbe aware of these tools and their trade-offs.
+Mandating corporate disclosures is a key function of many government agencies, andthis role is also valuable in markets of algorithmic systems. Algorithmic transparency isamong the most thoroughly studied subfields of AI, which has resulted in a widevariety of approaches, including transparency measures for affected individuals, thegeneral public, and to other organizations, such as other businesses or regulatorsthemselves.
+In its simplest form, transparency for affected individuals means direct disclosure, inwhich an individual is informed when they are interacting with an algorithmic system.However, it also includes “explainability,” in which an individual is offered some insightinto why an algorithmic system generated a specific decision or outcome. Public-facing transparency might include statistics about the outcomes of an algorithmicsystem (such as how accurate or how fair it is), descriptions about the underlying dataand technical architecture of an algorithmic system, and a more comprehensiveexamination of its impacts, often called an
+. Lastly,transparency can be cross-organizational, such as between two businesses orbetween businesses and regulators. Because this is not fully public, it may enablemore detailed information sharing, such as proprietary information about algorithmicsystems, which may be helpful for the clients of AI developers who seek to
+for a new purpose. Similarly, regulators may be able to seek morespecific information privately, reducing risks to intellectual property theft whileenabling the government agency to better understand a type of algorithmic system.
+Expand Algorithmic Transparency Requirements 1.
+algorithmic impact assessment
+adapt analgorithmic system
+Regulators may also have existing authorities that can be applied to mandate orencourage algorithmic transparency. The CFPB has stated clearly that legally requiredexplanations of credit denial
+. Also in the U.S.,longstanding
+and a
+requirefinancial lenders to assess information about any algorithmic systems for propertyvaluation that they procure. The European Union’s (EU) General Data ProtectionRegulation (GDPR)
+an individual right to “meaningful information aboutthe logic” of algorithmic systems. This has led companies, such as
+, to offer responses—albeit limited ones—to requests for information aboutalgorithmic decisions. Although not yet passed into law, the forthcoming EU AI Act willalso create
+substantial new transparency requirements
+(https://www.brookings.edu/articles/the-eu-and-us-diverge-on-ai-regulation-atransatlantic-
+comparison-and-steps-to-alignment/#anchor5)
+, likely including directdisclosure of chatbots and public reporting about high-risk AI systems.
+Transparency requirements require little expertise and capacity from governmentagencies, making them an appealing early step in AI regulation. However, regulators doneed to be careful in specifying transparency requirements—vaguely or poorly wordedrequirements can permit too much flexibility in algorithmic transparency, allowing forcompanies to cherry pick self-serving statistics.
+When transparency requirements are sufficiently narrowly tailored to a type ofalgorithmic system, they can lead to a wide range of benefits. Public information aboutan algorithmic function can help individuals and other businesses make better choicesabout which AI developers to patronize or work with. AI developers may themselvesrealize from public disclosures that their systems are not performing at the state of theart, leading them to prioritize product improvements. Yet, even if more transparencydoes not lead to introspection, public information can help journalists and civil societyorganizations identify subpar and potentially harmful systems. Journalism can lead topublic scrutiny that leads to change in the practices of AI developers, while civilsociety organizations may make use of lawsuits to punish lax algorithmic practices. Allthese benefits can arise even without the regulators themselves using publicinformation, although transparency also helps inform better policymaking and otherinterventions from the AI regulatory toolbox.
+apply to algorithmic systems
+interagency guidance
+new proposed rulemaking
+guarantees
+home insuranceproviders
+Performing Algorithmic Investigations and Audits 2.
+An especially impactful approach for regulators is performing algorithmicinvestigations and audits (hereafter audits, for simplicity), which are evaluations of analgorithmic system. There is a growing body of
+on howalgorithmic audits can be conducted and what they can discover. Audits have revealedinaccuracy, discrimination, distortion of information environments, misuse ofunderlying data, and other significant flaws in algorithmic systems. Depending on thecountry and the algorithmic application, these flaws can be in violation of laws andregulations that might be of interest to regulators.
+Algorithmic audits may become a common tool of AI regulation. The core enforcementmechanism of the EU’s AI Act is the ability of regulators to demand information onhigh-risk algorithmic systems to assess compliance with the law. Beyond the manyalgorithmic audits from
+and
+, some regulators have alreadybegun to use this oversight tool. The Australian Competition and ConsumerCommission
+of Trivago’s hotel ranking advertisement and foundit was misleading consumers. Both the United Kingdom’s (UK) InformationCommissioner’s Office (ICO) and the Competition and Markets Authority have also
+aimed at algorithms on, or using data from, onlineplatforms. Further, the UK’s OFCOM is actively staffing up in order to enable futurealgorithmic audits as part of the Online Safety Bill. In the U.S., the FTC has the legalauthority to audit algorithmic systems through its information gathering tools, such asthe civil investigative demand.
+Audits are particularly well suited to discovering algorithmic flaws because they do notrequire trusting the claims of an algorithmic developer, but rather enable directanalysis by regulators. Notably, algorithmic audits can range in
+, from a limited audit in which auditors only review documentation, all the way to acomprehensive inspection of the specific technical function, outputs, and broadersociotechnical deployment of an algorithmic system. These more intensive algorithmicaudits are
+far more likely (https://www.brookings.edu/articles/auditing-employmentalgorithms-
+for-discrimination/)
+to uncover flawed and harmful aspects of analgorithmic system. However, more intensive algorithmic audits are also far moretechnically complex, requiring more expertise and technical capacity from regulators.Specifically, regulators would need data scientists with expertise in evaluatingalgorithmic systems and may need to take necessary steps to develop a computingenvironment for algorithmic evaluation with appropriate privacy and cybersecuritysafeguards.
+scientific research
+academics
+journalists
+performed an audit
+engaged in algorithmic audits
+how involved they are
+An AI regulatory sandbox is meant to systematically improve communication betweenregulators and regulated entities, most frequently AI developers. Participation in AIsandboxes, which is often voluntary, is meant to ease regulatory compliance and offerlegal certainty to companies while improving regulators’ understanding of the design,development, and deployment of a type of AI system. This may also help regulatorsidentify potential legal problems with a particular AI system during its development. Inaddition to preventing harms, this can enable an AI developer to make earlier—therebypotentially less costly—course corrections on its algorithms.
+There is no specific technical definition of an AI sandbox; the term can refer to a rangeof approaches from a simple ongoing exchange of documentation (from companies)and feedback (from regulators) all the way to a computing environment shared by acompany and regulators. This creates some uncertainty—for instance, while theEuropean Parliament’s version of the AI Act requires each EU member state toestablish at least one regulatory sandbox, it is not clear what precisely each countrywould implement.
+The first such AI sandbox has been
+by a partnership between theEuropean Commission and the Spanish government, but regulatory sandboxes forother industries are not new. Over 50 countries have experimented with usingregulatory sandboxes for
+, and the
+others in biotechnology, health, energy, and waste treatment. Some of thesesandboxes have performed assessments on AI systems, such as those from the UKICO and the U.S.
+. Particularly valuable are thepublic reports published by the ICO when a financial technology application leaves theregulatory sandbox. These reports can
+on how aspecific algorithmic system can comply with regulatory requirements, therebyinforming the public and other companies building similar applications.
+AI sandboxes have many distinguishing qualities relative to other AI regulatoryinterventions. First, they require ongoing collaboration between regulators andregulated companies, and may be less adversarial than an algorithmic audit.Sandboxes may require more work for companies (such as sharing updated data orensuring an algorithmic system works in a government computing environment).
+Develop Regulatory AI Sandboxes 3.
+recently launched
+digital financial services
+OECD has documented
+Consumer Financial Protection Bureau
+include detailed information
+However, they also provide more clarity to the AI developers, who may receivefeedback earlier and more frequently on regulatory compliance. In some cases, thiscould accelerate time-to-market, especially under a governance regime with ex-anteor pre-market requirements.
+AI regulatory sandboxes can also demand more from regulators, especially if theyentail developing a computing environment. Beyond the skills necessary foralgorithmic auditing, regulators would need to ensure that their computingenvironments can accommodate a broad range of algorithmic software in order toallow various AI developers to use the sandboxes. Further, regulators may have todevelop regulatory sandboxes that are capable of testing many distinct types ofalgorithmic systems, including algorithms built into phone apps, online platforms, andphysical products. Holding algorithmic systems indefinitely in government computingenvironments during development may increase risks to intellectual property,increasing the stakes of strong cybersecurity. Due to the significant workload requiredfor AI sandboxes, they may be more appropriate for relatively high-stakes algorithmicsystems.
+AI assurance is a catchall term for a variety of technology companies that specialize inmonitoring, evaluation, and legal compliance of algorithmic systems. There are manycompanies in this emerging market, including Weights & Biases, Babl AI, EticasResearch and Consulting, Credo AI, Fairly AI, SolasAI, Fiddler AI, FairPlay AI, Armilla AI,Trustible, and Holistic AI. Although their offerings may overlap, their business modelsvary significantly. Some companies, such as Weights & Biases, offer bespoke softwarethat primarily aids in the algorithmic development process. However, these tools alsoenable documentation and storage of past data and models, which leads to
+for detailed regulatory compliance. Othercompanies, such as Trustible, are primarily focused on documenting algorithmicsystems and their compliance with specific standards or regulations, without offeringdeveloper tools. Some are industry specific—Fairplay AI focuses narrowly on fairnessand disparate impact analyses for financial institutions. Others, such as EticasConsulting and Babl AI, offer full algorithmic audits and associated complianceservices, aiming to improve fairness but also performance and safety more generally.
+Leverage the AI Assurance Industry 4.
+thereproducibility that is necessary
+A common strand across the entire AI assurance industry is a mixed business modelthat advertises both profit-motivated improvements to algorithmic systems and betterpreparedness for regulatory and legal compliance. For instance, several AI assurancecompanies stress the value of internal monitoring, so corporate leaders canunderstand and scrutinize the function of their own algorithms, in addition tohighlighting future legal requirements. This likely a stronger sales pitch to potentialclients, especially given that most AI laws are still being drafted, rather than beingimplemented.
+Although this industry is distinct from governance, regulators should actively engagewith the AI assurance industry to advance democratic goals, perhaps best
+. Regulators can issue guidance that encourages regulated companies toconsider using AI assurance tools, even possibly noting this could be interpreted as apotential signal of regulatory compliance. Further, regulators can inform and learn fromthe AI assurance industry. By communicating about specific technical functions andthe societal impacts of algorithmic systems in a regulated field, regulators can help AIassurance companies strive towards not just nominal compliance, but meaningfullybetter outcomes. For instance, regulators concerned with discrimination couldencourage relevant AI assurance companies to
+that might be less discriminatory instead of simply detecting biased results. Further,regulators can encourage and highlight AI assurance companies that establishprocesses which enable some degree of independent scrutiny, such as with consistentevaluation standards, although this is challenging to do when AI assurance companiesdepend on AI developers for revenue.
+Regulators should also welcome information from affected individuals andwhistleblowers from AI developers—both of whom may have unique information aboutalgorithmic systems.
+Individuals who are subjected to algorithmic systems may have specific insight intothe function of those systems. Several U.S. agencies, such as the Equal EmploymentOpportunity Commission, explicitly
+of discrimination from AIsystems and can use those complaints to start formal investigations. However, onenotable shortcoming of individual complaints is that it is often difficult or impossiblefor an individual to meaningfully recognize that an action by an algorithmic system was
+exemplifiedby the U.K
+offer alternative candidate algorithms
+Welcome Complaints and Whistleblowers 5.
+welcome reporting
+wrong or unfair for them. The infamous obscurity of algorithmic systems can make thisvery hard for individuals. However, groups of people have come together to identifyalgorithmic harms. For example, a group of content creators
+thatYouTube appeared to be demonetizing their videos when the titles included LGBTQ-related vocabulary. While this is not guaranteed to be included in the final version ofthe law, one version of the EU AI Act includes a
+path to redress
+(https://www.brookings.edu/articles/key-enforcement-issues-of-the-ai-act-shouldlead-
+eu-trilogue-debate/)
+for people harmed by algorithmic systems. Agencies shouldwelcome these types of complaints and concerns from affected persons.
+There is one group of individuals who are likely to have an intimate and sophisticatedunderstanding of algorithmic systems—the developers themselves. Often, the datascientists and machine-learning engineers who build algorithmic systems are by farthe best placed to understand their societal impact, harms, and even legal violations.Most famously, Frances Haugen provided regulators and journalists with
+of Facebook’s internal documents that contradicted the company’s publicstatements. Peter Zatko’s complaints, including that Twitter enabled far too manyemployees access to sensitive user data,
+andincreased scrutiny, just as Haugen’s did.
+While these examples are specific to online platforms, in other fields, such as financialoversight, regulators even
+. Regulators shouldrecognize when their information-gathering approaches may be systemically limitedfrom the outside and consider the role of direct reporting and whistleblowers fordiscovering algorithmic harms.
+Agencies should use the tools they have to understandand regulate AI
+Regulators should actively consider what steps are necessary and valuable in theirdomains to ensure their regulatory mission is preserved. This includes cataloging andobserving emerging uses of algorithmic systems in their field, exploring what theirexisting statutory authority allows for, and hiring staff with expertise in algorithmicsystems. Regulators may benefit from a gap analysis—identifying where current
+documented
+thousands ofpages
+led to congressional hearings
+offer cash rewards for whistleblowers
+authorities and capacities are lacking so that they can inform legislators, who are farless likely to understand the nuances of every regulatory subfield.
+While regulators may often lack the most appropriate and best suited tools forinformation gathering about algorithmic systems, many will have some authority toperform information gathering. Beyond the interventions explored here, regulators canalso learn from
+, which is especially helpful tounderstand algorithms as part of
+. Some governments,including the EU through the Digital Services Act, are even requiring access toplatform data for independent researchers—this research is expected to informregulatory investigations and
+even enforcement actions
+(https://www.brookings.edu/articles/platform-data-access-is-a-lynchpin-of-the-eusdigital-
+services-act/)
+. In fact, regulators may turn to existing academic research first,even to prioritize what other information gathering tools—like those discussed here—to employ.
+While algorithmic systems have become widely used in many regulated markets, thesealgorithms are
+unique to their circumstances (https://www.brookings.edu/articles/acomprehensive-
+and-distributed-approach-to-ai-regulation/)
+. As a result, regulatorsneed to build robust and persistent strategies to gather information for informedpolicymaking, oversight, and enforcement actions. Collectively, the emerging efforts ofthese agencies will continue to compose a regulatory toolkit upon which much futureAI governance will be built.

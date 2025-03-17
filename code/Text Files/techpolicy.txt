@@ -1,0 +1,71 @@
+President Joseph Biden issues a sweeping AI Executive Order
+On Monday, President Joseph Biden issued a highly-anticipated “Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence.” The first-of-its-kind executive action is the White House’s attempt to quickly establish oversight of the rapidly evolving technology while Congress works to develop a comprehensive regulatory framework. The document is devoted, in large part, to national security concerns, doling out various new responsibilities to the Secretaries of Defense and Homeland Security, the Director of National Intelligence, and other agencies. But nearly the entire alphabet soup of federal agencies is implicated.
+
+The Executive Order can be broken down into eight parts, as outlined by CNBC:
+Creating new safety and security standards for AI
+Protecting consumer privacy
+Protecting consumers overall by evaluating potentially harmful AI-related health-care practices
+Supporting workers
+Promoting innovation and competition
+Working with international partners to implement AI standards globally
+Developing guidance for federal agencies’ use and procurement of AI
+Advancing equity and civil rights by creating guidance and research that avoids further algorithmic discrimination
+Some top takeaways from the Executive Order, according to the MIT Technology Review's Tate Ryan-Mosley and Melissa Heikkilä, include requiring the Department of Commerce to develop guidance for labeling AI-generated content, such as watermarking tools; compelling developers to share safety test results for new AI models that may pose a national security risk; and forcing AI companies to be more transparent about how their new models work, among other “safety and security” priorities.
+
+Monday’s White House action builds on its previous commitments to the safe and responsible development of AI. Some of these include its support for developing the Blueprint for an AI Bill of Rights, which safeguards Americans’ rights and safety; securing voluntary commitments from Anthropic, Google, OpenAI, and other tech companies to thoroughly test systems before releasing them – also called “red-teaming” – and clearly labeling all AI-generated content; and granting $140 million to the National Science Foundation to establish seven new AI research institutes. The Order is also meant to complement the G7 leaders’ Guiding Principles and Code of Conduct, which was also issued on Monday. (See below for more details.)
+
+At the Executive Order’s signing, President Biden characterized the current regulatory atmosphere around AI policy as “a genuine inflection point in history, one of those moments where the decisions we make in the very near term are going to set the course for the next decades.” AI brings change with it that has as much potential as it does risk, he said such as “exploring the universe, fighting climate change, ending cancer as we know it, and so much more.”
+
+The Executive Order was met with warm response from Congress and some civil society groups.
+
+In a written statement to the press, Senate Majority Leader Charles Schumer (D-NY) congratulated the President on this “crucial step” to ensure the US remains a leader of AI innovation, but warned that more is needed. “All executive orders are limited in what they can do, so it is now on Congress to augment, expand, and cement this massive start with legislation,” Schumer said. He added that the Senate will “continue to work in a bipartisan fashion and act with “urgency and humility.”
+
+The National Science Foundation (NSF), an independent government agency that’s also the primary investor in non-defense AI research, also embraced the Executive Order. “NSF stands ready to fully implement the actions outlined in today’s Executive Order as well as the eight guiding principles and priorities it lays out,” the agency wrote in a press release. The NSF also highlighted the National Artificial Intelligence Research Resource (NAIRR) Task Force’s final report that it co-led and published earlier this year, in which NSF director Sethuraman Panchanathan described as a national research infrastructure roadmap that “would democratize access to the resources essential to AI research and development.”
+
+The Center for Democracy and Technology (CDT) similarly welcomed the Order. In a press release, CDT President and CEO Alexandra Reeve Givens gave credit to the White House for addressing “critical components of AI risk management” in key areas where AI is already being deployed, from the workplace and housing to education and government benefits programs. “We are particularly encouraged that the Order directs multiple federal agencies to issue new guidance and adopt processes to prioritize civil rights and democratic values in AI governance,” Reeve Givens added. (Tech Policy Press spoke with Reeve Givens last week about her experience as an attendee at the Senate’s second closed-door AI ‘Insight Forum.’)
+
+G7 Leaders issue ‘Guiding Principles’ and voluntary ‘Code of Conduct’ on AI
+On Monday, Group of Seven (G7) leaders issued a set of international Guiding Principles on artificial intelligence as well as a voluntary Code of Conduct for AI developers under the ‘Hiroshima Artificial Intelligence Process.’ In a joint statement, leaders called on organizations developing advanced AI systems to commit to the code of conduct as well as ministers to accelerate development of the Process’ policy framework.
+
+The Principles and Code are the culmination of work that began in May 2023 at the G7 summit, where the Hiroshima AI Process – born out of the EU-US Trade and Technology Council ministerial – was formed to find common policy priorities and promote guardrails for advanced AI systems globally. The G7 bloc includes Canada, France, Germany, Italy, Japan, Britain, the US, and the European Union.
+
+The policy framework relies on four pillars, which includes analyzing priority risks, challenges, and opportunities of generative AI; project-based cooperation supporting responsible AI development; and applying the Guiding Principles to all AI actors in the ecosystem as well as organizations developing advanced AI systems. The Principles build on the Organisation for Economic Cooperation and Development’ (OECD) AI Principles and are meant to, alongside the Code of Conduct, complement the legally binding rules of the EU AI Act.
+
+The Code of Conduct emphasizes in clear terms that organizations should not develop or deploy advanced AI systems that undermine democratic values and states must abide by their international human rights obligations. More specifically, G7 leaders want organizations to invest in physical and cyber-security controls, watermark AI-generated content, prioritize AI systems that address challenges like the climate crisis and global health, and more.
+
+The European Union (EU) Commission embraced the G7 leaders’ agreement and swiftly issued a call to action. “I am pleased to welcome the G7 international Guiding Principles and the voluntary Code of Conduct, reflecting EU values to promote trustworthy AI. I call on AI developers to sign and implement this Code of Conduct as soon as possible,” said Commission President Ursula von der Leyen in a press release. (Later this week, Von der Leyen will be joining other global leaders in Buckinghamshire for the two-day UK AI Safety Summit. More details below.)
+
+The UK Department for Science, Innovation and Technology’s ‘Frontier AI Taskforce’ issues second report
+Only eighteen months into its formation, and just ahead of the UK-organized AI Safety Summit, the ‘Frontier AI Taskforce’ issued its second progress report. Since its first report in September, the group has tripled its research capacity, cemented new partnerships with leading AI organizations, and supported the development of Isambard-AI, an AI supercomputer where more intensive safety research will be conducted, among other developments.
+
+The Taskforce describes itself as a “start-up inside government.” It was formed at the direction of UK Prime Minister Rishi Sunak to create an AI research team that can “evaluate the risks at the frontier of AI.” Later this week, at the AI Safety Summit, the group will showcase its initial program results and present a series of ten-minute demonstrations focused on four areas of risk, which include misuse, societal harm, loss of human control, and unpredictable progress. The Taskforce will soon transition to a more formal AI Safety Institute that will work to develop the “sociotechnical infrastructure needed to understand the risks of advanced AI and support its governance.”
+
+Tuesday
+AI-related convenings
+10:00 AM – The US Senate Committee on Health, Education, Labor and Pensions is hosting a hearing on AI and the Future of Work within the Subcommittee on Employment and Workplace Safety. Witnesses include Bradford Newman, Partner of AI Practice at Baker & McKenzie LLP and co-chairman of the American Bar Association’s AI Subcommittee; Josh Lannin, vice president of productivity technologies at Workday; Mary Kate Morley Ryan, managing director of talent and organization at Accenture; and Tyrance Billingsley II, founder and executive director of Black Tech Street.
+
+The Senate hearing’s theme coincides with Senator Schumer’s third AI ‘Insight Forum,’ which will bring big bank and union leaders together to establish a “new foundation for AI policy in the workplace” and “ensure the use of AI benefits everyone,” as first reported by FedScoop. Tuesday’s hearing will be at least the fourth that Congress has hosted this month alone, including a House hearing on Safeguarding Data and Innovation (see a transcript on Tech Policy Press) and the Senate Commerce hearing on CHIPS and Science Implementation and Oversight.
+
+11:30 AM – The bipartisan group of US Senators that calls itself the AI “Gang of Four” – Sen. Martin Heinrich (D-NM), Sen. Mike Rounds (R-SD), Sen. Charles Schumer (D-NY), and Sen. Todd Young (R-IN) – heads to the White House to meet with President Biden. The convening comes less than 24 hours after President Biden issued his Executive Order on AI and on the eve of the third Senate AI ‘Insight Forum’ led by Sen. Schumer.
+
+Wednesday
+Third and fourth installments of Schumer’s AI ‘Insight Forums’
+Sen. Schumer will host the third and fourth Senate AI ‘Insight Forums’ on Wednesday, Nov. 1.
+
+The first hearing of the day, at 10:30 am, will focus on the “workforce” and how AI will alter the way that Americans work, including both risks and opportunities. Many of the fifteen attendees hail from the financial sector and labor unions, like Mastercard’s Chief People Officer and National Nurses United’s Executive Director, as well as industry, civil society, and academia.
+
+The second hearing will kick off at 3 pm. Its focus will be on “high impact” issues, such as “important topics like AI in the financial sector and health industry, and how AI developers and deployers can best mitigate potential harms,” according to a press statement from Senator Schumer’s office. In addition to representatives from academia, civil society, and industry, the guest list includes one name that will raise eyebrows: CEO and founder of controversial facial recognition firm Clearview AI, Hoan Ton-That.
+
+For full guest lists and more details on the forums, check out the Tech Policy Press US Senate ‘AI Insight Forum’ Tracker.
+
+UK AI Safety Summit 2023
+
+The two-day, first-of-its-kind AI Safety Summit will officially kick off on Wednesday, Nov. 1. Hosted by the UK government, Prime Minister Rishi Sunak will bring global leaders, government officials, tech executives, and experts to Bletchley Park to discuss “highly capable” frontier AI systems and the future risks they pose. The Financial Times published a full list of attendees, which includes tech leaders from Anthropic, OpenAI, and Google, government officials from Ireland and Kenya, and researchers from the Oxford Internet Institute and the Stanford Cyber Policy Institute, among a long list of others. Some of the most notable guests include:
+
+Kamala Harris – Vice President of the United States
+Michelle Donelan – UK Secretary of State for Science, Innovation and Technology
+Ursula von der Leyen – President of the European Commission
+Giorgia Meloni – Prime Minister of Italy
+President Biden, French President Emmanuel Macron, and Canadian Prime Minister Justin Trudeau are among those skipping the event. It’s still unclear whether China’s tech minister Wu Zhaohui will attend, according to The Guardian, despite the backlash PM Sunak faced for extending an invite to China last week.
+
+On day one of the Summit, Vice President Harris announced new US actions meant to build on Monday’s Executive Order, with the stated goal of strengthening international rules and norms with different allies and partners. This includes launching the US AI Safety Institute (AISI) inside the National Institute of Standards and Technology (NIST), and via the Department of Commerce, that will operationalize its AI Risk Management Framework. The Office of Management and Budget (OMB) has developed first-ever draft policy guidance for public review, according to the Vice President, that will build on the Blueprint for an AI Bill of Rights and NIST’s Framework. Additionally, the US is joining 31 other nations, including countries like France, Germany, and the UK, in endorsing the Political Declaration on Responsible Military Use of Artificial Intelligence and Autonomy that responsibly and lawfully harnesses AI capabilities, like autonomous functioning systems. And finally, the White House announced a philanthropic-giving initiative with ten foundations that have collectively committed more than $200 million to advance AI priorities.

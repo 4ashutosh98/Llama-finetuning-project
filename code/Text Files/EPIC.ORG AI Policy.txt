@@ -1,0 +1,71 @@
+EPIC.ORG AI Policy
+
+BACKGROUND
+AI policy must protect individuals, increase transparency and accountability, and center human rights.
+
+States and municipalities are increasingly taking interest in Artificial Intelligence and filling the gaps left by federal inaction on algorithmic harm. States and cities have taken different routes, from notification and task forces to minimum privacy standards. Some of the recent efforts are highlighted below. EPIC is not including state and local laws primarily focused on investing resources in building more AI and general research, as they do not improve protection of individuals against algorithmic harm. At the federal level, EPIC is only including laws of this sort that have been enacted, and only including laws within the last several years.
+
+U.S. FEDERAL STRATEGY
+There have been no major legislative movement in Congress, but plenty of relevant bills introduced in the last several years. Anna Lenhart has published a report about the different ways legislation introduced in Congress would impact AI.
+
+Fall 2023 Executive Action: Executive Order and an Office of Management & Budget Memo
+On October 30, 2023, the Biden-Harris Administration issued an Executive Order entitled “Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence”that emphasizes the need for regulation of high-risk AI and critically recognizes the link between privacy and AI.
+
+Notably, the order requires the developers of the most powerful AI systems to share their safety test results with the government, promises federal support for development and agencies use of privacy-preserving techniques, requires an evaluation of how agencies collect and use commercially available data (including from data brokers), and requires increased training on how to investigate and prosecute civil rights violations related to AI.
+
+The order tasks agencies with a number of responsibilities that will lead to standards from the National Institute of Standards and Technology to layout responsible AI testing frameworks and guidance for content authentication and watermarking.
+
+For government use of AI, the EO requires the development of guidance for agency use of AI and a faster and more efficient process for agencies to procure AI products and services. The directive also calls for the rapid hiring of AI professionals and the training of employees at all levels. The content of a forthcoming Office of Management and Budget memo will dictate the details of how government AI use will change.
+
+EPIC has long advocated for comprehensive privacy protections, rigorous testing protocols, expanded resources for evaluation of AI systems, and a government-whole effort to fighting algorithmic discrimination.
+
+Two days later, on November 1st, 2023, the Office of Management and Budget released a memo dictating how Government Agencies should approach using and regulating AI. There is a 30-day comment period before it’s finalized.
+
+Principles and International Agreements
+U.S. STATE AND LOCAL LAWS (ENACTED)
+No meaningful federal legislation has passed, however states have been very active.
+
+EPIC has published “State of State AI Policy” to track the fast-moving world of AI legislation in states and localities around the country.
+
+2022 – 2023 Legislative Session
+
+2021 – 2022 Legislative Session
+
+FRAMEWORKS
+White House Blueprint for an AI Bill of Rights
+The Office of Science and Technology Policy released a wide-ranging “Blueprint for an AI Bill of Rights” in Fall 2022, a document setting out how people should be able to expectThe five major principles are Safe and Effective Systems; Freedom from Algorithmic Discrimination; Data Privacy; Notice and Explanation; Human Alternatives, Consideration, and Fallback. The document lays out why these principles are critical, examples of where they are violated, and examples of how they’ve been addressed.
+
+The Blueprint notes that individuals must be protected from abusive data practices and calls for data minimization rules, stating “[y]ou should be protected from violations of privacy through design choices that ensure such protections are included by default, including ensuring that data collection conforms to reasonable expectations and that only data strictly necessary for the specific context is collected.”
+
+In the days following its release, EPIC Deputy Director Caitirona Fitzgerald and Senior Counsel Ben Winters published an op-ed in Protocol, urging the Biden Administration to take action to bring the Blueprint into practice. The Fall 2023 Executive Order and Office of Management and Budget Guidance does exactly that.
+
+National Institute of Standards and Technology AI Risk Management Framework
+Formally released on January 26, 2023, the A.I. Risk Management Framework is a four-part, voluntary framework intended to guide the responsible development and use of A.I. systems. The core of the framework are recommendations divided into four overarching functions: (1) Govern, which covers overarching policy decisions and organizational culture around A.I. development; (2) Map, which covers efforts to contextualize A.I. risks and potential benefits; (3) Measure, which covers efforts to assess and quantify A.I. risks; and (4) Manage, which covers the active steps an organization should take to mitigate risks and prioritize elements of trustworthy A.I. systems. In addition to the core Framework, NIST also hosts supplemental resources like a community Playbook to help organizations navigate the Framework. 
+
+In April 2023, EPIC Senior Counsel Ben Winters and Equal Justice Works Fellow Grant Fergusson published a series of blog posts explaining how each of these instruct how entities using AI can do it more responsibly.
+
+Universal Guidelines for Artificial Intelligence
+In October 2018, over 250 experts and 60 organizations, representing more than 40 countries, endorsed the Universal Guidelines for Artificial Intelligence (“UGAI”). The guidelines were organized by the Public Voice. The guidelines in full are:
+
+Right to Transparency. All individuals have the right to know the basis of an AI decision that concerns them. This includes access to the factors, the logic, and techniques that produced the outcome.
+Right to Human Determination. All individuals have the right to a final determination made by a person.
+Identification Obligation. The institution responsible for an AI system must be made known to the public.
+Fairness Obligation. Institutions must ensure that AI systems do not reflect unfair bias or make impermissible discriminatory decisions.
+Assessment and Accountability Obligation. An AI system should be deployed only after an adequate evaluation of its purpose and objectives, its benefits, as well as its risks. Institutions must be responsible for decisions made by an AI system.
+Accuracy, Reliability, and Validity Obligations. Institutions must ensure the accuracy, reliability, and validity of decisions.
+Data Quality Obligation. Institutions must establish data provenance, and assure quality and relevance for the data input into algorithms.
+Public Safety Obligation. Institutions must assess the public safety risks that arise from the deployment of AI systems that direct or control physical devices, and implement safety controls.
+Cybersecurity Obligation. Institutions must secure AI systems against cybersecurity threats.
+Prohibition on Secret Profiling. No institution shall establish or maintain a secret profiling system.
+Prohibition on Unitary Scoring. No national government shall establish or maintain a general-purpose score on its citizens or residents.
+Termination Obligation. An institution that has established an AI system has an affirmative obligation to terminate the system if human control of the system is no longer possible.
+Organisation of Economic Cooperation and Development AI Principles
+The OECD AI Principles were adopted in 2019 and endorsed by 42 countries—including the United States, several European Countries, and the G20 nations. The OECD AI Principles establish international standards for AI use:
+
+Inclusive growth, sustainable development and well-being. AI should benefit people and the planet.
+Human-centered values and fairness. AI systems should be designed in a way that respects the rule of law, human rights, democratic values and diversity, and they should include appropriate safeguards – for example, enabling human intervention when necessary – to ensure a fair and just society.
+Transparency and explainability. There should be transparency and a responsible disclosure around AI systems to ensure that people understand AI-based outcomes and can challenge them.
+Robustness, security and safety. AI systems must function in a robust, secure and safe way throughout their life cycles and potential risks should be continually assessed and managed.
+Accountability. Organizations and individuals developing, deploying or operating AI systems should be held accountable for their proper functioning in line with the above principles.
+INTERNATIONAL LAWS
+Several other counties are more advanced than the U.S. in terms of AI policy development that works to protect people from algorithmic harm. For more information on AI laws and norms internationally, please see EPIC’s International Policy page.

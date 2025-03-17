@@ -1,0 +1,76 @@
+Shaping Europe’s digital future - AI Act
+
+The Commission is proposing the first-ever legal framework on AI, which addresses the risks of AI and positions Europe to play a leading role globally.
+The regulatory proposal aims to provide AI developers, deployers and users with clear requirements and obligations regarding specific uses of AI. At the same time, the proposal seeks to reduce administrative and financial burdens for business, in particular small and medium-sized enterprises (SMEs).
+
+The proposal is part of a wider AI package, which also includes the updated Coordinated Plan on AI. Together, the Regulatory framework and Coordinated Plan will guarantee the safety and fundamental rights of people and businesses when it comes to AI. And, they will strengthen uptake, investment and innovation in AI across the EU.
+
+Why do we need rules on AI?
+The proposed AI regulation ensures that Europeans can trust what AI has to offer. While most AI systems pose limited to no risk and can contribute to solving many societal challenges, certain AI systems create risks that we must address to avoid undesirable outcomes.
+
+For example, it is often not possible to find out why an AI system has made a decision or prediction and taken a particular action. So, it may become difficult to assess whether someone has been unfairly disadvantaged, such as in a hiring decision or in an application for a public benefit scheme.
+
+Although existing legislation provides some protection, it is insufficient to address the specific challenges AI systems may bring.
+
+The proposed rules will:
+address risks specifically created by AI applications;
+propose a list of high-risk applications;
+set clear requirements for AI systems for high risk applications;
+define specific obligations for AI users and providers of high risk applications;
+propose a conformity assessment before the AI system is put into service or placed on the market;
+propose enforcement after such an AI system is placed in the market;
+propose a governance structure at European and national level.
+A risk-based approach
+
+The Regulatory Framework defines 4 levels of risk in AI:
+pyramid showing the four levels of risk: Unacceptable risk; High-risk; limited risk, minimal or no risk
+ 
+All AI systems considered a clear threat to the safety, livelihoods and rights of people will be banned, from social scoring by governments to toys using voice assistance that encourages dangerous behaviour.
+
+High risk:
+AI systems identified as high-risk include AI technology used in:
+
+critical infrastructures (e.g. transport), that could put the life and health of citizens at risk;
+educational or vocational training, that may determine the access to education and professional course of someone’s life (e.g. scoring of exams);
+safety components of products (e.g. AI application in robot-assisted surgery);
+employment, management of workers and access to self-employment (e.g. CV-sorting software for recruitment procedures);
+essential private and public services (e.g. credit scoring denying citizens opportunity to obtain a loan);
+law enforcement that may interfere with people’s fundamental rights (e.g. evaluation of the reliability of evidence);
+migration, asylum and border control management (e.g. verification of authenticity of travel documents);
+administration of justice and democratic processes (e.g. applying the law to a concrete set of facts).
+High-risk AI systems will be subject to strict obligations before they can be put on the market:
+
+adequate risk assessment and mitigation systems;
+high quality of the datasets feeding the system to minimise risks and discriminatory outcomes;
+logging of activity to ensure traceability of results;
+detailed documentation providing all information necessary on the system and its purpose for authorities to assess its compliance;
+clear and adequate information to the user;
+appropriate human oversight measures to minimise risk;
+high level of robustness, security and accuracy.
+All remote biometric identification systems are considered high risk and subject to strict requirements. The use of remote biometric identification in publicly accessible spaces for law enforcement purposes is, in principle, prohibited.
+
+Narrow exceptions are strictly defined and regulated, such as when necessary to search for a missing child, to prevent a specific and imminent terrorist threat or to detect, locate, identify or prosecute a perpetrator or suspect of a serious criminal offence.
+
+Those usages is subject to authorisation by a judicial or other independent body and to appropriate limits in time, geographic reach and the data bases searched.
+
+Limited risk:
+Limited risk refers to AI systems with specific transparency obligations. When using AI systems such as chatbots, users should be aware that they are interacting with a machine so they can take an informed decision to continue or step back.
+
+Minimal or no risk:
+The proposal allows the free use of minimal-risk AI. This includes applications such as AI-enabled video games or spam filters. The vast majority of AI systems currently used in the EU fall into this category.
+
+step-by-step process for declaration of conformity
+Step1: A high risk AI system is developed
+Step2: It needs to undergo the conformity assessment and comply with AI requirements. For some systems a notified body is involved too
+Step3: Registration of stand-alone AI systems in an EU database
+Step4: A declartion of conformity needs to be signed and the AI system should bear the CE marketing. The system can be placed on the market. 
+Step 5: If substantial changes happen in the AI system's lifecycle, go back to step 2
+
+How does it all work in practice for providers of high risk AI systems?
+Once an AI system is on the market, authorities are in charge of market surveillance, users ensure human oversight and monitoring, and providers have a post-market monitoring system in place. Providers and users will also report serious incidents and malfunctioning.
+
+Future-proof legislation:
+As AI is a fast evolving technology, the proposal has a future-proof approach, allowing rules to adapt to technological change. AI applications should remain trustworthy even after they have been placed on the market. This requires ongoing quality and risk management by providers.
+
+Next steps:
+Following the Commission’s proposal in April 2021, the regulation could enter into force late 2022/early 2023 in a transitional period. In this period, standards would be mandated and developed, and the governance structures set up would be operational. The second half of 2024 is the earliest time the regulation could become applicable to operators with the standards ready and the first conformity assessments carried out.

@@ -1,0 +1,619 @@
+Public Disclosure Authorized
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+GOVERNANCE
+
+E Q U I TA B L E G R O W T H , F I N A N C E & I N S T I T U T I O N S N OT E S
+
+Artificial Intelligence
+in the Public Sector
+Summary Note
+
+Supported by the GovTech Global Partnership - www.worldbank.org/govtech
+
+Republic of Korea
+
+Why is AI important?
+Disruptive technologies like artificial intelligence (AI) have the potential to
+transform governments. AI can be used as a tool that can deliver a personalized
+service delivery experience, improve efficiency of back-end processes,
+strengthen policy compliance and aid in the identification of fraud. Artificial
+Intelligence can be defined as the programming of software systems, often
+using algorithms, to carry out some tasks that have in the past usually required
+human intelligence; tasks that involved human vision, speech, language,
+knowledge, and search. If used correctly and used together with human
+management and decision-making, governments can also use AI to address
+development challenges. As government’s confront the economic and health
+challenges arising from COVID 19, the impact on government’s fiscal stress
+and mobility limitations on citizens and civil servants are proving to be drivers
+for governments to find more technologically-enabled solutions to improve or
+continue services and to do so without increasing the costs, and to find ways to
+cut costs and corruption. This note examines the opportunities and challenges
+of deploying AI in government. A common pattern of government’s AI use
+cases includes for: citizen engagement, compliance and risk management,
+fraud and anti-corruption, business process automation, service delivery,
+asset management and analytics for decision-making and policy design. With
+careful execution, AI programs can help a government to deliver services faster
+and more tailored to the needs of beneficiaries and citizens and the public
+administration charged with delivering them; but several risks also arise. These
+include managing inherent biases in data and algorithms that exacerbate or
+create problems.
+
+Definitions – What is AI?
+• AI: Artificial Intelligence can be
+defined as the ability of the software
+systems to carry out tasks that
+usually require human intelligence:
+vision, speech, language,
+knowledge, and search.
+• ML: Machine Learning is the ability
+of the computer algorithm to learn
+from data and improve automatically.
+• NLP: Neuro-linguistic programming
+is the ability of an AI algorithm to
+read a text, convert speech into text,
+or vice versa.
+• Data Mining: The ability of the AI
+algorithm to examine large amounts
+of raw data to determine patterns.
+• ANN: Artificial Neural Networks
+are AI algorithms that recognize
+relationships between different data
+sets similar to how the human brain
+analyzes such information.
+
+Many governments view AI as a strategic resource to enhance a countries’
+competitiveness and to boost economic growth. AI can potentially contribute
+$13 trillion to the global economy by 2030, according to a 2018 report by
+McKinsey & Company. At least 50 governments have developed or are in
+Importance of AI
+the process of developing an AI strategy. However, the pace of AI adoption is
+uneven, and most countries that the Bank is actively supporting to modernize
+• $13 trillion potential by 2030
+governments, are either not ready for AI adoption or at very early stages. There
+• 50 Governments are preparing
+is no country from the Africa or Latin America regions, for example, in the list of
+AI Strategies.
+the top 20 countries on the AI Readiness Index developed by Oxford Insights.
+Except for four economies, the Asia-Pacific region is also not well advanced in
+AI. Slower adoption of AI in client countries may have the potential to lead to
+further inequality between the rich and the poor nations. To ensure our clients are aware of the potential for AI to advance their
+development, this note highlights opportunities and risks that need to be managed, which may be of interest to those clients
+seeking to explore AI in their modernization strategies.
+
+2
+
+>>>
+
+ARTIFICIAL INTELLIGENCE IN THE PUBLIC SECTOR
+
+What are the main challenges?
+In most of the World Bank’s client countries, a lack of awareness of the potential of
+AI, inadequate foundational digital technologies, low availability or quality of data,
+and low access to digital skills, are the major barriers to AI adoption see Figure 1.
+As of today, the appropriate policy and legal environment for AI do not yet exist.
+Public administrations that lack digital processes, data collection capabilities,
+technical skills in the civil service and digital infrastructure are unlikely to be able
+to benefit from the application of AI in the short to medium term, and the policy
+and legal frameworks need to first be more developed.
+That said, despite the digital divide that exists across countries in terms of
+fulfilling the prerequisites for AI adoption, several use cases are now emerging
+in our client countries and several governments have started piloting AI to
+address their development challenges.
+
+> > >
+F I G U R E 1 - The Percentage of People with Advanced IT Skills 2014-2018
+
+0-5
+5-10
+10-15
+15-20
+Data not available
+
+Source: ITU, 2019
+
+3
+
+>>>
+
+ARTIFICIAL INTELLIGENCE IN THE PUBLIC SECTOR
+
+Main Challenges
+• Lack of leadership, awareness
+• Inadequate policies, legislation and
+incentives for AI
+• Insufficient digital data and other
+digital infrastructure
+• Lack of digital talent and skill
+
+As more decision making becomes automated through the use of machine learning and models we can expect this to change the
+demand for workers, with that increasing for high-skilled workers and decreasing for lower-skilled workers. The risk of job losses
+both in the public and private sectors will therefore need to be managed. Governments can promote the use of human-enhancing
+AI and manage the use of AI which replaces labor, and at the same time launch programs to skill-up the public sector workforce
+and introduce policies that manage this transition. The McKinsey Global Institute has estimated that in the public and private
+sectors combined, as much as 30 percent of today’s jobs will be replaced by AI and automation by 2030, and up to 375 million
+workers worldwide could be affected by emerging technologies.
+The legislative framework for data protection and privacy is key to the effective use of AI and are widely enacted. However,
+policies that would allow interoperability and accessibility to government-held data, and institute governance on the use and reuse
+of that data using machine learning and AI in particular to minimize bias and unfairness, are mostly not in place in most
+developing countries.
+Where countries have begun working on implementing AI projects, threats to the effectiveness of AI solutions include the quality of
+the data which might lead to poor performance (can you insert what it means in this context) and inherent bias, poor cybersecurity,
+excessive government control, and lack of personal privacy. All these need to be carefully assessed and mitigation actions planned
+and implemented. As an initial step there needs to be a greater investment in digital skills, so that the government can formulate
+the appropriate policies and risk management strategies which are context specific and not just adopted from other country
+contexts. The shift in the public sector employment needs to more high-skilled workers will take place gradually over the long
+term, but it is a key consideration today because building digital skills in the public sector and overcoming skills shortages more
+generally, takes a long time.
+Having in place a policy for the ethical use of AI is fundamental to managing the adverse consequences of AI use in public policy.
+The ethical use of AI means that these systems should not harm humans. Rather, they are used to enhance overall human
+wellbeing. Since the software decision-making may result in bias, it is critical that there are policies in place for dealing with the
+governance and oversight of the use of AI solutions.
+
+4
+
+>>>
+
+ARTIFICIAL INTELLIGENCE IN THE PUBLIC SECTOR
+
+How can countries address these challenges?
+AI policy incorporating legislative foundations, institutional arrangements and a
+governance framework for the use of AI could provide the necessary enabling
+environment. This could be part of a broader Digital Transformation Policy or a
+stand-alone framework.
+A central innovation hub for AI in government could help pool scarce human
+and financial resources to support the initiatives of line ministries and start to
+develop a whole-of-government approach. In the use cases examined here,
+most governments have already set-up the main hub for AI issues that serves
+as a central authority over AI projects being delivered by line agencies.
+The AI hub’s role could also be to connect industry expertise to the government
+departments and line agencies, to promote research, and build alliances with
+academic institutions and the private sector.
+
+Measures to Address Challenges
+• Issue and make fully transparent
+the legal framework, AI policy,
+ethical principles and operating
+framework.
+• Establish special AI/Innovation Hub
+or government unit as a center of
+excellence.
+• Develop whole-of-government,
+data fabric AI architecture.
+• Ensure human oversight to
+manage risks and safeguard
+against machine-invoked bias.
+
+To manage the risks and maximize the opportunities of adopting AI in the public
+sector, a government needs to prepare an AI policy and governance frameworks
+to help guide the ethical use of AI and to provide clarity about AI principles and
+priorities, such a framework may also be grounded in legislation so that the rights of data providers are clear and protected, and the
+ethical use of data for algorithms and machine determined processes are specified in law and regulations. Privacy legislation and
+regulatory frameworks for example provide a solid legal basis for mitigating privacy risks. To promote human-centered use of AI,
+governments should at least adopt principles regarding protection of personal data and rights to privacy, agency accountability for
+the use of data and programming that influences decision making, roles and responsibilities concerning cybersecurity, openness and
+transparency when it comes to what and how AI is being used and explainability of the results, fairness and non-discrimination in the
+use of AI, the extent of human control of technology, and the foundational human values.
+Human oversight should provide an additional safeguard against machine-invoked bias. Introducing human oversight can help detect
+skewed results from influences such as bias in data selection, data manipulation, forgery, and intentional programmed bias. Governance
+frameworks need to be established that promote transparency with respect to the use of AL, algorithms and data, self-assessment, peer
+review. Public inclusion in the governance framework is critical to strengthen compliance with the policy principles and legal frameworks.
+The governance, policy and legal details should be based on the context and existing mechanisms of transparency, citizen engagement,
+and accountability.
+Implementing agencies are typically responsible for developing the risk mitigation frameworks. Many governments have
+already developed model AI risk mitigation frameworks, which provide several international examples which could be tailored to
+the local context.
+
+5
+
+>>>
+
+ARTIFICIAL INTELLIGENCE IN THE PUBLIC SECTOR
+
+How are countries adopting AI?
+Regardless of the stage of development, countries can develop AI initiatives
+based on the most immediate needs. However, it is recommended that a wholeof-government approach to AI should be part of early planning for government’s
+digital initiatives. Such a whole-of-government approach to building and maintaining infrastructure, standardization of systems and data, governance frameworks, and coordinating execution, monitoring and learning lessons is more
+likely to lead to interoperable, successful and sustainable AI solutions.
+Most governments are embracing a design thinking framework and agile methodology for AI implementations. This includes a staged iterative approach to implementation—ideation (problem definition), conceptualization, proposal, procurement, prototype, testing, deployment, and scaling-up. A feedback learning
+loop is built into the design at every stage. Three key concepts that constitute
+the building blocks for adopting AI are: (i) a whole-of-government architecture;
+(ii) interoperability; and (iii) data standardization.
+
+How are Countries Adopting AI?
+• Deploying a whole-of-government
+approach
+• Building interoperability in the
+approach
+• Adopting agile methodologies
+and iterative approaches to
+procurement, and implementation
+• Identifying the problem and starting
+with proof-of-concept solutions.
+
+A whole-of-government, data fabric AI architecture is often central to the technology vision of the government and forms the building blocks for the future use of AI. Adopting a government-wide data fabric architecture can help governments leverage cuttingedge technologies to address problems created by data silos in a cost-efficient manner. Today, most World Bank client countries
+are managing stand-alone legacy systems, with data that are not used or accessible elsewhere in government systems, often
+referred to as “data silos.” These systems are not interoperable or have problems with interoperability. The government’s AI approach needs to start with addressing these issues of interoperability and security and to ensure continuity of architecture among
+AI systems designed for use in a whole-of-government architecture. By understanding the components and building blocks of AI
+systems at a high level, common knowledge becomes a tool for exploring relevant entry points with technologists to guide the
+broad direction of possible solutions.
+Proof-of-concept and pilot AI projects could be the starting point for exploring AI opportunities. Many governments have deployed
+AI to solve problems. Hackathons promote emerging ideas from startups and have been initiated in Austria, Estonia, India, Pakistan, Poland, and the United States.
+
+6
+
+>>>
+
+ARTIFICIAL INTELLIGENCE IN THE PUBLIC SECTOR
+
+What Ethical Principles and
+Governance Frameworks exist?
+Most advanced digital governments have issued governance frameworks,
+including ethical principles for the use of AI. Governance models incorporate three aspects: ethical principles, the role of a central agency, and
+operational framework.
+National governments, including Australia, Canada, China, Japan, Singapore,
+United Arab Emirates, and the United States as well as international organizations including the European Commission, the Institute of Electrical and Electronics Engineers, International Organization for Standardization, United Nations, and World Economic Forum, are actively proposing governance models
+for AI that emphasize common principles:
+
+Ethical Principles
+•
+•
+•
+•
+•
+•
+•
+•
+
+Privacy and data protection
+Accountability
+Safety and security
+Transparency and explainability
+Fairness
+Human control of technology
+Professional responsibility
+Promotion of human values
+
+•
+
+PRIVACY AND DATA PROTECTION. AI solutions should respect an individual’s right to privacy and civil liberties. Individuals should have control over
+their data, with their consent required for repurposing, redistributing or erasure.
+
+•
+
+ACCOUNTABILITY. Mechanisms must ensure accountable behavior during the life cycle of AI design and implementation. An
+agency or body should be responsible for monitoring accountability.
+
+•
+
+SAFETY AND SECURITY. Cybersecurity is critical. Leaders must ensure the well-being of society at large and private individual
+humans.
+
+•
+
+TRANSPARENCY AND EXPLAINABILITY. The algorithm, business case, data collection, design, and policy information must
+be transparent to stakeholders and those impacted. Individuals should get notifications when interacting with AI or when AI
+decides for him or her.
+
+•
+
+FAIRNESS. AI solutions should minimize bias and identify and manage risk. Inclusiveness should be ensured in design and
+impact.
+
+•
+
+HUMAN CONTROL OF TECHNOLOGY. The AI should be under human control. People should review automated decisions and
+have the right to opt-out of automated decisions.
+
+•
+
+PROFESSIONAL RESPONSIBILITY. Multistakeholder collaboration, accuracy, and scientific integrity of the solution should be
+ensured.
+
+•
+
+PROMOTION OF HUMAN VALUES. AI should be human-centric. It should promote human values and benefit society.
+
+7
+
+>>>
+
+ARTIFICIAL INTELLIGENCE IN THE PUBLIC SECTOR
+
+Some governance models and guidelines emphasize common program and project management practices like cost-benefit analysis, legal and regulatory compliance, risk management, flexibility, and the use of an agile approach. Under an operating framework, key implementation steps developed by the World Bank are as follows:
+
+> > >
+F I G U R E 2 - Key Implementation Steps
+
+Test
+
+Develop
+and Deploy
+
+Prototype
+Propose
+Conceptualize
+Ideate
+
+1.
+
+IDEATE:
+The problem statement – agnostic to technology – is produced in detail.
+
+2.
+
+CONCEPTUALIZE:
+The project manager coordinates discussions between small and medium enterprises and Al experts.
+
+3.
+
+PROPOSE:
+A detailed proposal is prepared for management approval. It contains the problem statement, potential solution
+options, and a checklist with a brief description of each to ensure alignment with legal, policy, and ethics risks,
+mitigation action, and expected results. A separate section on data sources is critical.
+
+4.
+
+DEVELOP A PROTOTYPE:
+The project manager ensures technology teams work together with Small and Medium Enterprises (SMEs) seam
+lessly to develop a proof of concept. A prototype visualizes the solution with or without code.
+
+5.
+
+TEST:
+SMEs and technical teams test the system.
+
+6.
+
+DEVELOP AND DEPLOY:
+The system is developed full scale, tested again, and deployed for operational use. It is also integrated with
+the environment.
+
+8
+
+>>>
+
+ARTIFICIAL INTELLIGENCE IN THE PUBLIC SECTOR
+
+What Ethical Principles and
+Governance Frameworks exist?
+The typology of AI use cases in the public sector includes:
+•
+
+CITIZEN ENGAGEMENT. The introduction of AI tools such as chatbots that
+answer citizen queries. For example, how can I apply for social welfare
+benefits? Additionally, aggregation and pattern determination can be used
+to collect feedback from millions of citizens, for example on a draft policy or
+legislation published online for public consultations.
+
+•
+
+CITIZEN ENGAGEMENT: AI was able to analyze citizen sentiments from 21
+million comments received on the US Government’s policy on NetNeutrality shared online;
+
+•
+
+COMPLIANCE AND RISK MANAGEMENT: In Armenia, AI helped the revenue agency increase its revenue by 6 times. The World Bank supported
+the underlying technologies for this project. For more details, please watch
+the World Bank hosted event.
+
+•
+
+FRAUD DETECTION, PREVENTION, AND INVESTIGATION: In Brazil, AI detected 500 firms owned by the civil servants responsible for supervising
+these firms’ contracts. The World Bank funded this project through the Disruptive Technologies for Development program.
+
+•
+
+ROBOTIC PROCESS AUTOMATION (RPA): In UK, RPA was able to process
+the backlog of 30,000 pension claims in 2 weeks, a task estimated to take
+thousands of hours of manual work requiring many months
+
+•
+
+PERSONALIZED SERVICE DELIVERY: AI is helping countries deliver personalized services in countries like Estonia, Denmark, UK, USA, Singapore, Korea, Japan. In UK, AI helped the government classify and streamline 2 million web pages for a more citizen-centric service delivery.
+
+•
+
+ANALYTICS AND DECISION-MAKING: AI is routinely used by government
+regulators and financial institutions to track illicit financial flows (IFF), estimated at $80 billion in Africa alone (UNECA 2017)
+
+•
+
+COMPLIANCE AND RISK MANAGEMENT. AI systems are used to crossreference and reconcile terabytes of data from multiple sources to create alerts for noncompliance. For example, tax authorities can use AI to
+track tax filers who use duplicate profiles to avoid taxation, and social safety program may use AI to detect whether beneficiaries comply with eligibility criteria.
+
+•
+
+FRAUD DETECTION, PREVENTION, AND INVESTIGATION.
+
+9
+
+>>>
+
+ARTIFICIAL INTELLIGENCE IN THE PUBLIC SECTOR
+
+AI Use in the Public Sector
+• Citizen engagement: AI was able
+to analyze citizen sentiments from
+21 million comments received on
+the US Government’s policy on
+NetNeutrality shared online;
+• Compliance and risk management:
+In Armenia, AI helped the revenue
+agency increase its revenue by 6
+times. The World Bank supported
+the underlying technologies for this
+project. For more details, please
+watch the World Bank hosted event.
+• Fraud detection, prevention, and
+investigation: In Brazil, AI detected
+500 firms owned by the civil
+servants responsible for supervising
+these firms’ contracts. The World
+Bank funded this project through
+the Disruptive Technologies for
+Development program.
+• Robotic process automation (RPA):
+In UK, RPA was able to process the
+backlog of 30,000 pension claims
+in 2 weeks, a task estimated to take
+thousands of hours of manual work
+requiring many months
+• Personalized service delivery:
+AI is helping countries deliver
+personalized services in countries
+like Estonia, Denmark, UK, USA,
+Singapore, Korea, Japan. In UK, AI
+helped the government classify and
+streamline 2 million web pages for a
+more citizen-centric service delivery.
+• Analytics and decision-making: AI
+is routinely used by government
+regulators and financial institutions
+to track illicit financial flows (IFF),
+estimated at $80 billion in Africa
+alone (UNECA 2017)
+
+Closely related to compliance, AI can also be used to detect and prevent fraud, and can be used for example by procurement
+agencies, anti-corruption units, or audit agencies.
+•
+
+ROBOTIC PROCESS AUTOMATION (RPA). AI automation tools can scan websites to get currency exchange rates and present
+information. The RPA tools can also log-in the IFMIS systems to post invoices automatically against the relevant purchase
+orders, run a budget execution report or any report for the open data portal at pre-defined intervals and post it on the portal,
+scan multiple bids, extract item costs and prepare not only a bid evaluation matrix, but also search on google for price checks
+and issue red alerts on items whose prices are quoted higher. This has a huge potential for efficiency savings and compliance
+monitoring.
+
+•
+
+PERSONALIZED SERVICE DELIVERY. Based on a profile, AI can be used to send automatic alerts such as when to renew a
+driving license, or have a health check-up, register your child for school.
+
+•
+
+ANALYTICS AND DECISION-MAKING. AI or machine learning helps aggregate and cross-reference data such as household
+survey data with information on school enrollment, address changes, satellite images of floods, mosquito swamps, and pandemics to produce policy insights and identify areas needing greatest attention for targeted policy actions.
+
+It must be emphasized that humans play a critical role in AI adoption, and the appropriate role of humans needs to be considered
+in any use case.
+
+10
+
+>>>
+
+ARTIFICIAL INTELLIGENCE IN THE PUBLIC SECTOR
+
+What has the World Bank done to support
+its client countries?
+The World Bank launched the GovTech Global Partnership in 2019 to support the
+modernization of client governments through the use of technology. GovTech is
+a whole-of-government approach to public sector modernization that promotes
+simple, accessible, and efficient government. It aims to promote the use of technology to transform the public sector, improve service delivery to citizens and
+businesses, and increase efficiency, transparency and accountability. To better
+understand the role AI can play in public sector transformation, the World Bank
+produced a series of papers in partnership with the Swiss State Secretariat for
+Economic Affairs. One of these is Artificial Intelligence in the Public Sector, which
+aims to distill the existing knowledge on the use of AI in the public sector and to
+summarize the lessons learned from early adopters. The GovTech team also
+launched a Call-for-Proposal (C4P) for the Bank’s task teams to submit GovTech proposals, including AI, to access funds for supporting our clients. In addition, GovTech team is proving expertise to the task teams for brainstorming,
+knowledge seminars, and project-level cross-support. World Bank’s Information
+Technology Services (ITS) Vice Presidency has established an Innovation Lab
+with access to technical expertise and sandbox/experimentation computing environment, to support task teams for proof-of-ideas and proof-of-concepts using
+design thinking. Also, GovTech team as well as ITS has access to a network of
+industry expertise for more detailed technical deep dives.
+
+11
+
+>>>
+
+ARTIFICIAL INTELLIGENCE IN THE PUBLIC SECTOR
+
+World Bank Support
+• Compiled international experience
+through a report on ‘AI in Public
+Sector’
+• Financial Support – launched
+a call-for-proposals to provided
+access to funds to the task teams
+for GovTech initiatives, including AI
+• GovTech team accessible to
+task teams for brainstorming and
+support
+• Project-level funding to pilot
+• Innovation Lab under ITS offers
+guidance, sandbox
+• Industry expertise network for deep
+dives
+
+What can policymakers do?
+•
+
+Governments can adopt policies and governance frameworks that promote
+human-centric AI while maximizing opportunities.
+Policymaker Actions
+» Develop AI policy anchored in ethical principles and tailored to specific
+settings to provide the authorizing environment. Governance and op• Provide leadership based on global
+erational framework based on ethical principles are essential to speciguiding principles
+fy broad guidelines and institutional arrangements.
+• Adopt policies and governance
+» Establish an innovation hub to pool talent, establish partnerships with
+frameworks to enable humanacademia and the private sector, promote research, and facilitate excentric AI solutions
+perimentation by line ministries. Innovative procurement approaches
+• Invest in human capital, digital
+are then adopted to leverage private sector skills with agility to allow
+infrastructure, training in digital
+iterative, problem-driven approaches to requests-for-proposals.
+skills, and research
+» Promote transparency and accountability through inclusion and multi• Identify and manage risks at all
+stakeholder engagement at every step of the AI policy design and
+stages of implementation
+implementation. Implementation teams should also manage the risks
+associated with AI, such as bias, security, and unintended consequences.
+» Manage adverse ethical implications of AI through broader economic policies including those that aim to develop human
+capital, ensure fair competition, and incentivize human-enhancing AI solutions, among others.
+» Promote training in digital skills, and broader education in science, technology, engineering, and mathematics (STEM) to
+support people as they adjust to the shifting nature of work in the coming decades. Unskilled people and disadvantaged
+groups should be given special attention.
+» Prioritize creation of a regulatory framework to fight online propaganda, misinformation, libel, and cybercrimes. Also,
+governments could establish agency mandates to monitor policy compliance and track, prevent, and investigate disinformation to protect their citizens.
+» Strengthen privacy, data protection, and civil liberties and monitor compliance, which is typically weak in most settings.
+Promoting full disclosure of information being tracked by AI and robots through transparency frameworks should also be
+strengthened.
+
+•
+
+Investments should be made in human capital and digital infrastructure. AI research, digital skills, AI entrepreneurship, and
+foundational digital technologies could be prioritized.
+» Channel investments to fund research, education, and digital skills development programs in general and in AI in particular. They could include scholarships, apprenticeships, STEM education, and AI-related disciplines such as data science,
+with special emphasis given to disadvantaged groups such as women, minorities, and those at risk of being left behind.
+» Promote innovative entrepreneurship. AI development could be incentivized through an innovation fund, loan programs
+through state development banks, small business loan programs, and income-contingent loans for students or others.
+» Staff the innovation hub with the best talent on market-based salaries. These skills are in high demand and could easily
+drain overseas if not attracted and retained with appropriate incentives.
+» Consider and encourage investment in data fabric architecture, including interoperability. This will overcome silos, and
+leverage data assets for decision-making, compliance monitoring, and analytics.
+
+•
+
+Identify and manage risks rather than avoiding them. Good algorithm impact assessment framework models exist, which can
+be tailored to suit a country’s context.
+
+Governments and world leaders are instrumental in guiding the transition to automation and AI. They can provide leadership to influence the trajectory of AI adoption among citizens at national and international levels. This will help avoid adverse consequences
+and reap productivity gains. National governments could choose global guiding principles that will inevitably shape the acceptance
+or rejection of AI. Since AI will have a profound influence on service delivery, citizen engagement, and core operations, it is imperative to formulate a cohesive governance model that supports the process of ethical implementation.
+12
+
+>>>
+
+ARTIFICIAL INTELLIGENCE IN THE PUBLIC SECTOR
+
+Supported by the GovTech Global Partnership
+
+Republic of Korea
+
+

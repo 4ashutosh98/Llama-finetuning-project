@@ -1,0 +1,3 @@
+Artificial Intelligence
+
+Technology, machines, and software that have the ability to be self-directed and learn from their actions are generally known as artificial intelligence. In the early days of computing, RAND researchers examined and tried to develop such technology and apply it for use in political and military simulations.

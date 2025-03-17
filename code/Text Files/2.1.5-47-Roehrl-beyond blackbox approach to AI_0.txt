@@ -1,0 +1,228 @@
+    Science-Policy Brief for the Multistakeholder Forum on Science, Technology and Innovation for the SDGs, May 2022
+
+
+     Beyond a black-box approach to artificial intelligence policy – a simple guide to
+                      definitions, functions and technology types
+                                                  Richard A Roehrl (DESA)1
+
+
+A working definition                                                 (e.g., face recognition), decision-making (e.g., medical
+                                                                     diagnosis systems), prediction (e.g., weather forecast),
+There are no universally agreed definitions for artificial           automatic knowledge extraction and pattern recognition
+intelligence, nor for digital automation. In particular,             from data (e.g., discovery of fake news circles in social
+defining intelligence is extremely difficult, due in part            media), interactive communication (e.g., social robots or
+because of the remaining scientific unknowns regarding               chat bots), and logical reasoning (e.g., theory
+human intelligence. On the other hand, it is the kind of             development from premises).” ii I propose adopting this
+thing that “we know when we see it”. For example, it is              list as a working basis to discuss SDG impacts. However,
+notoriously difficult to measure human intelligence, yet             I am cognizant of the fact that such a “black-box
+it is pretty obvious to us when we meet a highly                     approach” to AI which does not specify the underlying
+intelligent person.                                                  techniques and technologies is not sufficient to fully
+As a working definition, I suggest following eminent                 understand all SDG impacts. The details of AI concepts,
+cognitive scientist Margaret Boden: “Artificial                      techniques and technologies matter greatly, especially
+Intelligence (AI) seeks to make computers do the sorts of            with regard to sustainability and with regard to future
+things that minds can do. Some of these (e.g., reasoning,            directions of AI and its physical, economic and socio-
+reading, understanding speech) are normally described                political limitations.
+as ‘intelligent’. Others (e.g., vision, hearing, moving              In fact, AI’s impacts depend greatly on the type of AI
+around natural obstacles) aren’t. But all involve                    algorithm and also on its physical implementation with
+psychological skills – such as perception, association,              a myriad of interdependent information and
+prediction, planning, motor control – that enable humans             communication technologies (ICT) and infrastructures.
+and animals to attain their goals.”i                                 For example, deep neural networks (DNN) with
+In that sense, AI is broader than what we typically                  supervised learning – which has become by far the most
+consider human intelligence. It includes a wide range of             widely adopted AI technology in the 2010s – requires
+information-processing capacities. In fact, AI could                 enormous amounts of data and large amount of energy
+include aspects of intelligence that are far outside the             for data handling and computation. Hence, much talk
+reach of humans. And while AI requires physical                      about the “data economy” these days. In terms of
+machines, especially computers, it is really                         physical implementation, it is important to note that AI
+informationally powerful virtual machines (e.g.,                     used on a mobile phone via a 5G network differs greatly
+software) that make the machine intelligent. Hence, AI               from AI run on a supercomputer in a research lab. This
+comprises a very wide range of approaches, techniques                is also a reason why it is difficult to differentiate AI
+and technologies.                                                    impacts from those of the underlying, necessary
+                                                                     infrastructure and related technologies. In particular,
+To understand AI’s current and future impacts on                     DNN requires “big data” applications, data centers and
+humanity’s global aspirations - such as the SDGs - the               cloud computing. Similarly, there is a continuum of
+functional    definition     above      which      specifies         process or system automation tasks – in factories run by
+psychological skills is useful. For example, this approach           robots to online digital automation of tasks - some of
+is used by a recent study published by Vinuesa et al. in             which are considered intelligent because they adapt to
+Nature which reports on a consensus-based expert                     changed situations, whereas others cannot adapt. For
+survey and found that AI might enable the                            these reasons, we include a discussion of digital
+accomplishment of 134 SDG targets, but also inhibit 59               automation and related infrastructures in the report
+targets. As AI they consider “any software technology                here, even though to the extent possible we will aim to
+with at least one of the following capabilities:                     draw a distinction with AI proper.
+perception—including audio, visual, textual, and tactile
+
+
+
+1Note: The views expressed in this brief are those of the author and do not necessarily reflect those of the United Nations or its
+senior management.
+   Science-Policy Brief for the Multistakeholder Forum on Science, Technology and Innovation for the SDGs, May 2022
+
+                                                             Table 1. Basic AI functions
+
+                                                                    Basic AI functions
+                         It can “see”      It can “hear”             It can “read”         It can move by     It can “reason”
+                         and identify                                                      itself, based on     and looks for
+        What it can do
+
+                                                                  what         text
+                         what it sees.                                                     what it sees and      patterns in
+                                                                you type     passages
+                                                                                           hears, and does    massive amounts
+                                             and         and responds          and           not follow a     of data, and uses
+                                          transcribe    in a useful and    analyzes for     programmed         them to make
+                                         what you say    sensible way.       patterns            path.            decisions
+                         Computer
+        technique
+
+
+
+
+                          vision &         Speech          Natural language processing
+                                                                                             Smart robot      Machine learning
+            AI
+
+
+
+
+                           image         recognition                  (NLP)
+                         processing
+                                          Source: adapted from a flowchart published in Hao (2018b). iii
+
+
+Types of AI                                                                    strong social systems and societies. And finally, self-
+                                                                               awareness machines can form representations about
+Researchers have long distinguished “strong AI” from                           themselves, which will require building machines with
+“weak AI”. Weak or narrow AI was developed for a                               consciousness.iv
+specific, well-defined task, and it is the dominant and
+the only existing type of AI today. One example is                             AI in the broader sense simply means a machine that is
+Apple’s Siri personal assistant. On the other hand,                            intelligent in the sense that it can solve a specific
+strong or general AI aims to be a system with general                          problem. Based on the types of algorithms and ways in
+cognitive capabilities, in order to solve any new task,                        which information is being processed in virtual
+similar to our human, general purpose brains. General                          machines, five major AI types are distinguished: (a)
+AI remains under development, and it is highly                                 Good Old-Fashioned AI (GOFAI), also known as classical
+uncertain when it will be achieved. It could be a matter                       or symbolic AI; (b) artificial neural networks or
+of months, years, or decades. For obvious reasons, it                          connectionism; (c) evolutionary programming; (d)
+would quickly lead to superintelligence and an                                 cellular automata; and (e) dynamical systems. While
+intelligence explosion – with a whole host of issues.                          there have long been research groups that focus on one
+Some leading AI researchers, (e.g.., Stuart Russel) and                        or the other of these conceptual approaches, many
+philosophers (e.g., Nick Bostrom) have highlighted the                         modern virtual machines are hybrids (Figure 1).
+issues and proposed solutions requiring urgent action.                         Neural networks are great for modelling brains, for
+Superintelligence is an extremely important issue, but                         pattern recognition and learning. GOFAI - nowadays
+our report will focus primarily on narrow AI, in view of                       often combined with statistical methods - is great for
+its practical use and certain immediate impacts on the                         learning, planning and reasoning tasks. The other three
+world’s SDG aspirations.                                                       methods are popular in biology and the field of artificial
+Arend Hintze further distinguishes four types of AI.                           life (A-life). In particular, evolutionary programming is
+Reactive machines, such as IBM’s DeepBlue chess                                used to analyze biological evolution and brain
+programme or Google’s AlphaGo, are purely reactive.                            development, cellular automata and dynamical systems
+They do not form memories nor base current decisions                           model living organisms – both natural and artificial.
+on past experience. Limited memory machines look into                          Various software and hardware implementations exist
+the past and form transient memories. This is, for                             in these five areas. And SDG impacts depend on all these
+example, used in autonomous vehicles which record                              specificities. So, how do these and other terms relate to
+temporary timelines of other cars’ speed and direction.                        each other? In Figure 1 we made an attempt to provide
+This information is transient, in contrast to human                            an overview.
+drivers who accumulate driving experience over many
+years. The following two types do not yet exist. Theory
+of mind machines form representations of other people,
+agents and institutions. They understand that that they
+can have thoughts and emotions that affect their own
+behavior. Theory of mind is what allowed us forming
+    Science-Policy Brief for the Multistakeholder Forum on Science, Technology and Innovation for the SDGs, May 2022
+
+Figure 1. From artificial intelligence to deep neural networks   types of hybrids to emerge as the new paradigms for the
+                                                                 2020s.
+                                                                 Some of the other popular techniques employed within
+                                                                 and outside of machine learning are Bayesian networks,
+                                                                 support vector machines, and evolutionary algorithms,
+                                                                 all of which take different approaches to finding
+                                                                 patterns in data. For example, evolutionary
+                                                                 programming adapts Darwinian principles to
+                                                                 automated problem solving. The structure of the
+                                                                 program to be optimized is fixed, while its numerical
+                                                                 parameters are allowed to evolve. They fail in the sense
+                                                                 of learning from experience and thus are not necessarily
+                                                                 considered by all experts as part of machine learning.
+Source: authors. Note: The size of the ellipse do not imply      Machine (and deep) learning comes in three flavors:
+application importance and range of techniques.                  supervised, unsupervised, and reinforcement learning.
+                                                                 Today, supervised learning is the most prevalent
+One important subcategory of AI is machine learning              methods in which data are labeled to tell the machine
+(ML). It is a particular AI that learns by itself – the more     exactly what patterns it should look for (e.g., when you
+data it can draw on the better it gets. Machine learning         click on an Amazon product). In unsupervised learning,
+is therefore defined as “…algorithms [that] use statistics       the data has no labels and the machine just looks for
+to find patterns in massive amounts of data.” 2 Data in this     whatever patterns it can find (e.g., used in
+context means anything that can be stored digitally, e.g.,       cybersecurity). Reinforcement learning tries out lots of
+numbers, words, images, clicks, etc. Today it is being used      different things and is rewarded or penalized depending
+in search engines, recommendation systems (e.g.,                 (similar to dog training) on whether its behaviors help
+youtube, spotify), social media feeds (e.g., facebook,           or hinder it from reaching its clear objective (e.g.,
+twitter), and voice assistants (e.g., Siri, Alexa).              Google’s AlphaGo). In addition, hybrid learning methods
+                                                                 have emerged, including semi-supervised, self-
+An expert system is a type of classical AI that does not         supervised, and multi-instance learning.
+learn by itself and thus is not part of machine learning.
+Instead it typically operates on “if this, then do that”-        Figure 2. Share of AI techniques in arxiv research papers over
+statements. It is for example used in medical diagnosis                                       time
+and treatment. However, symbolic AI (GOFAI) is often
+combined with other types of AI. For example, when
+combined with Bayesian Networks, it leads to
+probabilistic programming language which is used in
+powerful AI applications (e.g., used by CTBTO to detect
+nuclear weapons tests).
+Deep learning is a machine learning technique that
+“…gives machines an enhanced ability to find—and
+amplify—even the smallest patterns.”2 The most
+successful version of it is a deep neural network (DNN).
+It is deep because “…it has many, many layers of simple
+computational nodes that work together to munch
+through data and deliver a final result in the form of the
+prediction.”2 Neural networks were inspired by the               Source: Hao (2019).Error! Bookmark not defined.
+structure and functioning of human and animal brains.
+However, as we mentioned above, DNN is very data and             A leading indicator for AI types to be used in
+energy hungry. To overcome this limiting factor,                 applications in the coming 5 to 10 years are the number
+applications have emerged combining with other                   of recently published academic AI papers in any of these
+methods, especially symbolic AI, and some expect new
+
+2Hao, K. (2018). What is machine learning? MIT Technology        https://www.technologyreview.com/2018/11/17/103781/what-
+Review,                                                          is-machine-learning-we-drew-you-another-flowchart/
+     Science-Policy Brief for the Multistakeholder Forum on Science, Technology and Innovation for the SDGs, May 2022
+
+categories. For the case of influential cross-journal                           In the 2020s, computing and data handling capacities
+platform arxiv,                                                                 reached a critical level that made “deep neural
+                                                                                networks” possible that can now surpass human
+Figure 2 shows the relevant publication activity from
+                                                                                cognitive capabilities in narrow, specific tasks, such as
+2008 to 2018. It shows that the number of AI papers has
+                                                                                facial recognition, medical radiological diagnosis, and
+rapidly increased, especially since 2014; that all kinds of
+                                                                                many others. Narrow AI has become ubiquitous in
+methods are being explored in parallel and hybrid
+                                                                                many countries – unbeknownst to many. At the same
+forms; and the most popular research area is neural
+                                                                                time, billions remain excluded from its benefits.
+networks. This implies that at least for the next years,
+                                                                                Performance and capabilities grow at exponential rates,
+we can expect lots of DNN applications which will be
+                                                                                leading to new applications, new development models,
+combined with other methods as need be. This will have
+                                                                                and also sustainability concerns. This has important
+important implications on our SDG aspirations until
+                                                                                implications for humanity’s aspirations expressed in the
+2030, as will be detailed in this report.
+                                                                                SDGs.
+Conclusion                                                                      Finally, it is impossible to adequately understand the
+Artificial Intelligence (AI) seeks to make computers do                         full implications of AI without exploring the specificities
+the sorts of things that minds can do, and various                              of the AI technology clusters concerned. It is hoped that
+functional or descriptive definitions exist. It is                              this primer provides an easily accessible guide to these
+important to note that AI has a long history, dating back                       specificities. Indeed, a black-box approach to “AI” is only
+to the 19th century, with many techniques dating to the                         of limited usefulness to most policy questions.
+1950s. In practice, various clusters of AI types are used
+– also in hybrid formats.
+
+
+
+i Boden, M. (2018). Artificial intelligence. Oxford University Press, ISBN 978-0-19-960291.
+ii Vinuesa, R., Azizpour, H., Leite, I. et al. The role of artificial intelligence in achieving the Sustainable Development Goals. Nat Commun 11, 233
+(2020). https://doi.org/10.1038/s41467-019-14108-y
+iii Hao, K. (2018b). What is AI? We drew you a flowchart to work it out, MIT Technology Review, 2018,
+
+https://www.technologyreview.com/2018/11/10/139137/is-this-ai-we-drew-you-a-flowchart-to-work-it-out/
+iv Hintze, A. (2016). Understanding the four types of AI, from reactive robots to self-aware beings. https://theconversation.com/understanding-
+
+the-four-types-of-ai-from-reactive-robots-to-self-aware-beings-67616
+

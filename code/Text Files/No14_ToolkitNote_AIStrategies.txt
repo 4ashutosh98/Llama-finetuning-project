@@ -1,0 +1,1357 @@
+|1
+
+An overview of national AI strategies and policies
+
+AN OVERVIEW OF NATIONAL AI STRATEGIES AND POLICIES © OECD 2021
+
+2|
+This Toolkit note was written by Laura Galindo, Karine Perset and Francesca
+Sheeka. It was reviewed by the Committee on Digital Economy Policy (CDEP),
+and it was declassified by the CDEP on 8 April 2021. The note was prepared for
+publication by the OECD Secretariat.
+This Toolkit note is a contribution to the OECD Going Digital project, which aims
+to provide policy makers with the tools they need to help their economies and
+societies thrive in an increasingly digital and data-driven world.
+For more information, visit www.oecd.org/going-digital.
+#GoingDigital
+
+Please cite this publication as:
+Galindo, L., K. Perset and F. Sheeka (2021), "An overview of national AI
+strategies and policies", Going Digital Toolkit Note, No. 14,
+https://goingdigital.oecd.org/data/notes/No14_ToolkitNote_AIStrategies.pdf.
+
+Note to Delegations:
+This document is also available on O.N.E. under the reference code:
+DSTI/CDEP(2020)21/FINAL.
+
+This document, as well as any data and map included herein, are without prejudice
+to the status of or sovereignty over any territory, to the delimitation of
+international frontiers and boundaries and to the name of any territory, city or area.
+© OECD 2021
+
+You can copy, download or print OECD content for your own use, and you can
+include excerpts from OECD publications, databases and multimedia products in
+your own documents, presentations, blogs, websites and teaching materials,
+provided that suitable acknowledgment of OECD as source and copyright owner is
+given. All requests for commercial use and translation rights should be submitted
+to: rights@oecd.org.
+
+AN OVERVIEW OF NATIONAL AI STRATEGIES AND POLICIES © OECD 2021
+
+|3
+
+Table of Contents
+
+An overview of national AI strategies and policies ................................................ 4
+AI policy design ............................................................................................................................... 6
+AI policy implementation ............................................................................................................. 8
+AI policy intelligence to monitor implementation .............................................................. 14
+International co-operation on AI .............................................................................................. 14
+Annex. A selection of national AI policies .............................................................................. 26
+References ...................................................................................................................................... 26
+
+Figures
+Figure 1. A selection of national AI governance approaches ................................................. 8
+Figure 2. National AI strategies and policies prioritise a number of sectors ................... 10
+
+Boxes
+Box 1. OECD AI Principles................................................................................................................. 5
+Box 2. Key considerations when implementing AI strategies and policies...................... 13
+
+AN OVERVIEW OF NATIONAL AI STRATEGIES AND POLICIES © OECD 2021
+
+4|
+
+An overview of national AI strategies and
+policies
+
+As artificial intelligence (AI) advances across economies and societies, policy
+makers and AI actors around the world seek to move from principles to practice.
+To harness the benefits of AI while mitigating the risks, governments are
+investing in AI R&D; leveraging AI in specific industries such as transportation and
+healthcare; building human capacity on AI; ensuring a fair labour market
+transformation; reviewing and adapting relevant policy and regulatory
+frameworks and developing standards; and co-operating internationally. This
+Going Digital Toolkit note provides an overview of the various AI policy
+initiatives undertaken by governments and analyses these initiatives throughout
+the AI policy cycle: 1) policy design; 2) policy implementation; 3) policy
+intelligence; and 4) approaches for international and multi-stakeholder cooperation on AI policy.
+
+AN OVERVIEW OF NATIONAL AI STRATEGIES AND POLICIES © OECD 2021
+
+|5
+Artificial intelligence (AI) already provides beneficial applications used every
+day by people worldwide. The fast-paced and far-reaching changes from AI
+offer dynamic opportunities for improving the economic and social sectors. AI
+can make businesses more productive, improve government efficiency, and
+relieve workers of mundane tasks. It can also help address many pressing global
+challenges, such as climate change and the lack of access to quality education
+and healthcare.
+Alongside its benefits, AI raises socio-economic and ethical considerations chief among them are questions of respect for human rights and democratic
+values, and the dangers of automating and amplifying biases. These concerns
+raise a number of challenges and opportunities. What does it mean to design
+transparent systems? How can AI systems’ designers and users be accountable
+and to whom? What new safety and security issues are presented with AI?
+AI is moving fast, and so must governments. National policies are needed to
+promote trustworthy AI systems, including those that encourage investment in
+responsible AI research and development. In addition to AI technology and
+computing capacity, AI leverages vast quantities of data. This increases the
+need for a digital environment that enables access to data, alongside strong
+privacy protection. AI‑enabling ecosystems can also support small and
+medium‑sized enterprises (SMEs) as they navigate the AI transition and ensure
+a competitive environment.
+The development of national policies and strategies focusing specifically on AI
+is a relatively new phenomenon. To track these initiatives, the OECD AI Policy
+Observatory (OECD.AI) comprises over 620 national AI policies from over 60
+countries and the European Union (EU). These resources provide a baseline to
+map countries’ AI policy initiatives according to the recommendations to
+governments contained in the OECD AI Principles (Box 1).
+Box 1. OECD AI Principles
+The OECD Principles on Artificial Intelligence promote AI that is innovative,
+trustworthy and respects human rights and democratic values. They were adopted
+in May 2019 by OECD member countries when they approved the OECD Council
+Recommendation on Artificial Intelligence. The OECD AI Principles identify five
+complementary values-based principles for the responsible stewardship of
+trustworthy AI:
+•
+
+AI should benefit people and the planet by driving inclusive growth,
+sustainable development and well-being.
+
+•
+
+AI systems should be designed in a way that respects the rule of law, human
+rights, democratic values and diversity, and they should include appropriate
+
+AN OVERVIEW OF NATIONAL AI STRATEGIES AND POLICIES © OECD 2021
+
+6|
+safeguards – for example, enabling human intervention where necessary –
+to ensure a fair and just society.
+•
+
+There should be transparency and responsible disclosure around AI systems
+to ensure that people understand AI-based outcomes and can challenge
+them.
+
+•
+
+AI systems must function in a robust, secure and safe way throughout their
+life cycles and potential risks should be continually assessed and managed.
+
+•
+
+Organisations and individuals developing, deploying or operating AI
+systems should be held accountable for their proper functioning in line with
+the above principles
+
+Consistent with these principles, the OECD also provides five recommendations to
+governments:
+•
+
+Facilitate public and private investment in research & development to spur
+innovation in trustworthy AI.
+
+•
+
+Foster accessible AI ecosystems with digital infrastructure and technologies
+and mechanisms to share data and knowledge.
+
+•
+
+Ensure a policy environment that will open the way to the deployment of
+trustworthy AI systems.
+
+•
+
+Empower people with the skills for AI and support workers for a fair
+transition.
+
+•
+
+Co-operate across borders and sectors to progress on responsible
+stewardship of trustworthy AI.
+
+To develop practical guidance to implement the AI Principles as mandated by the
+OECD Council, the OECD convened a multi-stakeholder and multi-disciplinary OECD
+Network of Experts on AI in early 2020 that is developing a report on the State of
+implementation of the OECD AI Principles: Insights from national AI policies (OECD,
+2021[1]). The report provides good practices and lessons learned on the
+implementation of the five recommendations to policy makers contained in the
+OECD AI Principles.
+Source: oecd.ai/ai-principles and oecd.ai/network-of-experts.
+
+AI policy design
+Countries are at different stages of the development and implementation of
+national AI strategies and policies. Some countries, such as Canada and Finland,
+developed their national AI strategies as early as 2017, closely followed by
+Japan, France, Germany and the United Kingdom in 2018. Other countries, such
+as Brazil, Egypt, Hungary, Poland and Spain, launched a national AI strategy
+more recently. Several countries are currently in AI policy consultation and
+development processes.
+AN OVERVIEW OF NATIONAL AI STRATEGIES AND POLICIES © OECD 2021
+
+|7
+National AI strategies and policies are often initiated with a call to action in the
+form of a report, roadmap, or white paper that frames the high-level goals for
+a strategy. The policy design and development stages often follow.
+
+The role of public consultations and stakeholder participation to
+promote an inclusive dialogue on AI
+To seek input on the design of their national AI policies and strategies,
+governments often involve a broad range of stakeholders including citizens,
+civil society groups, private companies, research organisations and others.
+Public consultations leverage different tools including interviews, surveys,
+online discussion fora and events such as hearings, workshops, seminars, focus
+groups and conferences. Based on information from national policy initiatives
+collected at OECD.AI, the formation of expert groups and the organisation of
+workshops and seminars are the most common types of consultations. Expert
+consultations usually help define the issues, formulate policy objectives and, in
+some cases, assess policy effectiveness. In addition to expert consultations,
+countries such as Canada or Chile engage citizens to ensure that a diverse range
+of perspectives is taken into account.
+
+Effective implementation of national AI initiatives hinges on coordination
+Countries pursue different national governance models to co-ordinate the
+implementation of their national AI policies across government, offering
+regulatory and ethical oversight (Figure 1). Models include:
+•
+
+Assigning oversight of the development and implementation strategies
+to an existing ministry, department or body. Among existing ministries
+or agencies tasked with developing or implementing an AI strategy, the
+following tend to drive the creation of AI strategies most often: 1)
+information technology and communications ministries; 2) economics or
+finance ministries; or 3) education, science (and technology) and
+innovation ministries.
+
+•
+
+Creating a new governmental or independent AI co-ordination entity.
+
+•
+
+Establishing AI expert advisory groups. These are generally multistakeholder groups comprising AI experts tasked with identifying and
+reporting on current and future opportunities, risks and challenges
+arising from the use of AI in society. These AI councils also provide
+recommendations to the government.
+
+•
+
+Setting up oversight and advisory bodies for AI and data ethics.
+
+AN OVERVIEW OF NATIONAL AI STRATEGIES AND POLICIES © OECD 2021
+
+8|
+Figure 1. A selection of national AI governance approaches
+Assigning oversight to
+an existing ministry or
+department
+
+• The White House Office of Science and Technology Policy oversees the United States’
+national AI strategy.
+• Estonia’s Ministry of Economic Affairs and Communications created the national AI
+strategy.
+• France coordinates AI policy implementation from within the Prime Minister’s Office.
+
+Creating a new
+governmental or
+independent body for
+AI
+
+• AI policy in the United Kingdom is coordinated by the UK Government’s Office for
+Artificial Intelligence.
+• The U.S. White House established the National AI Initiative Office.
+• Singapore created a National AI Office to co-ordinate the implementation of its national
+AI strategy.
+
+AI expert advisory
+groups
+
+• Austria’s Council on Robotics and AI
+• Canada’s Advisory Council on AI
+• Spain’s Artificial Intelligence Advisory Council
+• The United States’ Select Committee on AI under the National Science and Technology
+Council
+
+Oversight and
+advisory bodies for AI
+and data ethics
+
+• Germany’s Data Ethics Commission
+• The Data Ethics Advisory Group in New Zealand
+• The United Kingdom’s Centre for Data Ethics and Innovation (CDEI)
+• Singapore’s Advisory Council on the Ethical Use of AI and Data.
+
+Note: This infographic offers a non-exhaustive selection of national AI governance
+implementation examples.
+Source: Authors.
+
+AI policy implementation
+Investing in AI R&D
+Enhancing national AI research and development (R&D) capabilities is a key
+component of many national AI strategies and policies. AI is a general-purpose
+technology with implications across industries. It is also called an “invention of
+a method of invention” (Cockburn, 2018[2]) and is already widely used by
+scientists and inventors to facilitate innovation. Entirely new industries could
+be created based on the scientific breakthroughs enabled by AI. This
+underscores the key role of governments in providing sustained investment in
+AI basic research with long term horizons, particularly in areas under-served by
+market-driven investments. In addition, research institutions in all areas require
+capable AI systems to remain competitive, particularly in biomedical science
+and life science fields.
+The allocation of public budgets to AI R&D varies in scale across countries.
+Though some countries allocate a substantial amount of funding to AI R&D (e.g.
+the United States, the People’s Republic of China (hereafter China) and the
+European Union), annual budget allocations for AI R&D are not always explicitly
+
+AN OVERVIEW OF NATIONAL AI STRATEGIES AND POLICIES © OECD 2021
+
+|9
+mentioned. The OECD has begun to investigate how to assess government
+spending on AI-related R&D through proxy approaches, however, no
+comprehensive method exists yet to track and compare AI R&D funding across
+countries and agencies (OECD, 2021[3]).
+Governments allocate funding for AI to: 1) support the establishment of
+national AI research institutes; 2) consolidate AI research networks and
+collaborative platforms; 3) prioritise AI investments in targeted sectors; 4)
+pursue AI mission-oriented innovation policies; and 5) procure AI systems for
+the public sector.
+National AI strategies and policies often outline how countries plan to invest in
+AI to build or leverage their comparative advantages. They also encourage
+businesses to develop solutions that will boost growth and well-being.
+Countries tend to prioritise a handful of economic sectors, including mobility
+(such as logistics and transportation), energy, health, and agriculture (Figure 2).
+In mobility, AI applications can help governments improve road safety, enhance
+public transportation efficiency, manage traffic and reduce carbon emissions.
+In health care, AI can help governments harness the latest breakthroughs to
+help detect health conditions early or remotely. They can also help deliver
+preventative services, optimise clinical decision-making and discover new
+treatments and medications (OECD, 2020[4]). AI tools and techniques have also
+been used to help policy makers and the medical community accelerate
+research and treatments for the COVID-19 virus by rapidly analysing large
+volumes of research data (OECD, 2020[5]).
+AI can also be leveraged by governments to innovate and transform the public
+sector. AI promises to make government services “smarter”: more agile,
+efficient and user-friendly. For instance, AI can help deliver personalised
+services to citizens. It can also enhance the efficiency and quality of
+administrative procedures by automating physical and digital tasks. In addition,
+it can improve decisions through better predictions based on patterns in large
+volumes of data. Building on their digital government approaches, many
+national AI strategies and policies explicitly encourage the adoption of AI in the
+public sector. Public entities can use AI to strengthen law enforcement
+capabilities and improve policy implementation. AI is also expected to free up
+public servants’ time and allow them to shift to higher-value work (Berryhill
+et al., 2019[6]).
+
+AN OVERVIEW OF NATIONAL AI STRATEGIES AND POLICIES © OECD 2021
+
+10 |
+
+✓
+
+✓
+
+✓
+
+✓
+✓
+
+Energy
+✓
+
+✓
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+Manufacturing
+✓
+
+Mobility and
+transportation
+Productivity
+Public
+administration
+Seas and
+oceans/Marine
+Smart cities/
+Construction
+Aerospace/
+Space
+Telecomms
+and IT
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+✓
+
+✓
+
+U.A.E.
+
+Saudi Arabia
+
+✓
+✓
+
+✓
+
+✓
+
+✓
+
+Malta
+
+India
+✓
+
+Singapore
+
+China
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+✓
+
+✓
+
+✓
+
+✓
+✓
+
+✓
+
+✓
+
+✓
+✓
+✓
+
+✓
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+Finance
+Health care
+
+✓
+
+U.S.
+
+✓
+
+U.K.
+
+✓
+
+Turkey
+
+Netherlands
+
+✓
+
+Poland
+
+Latvia
+
+✓
+
+Norway
+
+Korea
+
+Finland
+
+France
+
+✓
+
+✓
+
+Defence/
+Security
+Education
+
+Environment
+
+Denmark
+✓
+
+Japan
+
+✓
+
+Hungary
+
+Agriculture and
+food
+Cybersecurity
+
+Czech Rep.
+
+Sector(s)
+targeted
+
+Australia
+
+Figure 2. National AI strategies and policies prioritise a number of
+sectors
+
+✓
+
+✓
+
+Note: The Pan-Canadian AI strategy and the German AI strategy do not have a significant
+focus on specific sectors.
+Source: OECD AI Policy Observatory (2021) database on national AI strategies and policies,
+https://oecd.ai, (accessed 3 March 2021).
+
+Data access and sharing
+Data access and sharing are key to accelerating AI uptake. Many countries
+continue to focus on providing access to public sector data, including open
+government data, geo-data (e.g. maps) and transportation data. Similarly, they
+also emphasise data sharing within the public sector. Countries are building on
+their open data access policies and strategies to promote data access and
+sharing for AI.
+
+AN OVERVIEW OF NATIONAL AI STRATEGIES AND POLICIES © OECD 2021
+
+| 11
+For example, Denmark plans to provide open access to weather, climate and
+marine data from the Danish Meteorological Institute, in addition to European
+co-operation on space data. The United Kingdom (UK) is making high-quality
+public data available in an open, reusable and accessible format for machine
+learning. The UK’s Geospatial Commission aims to improve access to geospatial
+data, including for AI uses. In light of the United States’ Executive Order on
+Maintaining American Leadership in AI, the Office of Management and Budget
+is consulting the public on needs for additional access to, or improvements in
+the quality of, federal data and models that would improve AI R&D and testing
+efforts.
+Several national AI policies plan to develop centralised, accessible repositories
+of open public data. In Norway, the Brønnøysund Register Centre and the
+Norwegian Digitalisation Agency have established a national directory of data
+supplied by different public agencies. The directory provides an overview of
+the data each agency has and how it is shared across government, as well as
+datasets that are made publicly available. Portugal also plans to create a
+centralised repository for administrative data.
+Organisations focused on data have also been created or are being considered.
+The Spanish AI strategy, for example, recommends the creation of a National
+Data Institute. In parallel, countries and regional institutions seek to incentivise
+data sharing in the private sector. The United Kingdom, in collaboration with
+the Open Data Institute and Innovate UK, has launched three pilot projects to
+explore data trust frameworks for safe, secure and equitable data transfers.
+European countries are co-operating to create a European data space (GAIA-X),
+which will include private and public data.
+In addition, many software tools to manage and use AI exist as open-source
+resources, which facilitates their adoption and allows for crowdsourcing
+solutions to software bugs. Tools include TensorFlow (Google) and Cognitive
+Toolkit (Microsoft). A number of researchers and companies share curated
+training datasets and training tools publicly to help diffuse AI technology.
+
+Infrastructure for AI
+Developing and using AI requires access to AI technologies and infrastructure.
+This supposes affordable high-speed broadband networks and services,
+computing capacity and data storage, as well as supporting data-generating
+technologies such as the Internet of Things (IoT). In terms of network
+infrastructure, many countries are setting up high-quality connectivity and
+have, or plan to, deploy nationwide 5G technology and 5G networks.
+AI computing capacity has emerged over recent years as a key enabler for AI
+and AI-driven economic growth and competitiveness. Algorithms and data play
+strong roles in the development and performance of AI systems. However, as
+AI projects move from concept to commercial application, they often need
+
+AN OVERVIEW OF NATIONAL AI STRATEGIES AND POLICIES © OECD 2021
+
+12 |
+specialised and expensive computing resources. Several economies allocate
+high-performance and cloud computing resources to AI-related applications
+and R&D. Some are setting up supercomputers designed for AI use and devoted
+to research and/or providing financial support to develop the national highperformance computing infrastructure. Formulating effective AI policies
+increasingly requires an understanding of key components of domestic AI
+compute capacity. To advance this agenda, the OECD formed an OECD AI
+Compute task force in early 2021.
+
+Shaping an enabling environment
+Countries aim to support an agile transition from AI R&D to the
+commercialisation or deployment of AI by:
+
+1. Providing controlled environments for the experimentation and
+testing of AI systems. Controlled environments for AI experimentation
+and testing facilitate the timely identification of potential technical
+flaws and governance challenges. They can reveal public concerns
+through testing under quasi real-world conditions and can provide
+impact assessments of AI use on various aspects of people’s lives, such
+as jobs, education and the environment (European Commission, 2021[7]),
+(European Commission, 2021[8]).
+2. Providing access to funding, including for SMEs and start-ups. To
+spur private-sector investment in AI projects, some countries have
+created financial incentives. Since January 2018, the United Kingdom
+has provided an AI R&D Expenditure Credit (12% tax credit) designed to
+stimulate AI uptake, including within the public sector. Malta has also
+reformed the Seed Investments Scheme with more favourable tax credit
+conditions for innovative AI firms.
+3. Connecting emerging companies with business opportunities
+through networking and collaborative platforms. Another way that
+countries boost the development of innovative AI research ecosystems
+is by establishing networking and collaborative platforms, such as AI
+hubs, AI labs and AI accelerator programmes. They facilitate cooperation
+between industry, academia and public research institutes.
+4. Providing tailored advisory to support business scale-up. Countries
+are introducing a wide range of policy measures and initiatives to spur
+innovation and AI adoption by businesses, particularly SMEs. For
+example, the European Commission’s AI4EU project is an AI-on-demand
+platform to help EU SMEs adopt AI.
+
+AN OVERVIEW OF NATIONAL AI STRATEGIES AND POLICIES © OECD 2021
+
+| 13
+
+AI skills, jobs and labour market transformation
+As AI systems take over some tasks previously performed by humans, new
+opportunities are expected to emerge in the workplace. However, AI will also
+bring new challenges and transitions in the labour market. Governments have
+begun to adopt policies and strategies to prepare citizens, educators and
+businesses for the jobs of the future and to minimise the negative impacts.
+Many national AI policies emphasise retraining for those displaced by AI, and
+education and training for workers coming into the labour force, including
+vocational training and lifelong learning programmes.
+In parallel, several countries are offering fellowships, postgraduate loans and
+scholarships to increase domestic AI research and expertise. Many national AI
+strategies also include incentives to retain and attract both domestic and
+foreign skills and top talent in AI. All national AI strategies support a persistent
+and robust AI education ecosystem.
+In 2020, the OECD launched the Programme on AI in Work, Innovation,
+Productivity and Skills (AI-WIPS), supported by German Ministry of Labour. AIWIPS analyses the impact of AI on the labour market, skills and social policy
+while providing opportunities for international dialogue and policy
+assessments.
+In addition, as AI policy affects several sectors, ensuring cross-governmental
+co-ordination is one of the key considerations for governments when
+implementing effective AI policies (Box 2). To that end, countries often
+co-ordinate and collaborate across government and with business, educational
+and non-profit communities when developing educational programmes, tools
+and technologies.
+Box 2. Key considerations when implementing AI strategies and policies
+When designing and implementing AI policies and strategies, policy makers should
+consider the following to ensure they foster innovation while promoting the
+implementation of trustworthy, human-centred AI systems:
+•
+
+Like with digital transformation more broadly, AI touches upon all sectors
+and all areas of public policy. Implementing AI policies therefore requires
+strong co-ordination across government to ensure coherence. Crossgovernmental co-ordination helps ensure ministries and agencies develop
+processes and criteria that are aligned with national AI objectives, such as
+in public procurement of AI systems.
+
+•
+
+Incentive mechanisms launched by governments, as well as consultancy
+services and programmes to help up-skill SMEs, are useful for companies.
+Ensuring these programmes are offered by governments only when the
+
+AN OVERVIEW OF NATIONAL AI STRATEGIES AND POLICIES © OECD 2021
+
+14 |
+market does not offer similar services minimises the risk of public
+programmes making themselves indispensable and distorting the market.
+•
+
+Governments face challenges with data access and management. The better
+the data used to train and optimise machine learning-based AI systems, the
+more impactful and inclusive the outcome. Despite evidence of economic
+and social benefits, challenges remain when creating a digital environment
+that enables access to data alongside strong data and privacy protections.
+
+•
+
+Managing economic shifts and inequalities, facilitating transitions in the
+labour market and ensuring continuous education, training and skills
+development are also recognised across countries as key challenges.
+
+AI policy intelligence to monitor implementation
+To evaluate the implementation of their national AI policies and strategies
+some countries have launched issued annual reports. By July 2020, Canada, the
+United Kingdom, the United States, Germany, and the European Union
+published reports that monitored and evaluated the implementation of their
+AI strategies and highlighted milestones and accomplishments. Singapore had
+published detailed information on the implementation of its AI strategy.
+Monitoring and evaluation are expected to become more prevalent across
+countries as national AI strategies move into later stages of implementation.
+Some countries also report more detailed monitoring assessments of the
+implementation of their AI strategies and policies, including information such
+as budgets, funding, and specific targets. In addition, several national or
+regional institutions have established AI observatories to oversee the
+implementation of national AI strategies and policies. For example, the
+German Labour Ministry launched the KI-Observatorium in March 2020 to help
+implement parts of Germany’s AI strategy and encourage the responsible,
+people-centred and participatory use of AI in the world of work and society.
+Other observatories include: Quebec’s International Observatory on the Social
+Impacts of Artificial and Digital Intelligence in Canada; France’s Observatory on
+the Economic and Social Impact of Artificial Intelligence; the Italian Observatory
+on Artificial Intelligence; and the Czech Republic’s AI Observatory and Forum.
+
+International co-operation on AI
+International co-operation to promote the beneficial use of AI and address its
+challenges is a priority for many countries. Co-operation for the development
+and adoption of AI and AI governance is being conducted at the bilateral,
+plurilateral, regional and international level. Moreover, many intergovernmental organisations with complementary mandates are engaged in AI
+initiatives and projects. International co-operation on AI is taking place in fora
+
+AN OVERVIEW OF NATIONAL AI STRATEGIES AND POLICIES © OECD 2021
+
+| 15
+including the Council of Europe, the EU, the Global Partnership on AI (GPAI), the
+Group of Seven (G7), the Group of Twenty (G20), the Inter-American
+Development Bank (IDB), the International Telecommunications Union (ITU),
+the OECD, the United Nations, the United Nations Educational, Scientific and
+Cultural Organization (UNESCO) and the World Bank.
+Cross-border research on AI is also significant. For example, the French National
+Research Agency, the German Research Foundation and the Japan Science and
+Technology Agency have called for trilateral French-German-Japanese
+collaborative research on AI over three years (2019-2021). In 2020, the United
+Kingdom and the United States signed a declaration on co-operation for AI R&D
+through which they plan to drive technological breakthroughs, promote
+research collaboration and advance the development of trustworthy AI.
+Many European Union member states are also participating in European AI
+research projects and networks such as BVDA/EURobotics, the Confederation
+of Laboratories for Artificial Intelligence Research in Europe (CLAIRE) and the
+European Laboratory for Learning and Intelligent Systems (ELLIS). AI is also a
+priority in Horizon Europe, the EU’s current framework programme for research
+and innovation.
+
+AN OVERVIEW OF NATIONAL AI STRATEGIES AND POLICIES © OECD 2021
+
+16 |
+
+Annex: A selection of national AI policies
+Policy design
+National AI strategies
+Pan-Canadian AI Strategy
+Responsible entity: The Canadian Institute for Advanced Research (CIFAR)
+Description: The CIFAR led the development of the Pan-Canadian AI Strategy
+from 2016. The process involved multi-stakeholder partners from 54
+organisations. The strategy aims to strengthen AI research capabilities. CIFAR
+and Canada's Department of Innovation Science and Economic Development
+(ISED) work closely together to implement the strategy. The strategy includes
+an ‘Innovation Supercluster Initiative’ to enhance commercial use of, and
+investment in AI, as well as the creation of Canada’s AI Advisory Council. ISED
+also engages in international co-operation, including through the recent
+creation of the Global Partnership on AI.
+Read more: https://oecd.ai/dashboards/countries/Canada.
+Singapore National AI Strategy
+Responsible entity: National AI Office
+
+Description: The Singapore National AI Strategy was launched in 2019 and
+aims to accelerate the development and deployment of AI in Singapore. The
+strategy adopts a human-centric approach to AI and focuses on an initial five
+national projects of high social and economic value in logistics, municipal
+services, healthcare, education and border security. It also outlines plans to
+strengthen five ecosystem enablers, which include talent and education, data
+architecture, a progressive and trusted environment, international
+collaboration, and a “triple-helix” partnership between the research
+community, industry and government. The strategy also identifies key nontechnological hurdles in AI deployment which Singapore believes it is uniquely
+positioned to address (e.g. stakeholder buy-in, governance, process change)
+and outlines Singapore’s plans to become a global hub for developing, testbedding, deploying, and scaling AI solutions.
+Read more: https://oecd.ai/dashboards/countries/Singapore.
+
+AN OVERVIEW OF NATIONAL AI STRATEGIES AND POLICIES © OECD 2021
+
+| 17
+
+Formal consultation processes
+Canada’s Public Engagement Processes
+Responsible entity: Canada’s AI Advisory Council
+Description: Canada’s AI Advisory Council created its public engagement and
+consultation processes using both consultation and deliberation. The national
+survey elicited an array of citizens’ input on AI use in different sectors. The
+results will shape deliberative workshops that take place online due to the
+pandemic. The workshops aim to find ways to address ethical concerns raised
+by citizens via the survey. The goal of the deliberative process is to shape a new
+set of guidelines and recommendations for the development of AI.
+Read more: https://oecd.ai/dashboards/countries/Canada.
+Lithuania’s AI Foresight Exercise
+Responsible entity: Ministry of Economy and Innovation of Lithuania
+Description: Lithuania’s vision for an eventual strategy lays out specific
+objectives that a national strategy should develop, and this vision roadmap was
+shaped heavily by formal consultations. In the fall of 2018, a group of private
+and public sector representatives began meeting with the Ministry of Economy
+and Innovation in Lithuania to discuss the current AI landscape and discuss plans
+for the way forward. The group consisted of industry leaders, academic experts
+and government representatives, all with knowledge of the Lithuanian AI
+ecosystem. A Landscape report released by the group in November of 2018
+highlights both the key areas where Lithuania is successful in AI and where there
+is room for growth.
+Read more: https://oecd.ai/dashboards/countries/Lithuania.
+
+Policy implementation
+Investing in AI R&D
+AI Research Competence Centres
+Responsible entity: German Federal Ministry of Education and Research
+Description: Some strategies call for the establishment of AI hubs, research
+centres that will help with R&D efforts as they relate to AI. As part of Germany’s
+AI strategy, “AI research competence centres” in Munich, Tübingen, Berlin,
+Dortmund, and Dresden aim to become more deeply interconnected, and
+funding from the government will double by 2022.
+Read more: https://www.oecd.ai/dashboards/countries/Germany.
+
+AN OVERVIEW OF NATIONAL AI STRATEGIES AND POLICIES © OECD 2021
+
+18 |
+Horizon Europe
+Responsible entity: European Commission
+Description: The European Commission has committed EUR 1.5 billion to AI
+research over two years as part of its Horizon 2020 programme. The European
+Union expects the private sector and its member states at the national level to
+complement this investment, reaching at least EUR 20 billion invested by the
+end of 2020. It is also expected that the private sector and EU member states
+will continue investing at least EUR 20 billion annually for the next ten years in
+AI R&D. Funding through Horizon Europe and the new Digital Europe
+programme targets AI research, innovation and deployment, and the
+development of digital skills. Support for AI R&D also includes grants to
+establish centres of excellence. This includes EUR 20 million to build the
+European Network of AI Excellence Centres (AI4EU), a European online platform
+that allows the exchange of AI tools and resources.
+Read more: https://www.oecd.ai/dashboards/countries/EuropeanUnion.
+
+AI in the public sector
+Aurora AI Project
+Responsible entity: Finland’s Ministry of Finance
+Description: Aurora AI is a network of different smart services and applications
+to “allow [the] public administration to better anticipate and provide resources
+for future service needs” and to allow citizens to access high-quality 24/7
+digital services. The project aims to use AI to provide personalised, one-stopshop and human-centric AI-driven public services.
+Read more: https://oecd.ai/dashboards/countries/Finland.
+Canada’s Directive on Automated Decision-Making Systems and the Prequalified AI Vendor Procurement Program
+Responsible entity: Canada’s Treasury Board Secretariat
+Description: Canada’s Treasury Board Secretariat (TBS) recognised increased
+use and experimentation with AI in government, which led to the development
+of a whitepaper entitled ‘Responsible AI in the Government of Canada’ in 2019.
+This white paper, produced with stakeholders through online and in-person
+consultations, highlighted the need for oversight regarding the government’s
+use of AI systems. From this, TBS developed the ‘Directive on Automated
+Decision-Making Systems’ as a first policy approach for AI. A cornerstone of the
+Directive includes an Algorithmic Impact Assessment to calculate the risks of an
+AI tool to foster innovation while protecting the public. In a parallel effort to
+support the Directive, TBS worked in partnership with Public Services and
+Procurement Canada to establish a ‘Pre-qualified AI Vendor Procurement
+Program’ which aimed to enhance the accountability of AI tools used within the
+AN OVERVIEW OF NATIONAL AI STRATEGIES AND POLICIES © OECD 2021
+
+| 19
+government. 89 companies are currently pre-certified to provide AI tools and
+solutions to the government under this programme.
+Read more: https://oecd.ai/dashboards/countries/Canada.
+
+Data access and sharing
+Digital Platform sprogteknologi.dk
+Responsible entity: Danish Ministry of Finance and Agency for Digitalisation
+Description: In its national AI strategy, Denmark highlights the importance of
+high-quality language technology to support the development and deployment
+of AI in Danish. In June 2020, the Danish government launched the website
+sprogteknologi.dk where metadata of existing linguistic resources are gathered
+and displayed. This will enable businesses, researchers and public authorities to
+develop solutions efficiently using voice recognition and language
+understanding in Danish.
+Read more: https://www.oecd.ai/dashboards/countries/Denmark.
+
+Digital Infrastructure for AI
+European High-Performance Computing Joint Undertaking (EuroHPC)
+Responsible entity: European Union Joint Undertaking
+Description: The European High-Performance Computing Joint Undertaking
+(EuroHPC) is a EUR 1 billion undertaking by the EU and other European
+countries. It aims to develop a petascale and pre-exascale supercomputing and
+data infrastructure to support European scientific and industrial research and
+innovation. The EuroHPC declaration, signed on 23 March 2017 by 7 countries,
+marked the beginning of EuroHPC and this portal. As of November 2020, five
+EuroHPC petascale supercomputers are planned in Slovenia, Luxembourg,
+Czech Republic, Bulgaria, and Portugal along with three EuroHPC pre-exascale
+supercomputers in Spain, Finland and Italy.
+Read more: https://oecd.ai/dashboards/countries/EuropeanUnion.
+Fugaku Supercomputer
+Responsible entity: Japan’s Ministry of Education, Culture, Sports, Science
+and Technology
+Description: In Japan, the RIKEN Center for Computational Science in Kobe and
+Fujitsu is developing a Supercomputer named Fugaku to create outstanding
+results in various fields such as AI, data science, medicine, climate, space and
+disaster prevention.
+Read more: https://oecd.ai/dashboards/countries/Japan.
+
+AN OVERVIEW OF NATIONAL AI STRATEGIES AND POLICIES © OECD 2021
+
+20 |
+AI Bridging Cloud Infrastructure（ABCI）
+Responsible entity: Japan’s Ministry of Economy, Trade and Industry
+Description: ABCI is the world's first large-scale Open AI Computing
+Infrastructure, constructed and operated by the National Institute of Advanced
+Industrial Science and Technology (AIST). ABCI accelerates joint AI R&D with
+industries, academia and governments in Japan.
+Read more: https://oecd.ai/dashboards/countries/Japan.
+
+Controlled environments for AI experimentation
+Colombia’s regulatory system for AI
+Responsible entity: Presidency of the Republic of Colombia, Ministry of
+Information Technology and Communications, National Planning Department
+Description: The Colombian government has designed a specific model to
+develop a regulatory sandbox for AI in the region, which is expected to be
+implemented in 2021. The main purpose of this initiative is to have an
+innovative approach to the design of regulations applicable to AI systems.
+Read more: https://oecd.ai/dashboards/countries/Colombia.
+Germany’s Regulatory Sandboxes and Testbeds
+Responsible entity: German Federal Ministry for Economic Affairs and Energy
+and other Federal Ministries
+Description: Germany’s AI strategy plans the establishment of AI regulatory
+sandboxes and testbeds, such as the “Digital Motorway testbed A9” for
+autonomous vehicle projects (administrated by the Federal Ministry of
+Transport and Digital Infrastructure). These make it possible to test
+technologies in a real-life setting and to screen the regulatory environment and
+make adjustments.
+Read more: https://oecd.ai/dashboards/countries/Germany.
+
+AN OVERVIEW OF NATIONAL AI STRATEGIES AND POLICIES © OECD 2021
+
+| 21
+
+Networking and collaborative platforms
+European network of Digital Innovation Hubs
+Responsible entity: European Commission
+Description: The European network of Digital Innovation Hubs (DIHs) is a
+network of one-stop shops for SMEs requiring support for digitalisation. The
+programme, which was announced in 2016 as part of the Digitising European
+Industry initiative, places emphasis on the specialisation of DIHs with respect
+to local/territorial needs. DIHs can provide test beds for technologies, advice
+on financing options, and networking and training opportunities. The EU’s role
+is to provide funding and to encourage co-operation between DIHs in different
+regions so that beneficiaries are informed about services not provided in their
+regional DIH. As part of the Digital Europe Programme, an expansion of existing
+DIHs is foreseen to include AI and other technologies.
+Read more: https://oecd.ai/dashboards/countries/EuropeanUnion.
+
+Tailored advisory to support businesses’ scale-up
+Digital Catapult
+Responsible entity: UK Government
+Description: The UK has a network of catapults helping to promote the
+adoption of technologies. The digital catapult leads on AI-related efforts and
+offers access to compute credits to businesses and links to cloud computing
+resources, which are vital for businesses that could benefit from AI but lack the
+technical infrastructure. The digital Catapult works with 30 start-ups per year
+and uses a competitive process. To monitor the efficacy of R&D projects, the
+project relies on a wider framework in place with partners at UK Research and
+Innovation. Innovate UK focuses on commercialisation in some of its
+programmes like Knowledge Transfer Networks; which can show “wins” but
+generally uses indirect measures of impact and influence such as citations. The
+U.K. is focusing on building the ecosystem this decade and will focus on AI
+applications next decade.
+Read more: https://www.oecd.ai/dashboards/countries/UnitedKingdom.
+
+AN OVERVIEW OF NATIONAL AI STRATEGIES AND POLICIES © OECD 2021
+
+22 |
+
+AI skills and education
+Federal STEM Education Strategic Plan
+Responsible entity: National Science and Technology Council, Committee on
+STEM Education, Department of Education of the USA
+Description: The American AI strategy emphasises STEM education as a key
+priority. It devotes at least USD 200 million in grant funds per year to promote
+high-quality computer science and STEM education, including the training of
+teachers.
+Read more: https://oecd.ai/dashboards/countries/UnitedStates.
+Finland’s Elements of AI programme
+Responsible entity: University of Helsinki
+Description: Finland’s Elements of AI programme is a ten-hour Massive Open
+Online Course that seeks to ensure that all citizens have a basic understanding
+of AI. Finland’s AI strategy is interesting because it sets out to educate the
+country’s entire population – including people who are employed and the
+elderly – in basic AI, which it sees as a “civic competence”. While Finland initially
+targeted the training of 1% of its population, the course attracted more than
+100 000 participants. This represents more than 2% of the population.
+Read more: https://oecd.ai/dashboards/countries/Finland.
+
+AI policy intelligence to monitor implementation
+AI Watch
+Responsible entity: European Commission Joint Research Centre
+Description: The EU’s 2018 Coordinated Action Plan on the development of AI
+announced the creation of AI Watch, the “European Commission Knowledge
+Service to Monitor the Development, Uptake and Impact of Artificial
+Intelligence Policy for Europe”. AI Watch is a project developed by the Joint
+Research Centre and DG CONNECT of the European Commission. It monitors AIrelated development and provides analyses to support the implementation of
+the European AI initiatives. JRC is also developing a methodology to identify
+risks and opportunities, drivers and barriers of the use of AI in public service
+provision. In February 2020, JRC launched a report on national AI strategies of
+EU member countries, the objective of which is “to present and gather
+information on all EU Member States' national AI strategies in a structured and
+comprehensive way”. It aims to help Member States compare their strategy and
+identify areas for strengthening synergies and collaboration. The EU’s effort to
+monitor implementation develops a harmonised policy framework by assessing
+each Member State’s strategy through specific policy areas: human capital,
+
+AN OVERVIEW OF NATIONAL AI STRATEGIES AND POLICIES © OECD 2021
+
+| 23
+research, networking, infrastructure, and regulation. The purpose of this
+framework is to enable comparisons by policy makers in each country.
+Read more: https://oecd.ai/dashboards/countries/EuropeanUnion.
+Observatory for Artificial Intelligence in Work and Society
+Responsible entity: German Federal Ministry of Labour and Social Affairs
+Description: Germany established an AI policy observatory that will: conduct
+technology foresight and impact assessment on AI in work and society; foster
+the use of human-centred AI in the labour and social affairs administration;
+support the building up of European and international structures, that are
+dedicated to AI (e. g. observatories), and; contribute to the development of a
+legal/regulatory framework on AI in work and society.
+Read more: https://oecd.ai/dashboards/countries/Germany.
+
+International Co-operation on AI
+Ad Hoc Committee on Artificial Intelligence (CAHAI)
+Responsible entity: Council of Europe (CoE)
+Description: In September 2019, the Committee of Ministers of the Council of
+Europe (CoE) set up the Ad Hoc Committee on Artificial Intelligence (CAHAI).
+This committee was examining the feasibility of developing a legal framework
+for the development, design and application of AI, based on CoE standards on
+human rights, democracy and rule of law. In April 2020, the same Committee of
+Ministers issued a set of guidelines calling on governments to take a
+precautionary approach to the development and use of algorithmic systems. It
+further called for the adoption of legislation, policies and practices that fully
+respect human rights. In June 2020, the CAHAI established three working
+groups. The Policy Development Group developed a feasibility study for a legal
+framework on AI applications and proposals for engaging with and consulting
+the relevant external stakeholders. The Consultations and Outreach Group is
+taking stock of the results of the online consultations and preparing a
+stakeholder analysis and mapping. The Legal Frameworks Group is preparing
+key findings and proposals on possible elements and provisions of a legal
+framework and will develop specific regulatory proposals for the development,
+design and application of AI in the areas identified as risky by member states
+and other stakeholders.
+Read more: https://www.coe.int/en/web/artificial-intelligence.
+
+AN OVERVIEW OF NATIONAL AI STRATEGIES AND POLICIES © OECD 2021
+
+24 |
+The High-Level Expert Group on Artificial Intelligence (AI HLEG)
+Responsible entity: European Commission (EC)
+Description: The High-Level Expert Group on Artificial Intelligence (AI HLEG)
+was convened by the European Commission in 2016 to support the
+implementation of the European Strategy on AI and completed its mandate in
+July 2020. The AI HLEG comprised representatives from academia, civil society,
+and industry that produced three outputs: the April 2019 Ethics Guidelines for
+Trustworthy Artificial Intelligence, the June 2019 Policy and Investment
+Recommendations for Trustworthy Artificial Intelligence, and the July 2020
+Assessment List for Trustworthy Artificial Intelligence (ALTAI). The European AI
+Alliance is a multi-stakeholder forum for engaging in a broad and open
+discussion of all aspects of AI development and its impact on the economy and
+society.
+In February 2020, the European Commission issued a “White Paper on Artificial
+Intelligence” – A European Approach to Excellence and Trust. The paper
+considers requiring a pre-marketing conformity assessment for “high-risk” AI
+applications such as facial recognition, as a core element of a potential
+regulatory framework for AI. In addition, the white paper proposes a voluntary
+“quality label” for AI applications considered not to be high-risk. In parallel, the
+European Commission is reviewing EU product safety and liability regimes in
+light of AI.
+Read more:
+https://ec.europa.eu/digital-single-market/en/artificial-intelligence.
+Global Partnership on AI (GPAI)
+Responsible entity: Consortium of countries
+Description: GPAI is an international and multi-stakeholder initiative that
+advances cutting-edge research and pilot projects on AI priorities to advance
+the responsible development and use of AI that respects human rights and
+shared democratic values, as elaborated in the OECD’s Recommendation on AI.
+The Partnership was conceived by Canada and France during their G7
+presidencies and, at its launch on 15 June 2020, counted 13 other founding
+members: Australia, the EU, Germany, India, Italy, Japan, Korea, Mexico, New
+Zealand, Singapore, Slovenia, the United Kingdom and the United States. With
+its Secretariat hosted at the OECD, the GPAI brings together experts from
+industry, government, civil society and academia.
+GPAI’s mission is to “support the development and use of AI based on human
+rights, inclusion, diversity, innovation, and economic growth while seeking to
+address the United Nations Sustainable Development Goals”. Two Centres of
+Expertise (the International Centre of Expertise in Montréal for the
+Advancement of Artificial Intelligence (ICEMAI) in Montréal, and the National
+
+AN OVERVIEW OF NATIONAL AI STRATEGIES AND POLICIES © OECD 2021
+
+| 25
+Institute for Research in Digital Science and Technology (INRIA) in Paris) support
+the operation of four expert working groups on: Responsible AI (Montréal);
+Data Governance (Montréal); the Future of Work (Paris); and Innovation &
+Commercialisation (Paris).
+Read more: https://gpai.ai/.
+OECD Network of Experts on AI (ONE AI)
+Responsible entity: Organisation of Economic Co-operation and Development
+(OECD)
+Description: OECD member countries adopted a set of AI principles in May
+2019, the first set of intergovernmental principles and recommendations to
+governments for trustworthy AI. In early 2020, the OECD launched OECD.AI, a
+platform to share and shape AI policies that provide data and multidisciplinary
+analysis on artificial intelligence. Also in early 2020, the OECD’s Committee on
+Digital Economy Policy tasked the OECD Network of Experts on AI (ONE AI)
+with proposing practical guidance for implementing the OECD AI principles for
+trustworthy AI through the activities of three working groups. The ONE AI
+working group on the classification of AI systems is developing a user-friendly
+framework to classify and help policy makers navigate AI systems and
+understand the different policy considerations associated with different types
+of AI systems. The ONE AI working group on implementing trustworthy AI is
+identifying practical guidance and shared procedural approaches to help AI
+actors and decision-makers implement effective, efficient and fair policies for
+trustworthy AI. The ONE AI working group on national AI policies is developing
+practical guidance for policy makers on investing in AI R&D; data, compute,
+software & knowledge; regulation, testbeds and documentation; skills and
+labour markets; and international co-operation.
+Read more: https://oecd.ai.
+UNESCO’s Ad Hoc Expert Group on AI (AHEG)
+Responsible entity: UNESCO
+Description: UNESCO has organised events to exchange knowledge about AI,
+focusing on the dimensions of ethics, policy and capacity building. In March
+2020, UNESCO appointed 24 leading experts to an Ad Hoc Expert Group (AHEG)
+on the ethics of AI. UNESCO’s November 2019 General Conference tasked the
+AHEG with elaborating a recommendation on the ethics of artificial intelligence.
+Read more: https://en.unesco.org/artificial-intelligence.
+
+AN OVERVIEW OF NATIONAL AI STRATEGIES AND POLICIES © OECD 2021
+
+26 |
+
+References
+Berryhill, J. et al. (2019), Hello, World: Artificial intelligence and its use in the public
+sector, OECD Publishing, Paris, https://doi.org/10.1787/726fd39d-en.
+
+[6]
+
+Cockburn, I. (2018), “The impact of artificial intelligence on innovation”,
+No. 24449, National Bureau of Economic Research, Cambridge, US,
+http://dx.doi.org/10.3386/w24449.
+
+[2]
+
+European Commission (2021), European legal framework for AI to address
+fundamental rights and safety risks specific to the AI systems, https://digitalstrategy.ec.europa.eu/en/policies/regulatory-framework-ai.
+
+[8]
+
+European Commission (2021), Revised Coordinated Plan on AI, https://digitalstrategy.ec.europa.eu/en/library/coordinated-plan-artificial-intelligence-2021review.
+
+[7]
+
+Government of the Grand Duchy of Luxembourg (2019), Artificial Intelligence: A
+Strategic Vision for Luxembourg, https://digitalluxembourg.public.lu/sites/default/files/2020-09/AI_EN_0.pdf.
+
+[12]
+
+Lithuanian Ministry of the Economy and Innovation (2020), Lithuanian Artificial
+Intelligence Strategy: A Vision of the Future,
+https://eimin.lrv.lt/uploads/eimin/documents/files/DI_strategija_ENG(1).pdf.
+
+[11]
+
+OECD (2021), AI measurement in ICT usage surveys: A review, OECD Publishing,
+Paris, https://doi.org/10.1787/72cce754-en.
+
+[9]
+
+OECD (2021), Measuring the AI content of publicly funded R&D projects - A proof of
+concept for the OECD Fundstat initiative, OECD Publishing, Paris,
+https://doi.org/10.1787/7b43b038-en.
+
+[3]
+
+OECD (2021), State of implementation of the OECD AI Principles: Insights from
+national AI policies, https://doi.org/10.1787/1cd40c44-en.
+
+[1]
+
+OECD (2020), Identifying and measuring developments in artificial intelligence,
+OECD Publishing, Paris, https://doi.org/10.1787/5f65ff7e-en.
+
+[10]
+
+OECD (2020), Trustworthy Artificial Intelligence in Health, OECD Publishing, Paris,
+https://www.oecd.org/health/trustworthy-artificial-intelligence-in-health.pdf.
+
+[4]
+
+OECD (2020), Using artificial intelligence to help combat COVID-19, OECD
+Publishing, Paris, https://doi.org/10.1787/5b0fd8cd-en.
+
+[5]
+
+AN OVERVIEW OF NATIONAL AI STRATEGIES AND POLICIES © OECD 2021
+
+

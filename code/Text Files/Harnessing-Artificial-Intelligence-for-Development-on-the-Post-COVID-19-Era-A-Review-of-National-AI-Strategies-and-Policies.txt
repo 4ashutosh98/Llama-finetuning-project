@@ -1,0 +1,2314 @@
+Public Disclosure Authorized
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+May 2021
+
+Analytical Insights
+worldbank.org/digitaldevelopment
+
+HARNESSING ARTIFICIAL
+INTELLIGENCE FOR DEVELOPMENT
+IN THE POST-COVID-19 ERA
+A Review of National AI
+Strategies and Policies
+
+THE GLOBAL AI LANDSCAPE
+Artificial intelligence (AI) has rapidly emerged as an important topic for the global development agenda.
+Policymakers are increasingly curious about how they can design an enabling environment for this new
+technology to not only thrive, but also accelerate progress towards sustainable development goals. AI’s
+trajectory has been driven by rapidly increasing amounts of data, advances in machine learning algorithms
+and more powerful processing power than ever before. Increasing global digital connectivity is also
+supporting the growth of AI, through the expansion of broadband networks and adoption of digital
+platforms and cloud computing services.
+The Covid-19 pandemic is also yielding new and innovative AI applications and solutions to help manage
+the spread of the virus, drive drug discovery and cope with social distancing requirements (OECD 2020).
+At the onset of the pandemic, AI was used to monitor the spread of the virus and predict where and
+when new outbreaks might occur (Raju et al. 2020). AI was widely used to accelerate the speed of vaccine
+research, yielding multiple vaccines in record time (Arshadi and others 2020). AI was also used to power
+web and mobile-based chatbots such as the World Health Organization’s Health Alerts or the Center for
+Disease Control’s Covid-19 portal to help people find information quickly as well as conduct self-diagnosis
+for coronavirus infection at home; these portals were emulated in many developing countries (Miner et al.
+2020). And as the pandemic enters the vaccination phase, applications for AI are now being explored to
+inform triage planning across population groups, forecast demand, help manage supply chains and postvaccination surveillance of any adverse drug reactions (Kahn & Vanian 2021).
+
+1
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+However, the development of AI technologies
+remains heavily concentrated in a small number of
+advanced economies (Oxford Insights 2020). These
+countries are characterized by a strong local talent
+pool, a robust research and innovation base and
+access to capital to fuel growth through investments
+(Loucks and others 2019). Countries that lack these
+conditions and resources are at risk of missing out
+on the economic and developmental benefits that
+could be derived from this technology. This has
+immediate implications for global recovery efforts
+in the post-Covid era, considering AI’s potential
+to help developing countries rebuild quickly
+across critical sectors once the pandemic subsides
+(Sonneborn & Graf 2020).
+
+a national strategic direction for AI defined by
+their governments. Governments often try to
+shape the way in which new technologies affect
+market structure and societal outcomes. This is
+attempted in many ways, but one common feature
+is overarching national policy or strategies for
+technology development and adoption. These are
+intended to articulate government objectives and
+to shape their interventions in a way that supports
+its overall mission. Many countries have designed
+such policies and strategies towards AI, including
+countries that rank high in global indexes that
+benchmark key indicators of AI ecosystems such as
+Stanford’s Global AI Index1 and the Oxford Insights
+Government AI Readiness Index.2
+
+Countries that have seen early and broad
+adoption of AI such as South Korea, Canada and
+China demonstrate another common feature:
+
+The primary objective of this working paper is to
+develop a better understanding of governments’
+approaches to AI by presenting findings from a
+
+1 https://hai.stanford.edu/sites/default/files/ai_index_2019_report.pdf
+2 https://www.oxfordinsights.com/government-ai-readiness-index-2020
+
+worldbank.org/digitaldevelopment
+
+2
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+review of national AI strategies from around the
+world. It also includes a more detailed analysis
+of the strategic approaches taken by two early
+adopters. This article is organized in four sections.
+The first section discusses the increasing global
+AI divide in terms of availability of investments,
+talent and research before further exploring
+the balance of opportunities and risks of AI for
+developing countries. This section also notes the
+roles of different stakeholders in supporting AI
+development within countries. The second section
+presents details of eight policy domains and six
+
+categories of tools and instruments that were used
+to assess national AI strategies. The third section
+presents findings from eleven countries, beginning
+with a more detailed analysis of the national AI
+policies of Finland and the United Arab Emirates
+(UAE). This section also includes findings from an
+analysis of a broader set of countries in Asia, Africa
+and South America, highlighting the approach
+taken to AI in some developing countries. The final
+section highlights future areas of research needed
+to expand upon this work.
+
+GLOBAL DIVIDES IN AI INVESTMENTS, TALENT AND RESEARCH
+Investment in AI startups over the past decade has
+been dominated by the United States (US) and China
+(CB Insights 2019). A few other OECD countries
+including Japan, Sweden, Germany and France, as
+well as Russia and South Korea have also generated
+significant investment in AI (OECD 2019b). In
+terms of human capital, AI talent is also scarce and
+unequally distributed across industries, sectors, and
+countries. More than half of the population in the
+developing world lacks basic digital skills (World
+Bank 2019a), and the vast majority of those with
+digital skills lack more advanced skills in AI and
+machine learning (Gaskell 2020). The shortage of
+AI talent is even more acute amongst women, who
+remain highly underrepresented in the field (Gagne
+
+and others 2020). The inadequate supply of highly
+skilled AI workers being produced combined with
+the movement of skilled workers to high-income
+countries means that there is a shortage of AI
+scientists in developing countries, particularly
+countries that lack AI research and industry hubs
+(McKinsey Global Institute 2020). Many countries
+therefore face a challenging problem of not only
+developing, but also retaining local AI talent. The
+constraints on investment and workforce talent
+inputs reflects the globally asymmetric outputs in
+AI research and development (R&D), which are
+concentrated in just a small number of countries
+(Savage 2020).
+
+worldbank.org/digitaldevelopment
+3
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+AI and the Development
+Agenda: Opportunities
+and Risks
+Globally, significant gains in overall productivity
+and economic growth have been projected from
+new AI related product offerings and improved
+supply chains. Deloitte (2019) estimates a $6.4
+trillion global AI market by 2025, while PwC
+(2017) estimates a 14% increase in global GDP in
+2030 because of AI adoption, the equivalent of an
+additional $15.7 trillion. These economic forecasts
+are being supported by the rapid uptake of AI in
+transport, agriculture, finance, advertising and
+marketing, science, health care, criminal justice,
+security and the public sector (Deloitte 2019).
+However, adoption of AI in many markets is still at
+an early stage, and much of its capability is yet to be
+tapped, particularly in developing countries.
+
+agribusiness, financial services, manufacturing and
+gender equality. AI-driven risk management may
+yield another major opportunity for developing
+countries, including disease prevention and
+natural disaster and crisis management (Strusani &
+Houngbonon 2019).
+
+AI applications have the potential to address some
+challenging societal problems and provide solutions
+to achieving targets in each of the Sustainable
+Development Goals (SDGs). AI innovation and
+adoption has the potential to help progress towards
+goals in education, climate change, disaster relief,
+health care and the delivery of public sector
+services, representing some of the most critical
+cross-sectoral SDG domains for developing
+countries (Vinuesa et al. 2020). A recent report by
+the IFC (2020) provides a comprehensive overview
+of AI development opportunities across several key
+sectors including power, transport, smart homes,
+
+Alongside the potential benefits for developing
+countries, AI technologies are also associated
+with risks such as control, inequality and market
+concentration, amongst others. AI technologies
+can be used for surveillance applications, tracking
+individuals across digital, smart and connected
+devices, while powerful pattern recognition
+technologies can be used to identify individuals
+
+worldbank.org/digitaldevelopment
+4
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+and personal information in training datasets
+(Lyon 2009). Access to personal data can be
+exploited to predict and track individuals and
+groups and their behavior while governments and
+other actors can use facial recognition technologies
+to boost surveillance capabilities (Feldstein 2019).
+Furthermore, AI-generated realistic audio and
+video (“deep fakes”) and hyper personalized
+disinformation campaigns can manipulate,
+
+persuade, and deceive citizens (Brundage and
+others 2018). In a commercial setting, the imbalance
+in power between data collectors and processors
+and the individuals providing their data may result
+in undesirable market outcomes (Klein 2020). In
+the case of governments, these technologies raise
+individual privacy concerns and can be used in
+ways that infringe human rights and individual
+freedoms (Risse 2018).
+
+worldbank.org/digitaldevelopment
+5
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+AI also threatens to contribute to widening income
+inequality in countries with greater disparities in
+access to education and high-skilled employment.
+While there is no consensus about the future
+impact of AI on jobs (Winick 2018), there is
+concern that AI will be linked to further worsening
+income inequalities both between countries and
+within countries (ILO 2018). Many types of jobs –
+particularly those that are comprised of routine and
+predictable tasks – are susceptible to automation
+using existing technologies (World Bank 2016). The
+further development and adoption of AI, alongside
+advances in robotization, can accelerate this process
+of automation, putting jobs at risk (ILO 2018). This
+process could widen existing inequalities across
+gender, education, rural vs. urban, age and income.
+
+systems exacerbate this problem (Floridi and others
+2018). As AI systems begin to play a bigger role in
+decision-making processes in critical areas such
+as healthcare, education and criminal justice, such
+problems are likely to become more widespread
+and have more pressing political significance.
+Market concentration is another potential risk of
+AI, due to the high levels of investment required
+for technology development. Well-resourced
+technology companies are able to collect more
+data, hire top talent and are able to build significant
+hardware and computing capabilities. Access to
+high quality training datasets, and the analysis that
+these companies are able to undertake using them,
+may give them an advantage which competitors
+would find difficult to challenge. In this way, firstmover advantage and economies of scale benefit
+a handful of large players and result in market
+concentration (ITU 2018).
+
+Additionally, the bias in some AI applications may
+reproduce and aggravate social marginalization for
+underrepresented groups. Biased analysis occurs
+when training datasets for machine learning
+models are either incomplete or unrepresentative of
+the entire population or range of examples (Smith
+& Rustagi 2020). As developing countries are less
+represented in digital data, and AI technologies
+are primarily formulated in developed countries,
+machine learning models could result in outcomes
+that are inaccurate, unsafe and may discriminate
+unfairly against underrepresented groups (Shankar
+and others 2017; Mehrabi and others 2019). The
+lack of explainability and accountability of some AI
+
+worldbank.org/digitaldevelopment
+6
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+STAKEHOLDERS INVOLVED WITH SHAPING NATIONAL AI STRATEGIES
+In the context of a rapidly evolving technology
+landscape, some governments have developed
+national AI strategies and policies to steer the
+development and adoption of the technology in
+order to manage the potential risks and rewards
+of AI. A multi-stakeholder approach can help
+facilitate appropriate policymaking and deliver
+national AI strategies. The private sector, civil
+society and academia, international organizations
+and governments can all shape and/or support
+national AI strategies, as with national innovation
+strategies more broadly (Sharif 2006).
+
+private sector a crucial actor in AI development.
+The private sector – including large enterprises,
+small and mid-size enterprises (SMEs) and startups – plays a dominant role in the innovation,
+development and application of AI in the digital
+economy. AI research and product development
+is increasingly led by large technology companies
+which can afford to hire top talent, capture
+and obtain better data and employ large-scale
+computing facilities, experimentation labs and
+testbeds for product design. While more limited in
+scalability and resources, SMEs have an important
+role to play with diffusion of AI technology on
+the supply side, and adoption and usage of AI on
+the demand side. Start-ups can also help expand
+the overall AI ecosystem as they seek out scalable
+business models. Dynamic entrepreneurship and
+
+The Role of the Private Sector
+The intertwined relationship between AI
+development and the digital economy makes the
+
+worldbank.org/digitaldevelopment
+7
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+well-developed innovation ecosystems can drive
+technology diffusion in new areas, with a growing
+number of start-ups developing AI applications for
+new and different contexts. One key way the private
+sector can help shape national AI strategies is
+through providing comments during consultation
+periods, where feedback on strategy proposals is
+solicited by government planning bodies, such as
+in Brazil. 3
+
+International forums such as the G20 and G7,
+organizations such as the UN, ITU, OECD
+and UNESCO and supranational and regional
+organizations such as the African Union can
+coordinate policies and pool resources across
+countries to devise and implement AI strategies.
+Policies at international levels can also help to define
+and monitor regulation, practices, and standards in
+AI applications. Some international organizations
+have already proposed guidelines and approaches
+for building capabilities for governing AI, often
+leveraging soft law. The UN High-Level Panel on
+Digital Cooperation for example was convened by
+the UN Secretary-General to advance global multistakeholder dialogue regarding the potential of
+digital technologies to advance human wellbeing
+while mitigating any risks of these technologies.4
+The UN and the International Telecommunication
+Union (ITU) have also taken steps towards
+international coordination by articulating an
+approach for the UN system to support AI adoption
+in developing countries and by hosting the annual
+AI for Good conference. UN agencies also apply
+a baseline of standards in countries that may lack
+regulatory regimes, which can ultimately help guide
+and shape the formulation of national AI strategies.
+
+The Role of International and
+Regional Organizations
+
+International organizations also work on
+harmonizing data protection regulation across
+regions and promote access to data and markets.
+
+3 http://participa.br/profile/estrategia-brasileira-de-inteligencia-artificial
+4 United Nations, Secretary-General’s High-level Panel on Digital
+
+Cooperation, https://www.un.org/en/digital-cooperation-panel/. Its final
+report (UN Secretary-General’s High-level Panel 2019) makes five sets
+of recommendations: i) Build an inclusive digital economy and society,
+ii) Develop human and institutional capacity, iii) Protect human rights
+and human agency, iv) Promote digital trust, security and stability, and v)
+Foster global digital cooperation. The final report was submitted in June
+2019 for a broad consultation process on the topics covered in the report.
+
+worldbank.org/digitaldevelopment
+8
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+The European Single Digital Market demonstrates
+one such example of a framework designed to
+facilitate access and trade concerning digital data.
+Similarly, the EU-AU Digital Economy Task Force
+(EU-AU DETF) is a platform for partnerships
+between the private sector, donors, international
+organizations, financial institutions and civil
+society to progress African digital transformation
+for cross-border digital integration and to bring
+benefits to all citizens (AI-HLEG 2019). In Asia, the
+ASEAN Framework on Digital Data Governance
+aims to harmonize data standards, data governance
+or data protection frameworks regionally to enable
+5
+innovation, cross-border trade and cybersecurity.
+While there is varying degree of involvement
+amongst countries reviewed in this study, the role of
+international and regional organizations in shaping
+national AI strategies continues to grow.
+
+workshops to discuss challenges and support local
+practitioners and start-ups.7 Additionally, citizen
+and civil society engagement and involvement
+in AI policymaking is often used to build trust
+in AI adoption among society. This can transpire
+through public consultations and workshops to
+inform the development of AI policies. Universities
+and academic institutions also play an active role in
+supporting local AI research and applications.
+
+The Role of Government
+The role of government in conceiving and developing
+an AI strategy varies from a hands-off approach,
+to providing a suitable enabling environment, to
+more active direction of AI initiatives. While some
+countries have taken a laissez-faire approach, this
+is not prevalent among countries leading in AI
+adoption. An examination of the early adopters of
+national AI strategies shows that the government’s
+role typically varies from active driving of initiatives
+on AI development and providing a supportive
+environment for stakeholders, to playing a more
+passive facilitating role, as noted in Box 1. While
+various stakeholders participate in implementing
+AI strategies, governments play a fundamental
+role in setting AI policy direction and accelerating
+development and adoption. They can also lead AI
+adoption in public services to improve outcomes
+in health care, education, transportation, and
+administrative efficiency.
+
+The Role of Civil Society and Academia
+Civil society and nonprofit organizations can
+serve as an independent monitor to influence
+the adoption and practice of trustworthy AI
+applications. They can further facilitate the
+scalability of capacity development programs for
+AI adoption. Examples include the ‘Ghana Code
+Club,’ which provides an after-school program for
+6
+teaching programming skills; and City. AI, a global
+nonprofit organization comprised of a network of
+AI practitioners who organize local meet-ups and
+
+5 ASEAN Framework on Digital Data Governance, https://asean.org/storage/2012/05/6B-ASEAN-Framework-on-Digital-Data-Governance_Endorsed.pdf
+6 Ghana Code Club, https://ghanacodeclub.org/pages/about
+7 City.AI (https://city.ai/) focuses on practical discussions and meet-ups to help local AI practitioners and start-ups with challenges ranging from technical
+
+to business models. As an example, City.AI held its first event in South Africa in March 2018, with local AI practitioners in Cape Town. The goal was to
+encourage peers to share their actionable advice and insights on applied AI experience. See Edwards 2018.
+
+worldbank.org/digitaldevelopment
+9
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+BOX 1: Different Government Approaches for Driving AI Policies
+
+DIRECTING GOVERNMENT
+
+In this approach governments play a leading role in directing the design and execution of national
+strategies, including elements of coordination among stakeholders.
+
+ENABLING GOVERNMENT
+
+An enabler government plays a less direct role while still collaborating across stakeholders to enable
+and support innovation. Government involvement focuses on supporting the private sector and
+building a regulatory and market environment conducive to innovation.
+
+LAISSEZ-FAIRE GOVERNMENT
+
+This approach relies primarily on private sector markets to drive AI innovation.
+
+National Artificial Intelligence Strategies,12 Tortois’
+Global AI Index spotlighting G20 nations,13 the
+European Commission’s AI Watch,14 HolonIQ’s
+AI Strategy Landscape (2020) 15 which represents
+one of the largest reviews covering 50 countries
+and CIFAR’s Report on National and Regional AI
+Strategies (Dutton et al. 2020), which embarked
+on one of the earliest global reviews of national
+AI strategies in 2017. This report complements
+the existing literature with a review of different
+government approaches to AI across eleven
+countries at varying levels of national digital
+development.
+
+While there is much variation in the form a
+strategy takes – from a public announcement, to a
+guiding document, to a more comprehensive plan
+– governments are uniquely situated to consider
+the risks and opportunities of AI within their own
+national contexts and provide strategic direction.
+Previous research that has explored and compared
+national AI strategies and policies includes the
+8
+annual Stanford AI Index (2021), the OECD AI
+Policy Observatory launched in 2020,9 the annual
+Oxford Insights Government AI Readiness Index
+10
+(2020), the Future of Life Institute’s review of
+National and International AI Strategies,11 AiLab’s
+
+8 https://aiindex.stanford.edu/wp-content/uploads/2021/03/2021-AI-Index-Report_Master.pdf
+9 https://www.oecd.ai/
+10 https://www.oxfordinsights.com/government-ai-readiness-index-2020
+11 https://futureoflife.org/national-international-ai-strategies/
+12 https://www.ailab.com.au/research/national-artificial-intelligence-strategies/
+13 https://www.theglobalaisummit.com/FINAL-Spotlighting-the-g20-Nations-Report.pdf
+14 https://knowledge4policy.ec.europa.eu/ai-watch/national-strategies-artificial-intelligence_en
+15 https://www.holoniq.com/notes/50-national-ai-strategies-the-2020-ai-strategy-landscape/
+
+10
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+CASE SELECTION, INFORMATION GATHERING AND APPROACH TO ANALYSIS
+The eleven countries reviewed for this study
+were selected based on four criteria: maturity
+of a country’s AI ecosystem, level of digital
+development, geographic location and level of
+economic development. Finland and the UAE
+were selected for more detailed analysis due to
+their early adopter status of AI technology, with
+both governments ranking in the top 20 for AI
+readiness in the year this review commenced.16 The
+findings presented reflect information on national
+strategies and policies that was gathered from
+
+available documents and interviews with experts
+and advisors between February 2019-July 2020.
+Once the findings were collected, the approach
+was to review the content of national AI policy
+and strategy documents using a matrix of variables
+based on previous research on this subject (Dutton
+et al. 2018; European Commission 2018). Overall,
+a matrix of eight policy domain areas and six policy
+tools and instruments to implement national AI
+strategies were used for understanding the role of
+government, which is illustrated using heatmaps.
+
+16 https://www.oxfordinsights.com/ai-readiness2019
+
+worldbank.org/digitaldevelopment
+11
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+Eight Policy Domains within AI Strategies
+National strategies target a range of sub-goals
+or domain areas. Based on work by Dutton
+et al (2018) and the findings of the European
+Commission’s Coordinated Plan on Artificial
+Intelligence published in 201817, the variety of subgoals in national AI strategies can be categorized in
+the following eight domain areas. These represent
+distinct thematic areas that are the object of
+policymaking to accelerate AI development and
+adoption at the country level. These domains are
+influenced by various tools and instruments as
+described in the subsequent section, which in
+turn can simultaneously target multiple domains
+noted below:
+
+policies, partnerships, and programs to prepare the
+labor force for changing skills demands, including
+STEM education and digital and AI skills training
+in new learning models.
+3.
+Entrepreneurial
+ecosystem:
+Policy
+approaches for supporting entrepreneurs include
+reducing the regulatory or tax burden for start-ups,
+or direct funding for new AI start-ups.
+4.
+Standards for ethical or trustworthy AI:
+Policies and measures to uphold ethics, safety and
+security in the development and use of AI, such as
+regulation for data privacy, funding research into
+explainable AI or developing or endorsing ethical
+guidelines.
+
+1.
+Scientific research: Policies include the
+creation of new research centers, hubs, partnerships
+or programs in AI research.
+
+5.
+Data access: Policies to increase access
+to quality data for machine learning models by
+improving data sharing infrastructures and rules
+for data portability. Initiatives include opening
+public datasets, creating new open data platforms,
+data marketplaces, data trusts or local annotated
+datasets.
+
+2.
+AI talent development: Policies include
+measures to train domestic talent or to attract
+and retain international talent, including funding
+for AI-specific Master’s degree, PhD and other
+academic programs. This category also includes
+
+17 https://digital-strategy.ec.europa.eu/en/library/coordinated-plan-artificial-intelligence
+
+worldbank.org/digitaldevelopment
+12
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+6.
+AI adoption in the public sector: Policies
+to accelerate the adoption and use of AI in the
+public sector to improve public service performance
+outcomes and efficiency. Approaches include PPPs,
+piloting programs, AI training courses for public
+administrators and spreading awareness about AI
+opportunities.
+
+Approaches include fostering partnerships between
+technology companies and sectoral or industry
+actors, funding or support for national champions
+in target sectors, and spreading awareness about
+opportunities for productivity and efficiency gains.
+8.
+Building capabilities for AI governance:
+Policies include consultations with, and forming
+advisory bodies of, industry and academic experts,
+public consultations and pilots for applications of
+AI to learn about opportunities and risks.
+
+7.
+Strategic sectoral targeting of AI: Policies
+to accelerate the adoption and application of AI to
+boost productivity and efficiency in key sectors.
+
+Six Tools and Instruments
+to Implement National AI Strategies
+1.
+Legal and regulatory reforms: This form of
+hard law refers to the safeguarding of basic human
+rights and values and enforcing safety and ethical
+precautions. Reforms can clarify rules or support
+innovation, for example through strengthening
+intellectual property regimes or competition policy.
+Use of regulatory sandboxes can also provide
+testing environments with relaxed rules to support
+the development of AI.
+
+There are a range of policy tools and instruments
+to implement the components of AI strategies,
+and the choice and combination of tools depends
+on national and industrial contexts. While the
+government is a lead facilitator for several tools
+such as legal and regulatory reform, the private
+sector, academia and civil society might lead others
+such as establishing new research centers and skills
+training programs. In some areas, the boundary
+between tools and instruments is less defined, and
+there is some overlap. The tools and instruments
+that were used in this review of national strategies
+were developed and refined through consultation
+between The Future Society18and The World Bank
+team.
+
+2.
+Expansion of public services and
+programs: This includes public services
+and programs that support development of
+entrepreneurship and innovation – particularly in
+AI talent development and data access. Expansion
+
+18 The Future Society was engaged by the World Bank to carry out research
+
+and write a background report which has informed this working paper.
+For more information see https://thefuturesociety.org/
+
+worldbank.org/digitaldevelopment
+13
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+4.
+Multi-stakeholder partnerships: This
+includes partnerships and engagements with
+other stakeholders to implement AI strategies.
+These engagements include public consultations,
+collaborations with industry to define technical or
+ethical standards and public-private partnerships
+(PPPs) for AI adoption in key public services.
+
+of public services and programs can support
+several AI strategy domains around AI talent and
+skills development. This includes education reform
+targeting STEM or other relevant skills and offering
+new training programs for machine learning and
+digital skills. It also includes increasing salaries for
+public sector researchers and expanding benefits
+such as maternity/paternity leave and childcare
+to help attract skilled talent. This category also
+includes public-sector led initiatives and projects
+for AI adoption in public services, such as the
+establishment of open data initiatives and platforms
+or data trusts or exchanges. This also includes pilot
+studies to explore the impacts of AI, and training
+programs for public administration regarding AI
+capabilities and skills.
+
+5.
+New centers and collaborations: This
+refers to collaborations among research centers and
+scientists to pool resources (funding, technology,
+human capital, expertise) across regions to
+overcome shortcomings at local levels. This also
+includes national centers of excellence to bolster
+scientific research, AI talent development and
+entrepreneurial activity. This category also includes
+development of digital innovation hubs (DIH) and
+clusters to connect SMEs, industry and academia to
+share expertise and resources.
+
+3.
+Soft law, standards and industry selfregulation: Soft law refers to technical standards,
+norms and codes of ethics and conduct. It
+addresses some of the rigidity, time-lag and other
+shortcomings of standard policymaking processes.
+Soft law also includes industry self-regulation.
+
+6.
+Strategic investments and funding:
+Avenues for funding can include public
+procurement, research grants, awards or “grand
+
+worldbank.org/digitaldevelopment
+14
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+challenges.” The public sector can support the
+creation of new research centers or programs in
+basic or applied AI research or provide direct
+investment for start-ups to compensate for
+shortages in venture capital funding. Funding can
+target specific research needs based on priorities,
+
+including projects using AI applications for
+societal good such as biomedicine, education
+or climate research. This category also includes
+scholarship funding for Master’s degree or PhD
+students in machine learning.
+
+FINDINGS FROM A REVIEW OF NATIONAL AI STRATEGIES
+This section presents emerging practices in AI
+policymaking across a broad geographic range of
+eleven countries. It begins with a more detailed re-
+
+view of the national AI strategies of Finland and the
+UAE to better understand the actions and motives
+of early AI-adopter countries.
+
+Finland’s National AI Strategy
+Finland was among the first European countries
+to launch an AI strategy in October 2017,19 and its
+latest AI strategy document was published in June
+20
+2019. Finland has one of the most advanced digital
+economies in Europe and is well positioned to reap
+the benefits of AI technologies (Foley and others
+2020). Their 2019 AI strategy positions Finland
+as a piloting environment spearheaded by agile,
+innovation-friendly public administration and
+enabling legislation. However, it recognizes that the
+country lacks economies of scale, internationally
+connected companies and foreign direct investment,
+and exhibits slow commercialization. Finland’s
+2019 AI strategy report identifies eleven areas of
+action, as outlined in Figure 1.
+
+19 https://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/160391/TEMrap_47_2017_verkkojulkaisu.pdf
+20 https://julkaisut.valtioneuvosto.fi/handle/10024/161688
+
+worldbank.org/digitaldevelopment
+15
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+FIGURE 1: Finland’s National AI Strategy: 11 Key Actions
+
+1. INCREASING COMPETITIVENESS OF FINNISH COMPANIES THROUGH AI
+2. INCREASING USE OF DATA AND DATA AVAILABILITY
+3. SPEEDING UP THE DEPLOYMENT OF AI
+4. ATTRACTING AI TALENT AND EXPERTS
+5. INCREASING INVESTMENTS IN AI
+6. AUGMENTING PUBLIC SERVICES WITH AI
+7. CREATING NEW TYPES OF COLLABORATION
+8. RAISING FINLAND’S PROFILE AND BECOMING A LEADER IN AI APPLICATIONS
+9. PREPARING FOR THE FUTURE OF WORK
+10. CREATING TRUST-BASED AND HUMAN-CENTERED AI, BEING A LEADER IN AI ETHICS
+11. ADDRESSING CYBERSECURITY AND SAFETY CHALLENGES OF AI TECHNOLOGIES
+
+Finnish AI strategy exhibits a mostly bottom-up
+approach, leveraging several multi-stakeholder
+consultations to form the basis of their strategy.
+Their initial 2017 strategy document states this call
+21
+for multi-stakeholder consultation, which informed
+the foundation of proposals in their 2019 strategy
+document which includes the eleven key actions in
+Figure 1 and some specific measures for fostering
+AI.22 The government places significant value in
+
+learning from different actors. The representatives
+they invited included people from the private and
+public sectors, research institutes and employers,
+and also included employees, individual experts
+and influencers to form the basis of the steering
+group and its subgroups. Citizen participation was
+also encouraged through online platforms that
+facilitated interaction and discussion on a variety
+23
+of queries around AI.
+
+21 https://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/160391/TEMrap_47_2017_verkkojulkaisu.pdf ; 61-63
+22 https://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/161688/41_19_Leading%20the%20way%20into%20the%20age%20of%20artificial%20intelligence.pdf; 12.
+23 https://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/160391/TEMrap_47_2017_verkkojulkaisu.pdf ; 68.
+
+worldbank.org/digitaldevelopment
+16
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+Overall the Finnish government mostly acts as a
+facilitator, focusing on creating platforms, networks
+and ecosystems for AI innovation to emerge from
+the bottom up. One illustrative example of this
+bottom-up process is their approach to ethical
+guidelines. Rather than issuing ethical principles
+for companies to apply, the Finnish strategy set up
+an ecosystem – the AI Finland Ethics Challenge
+– where companies could commit themselves
+to devising ethical guidelines anchored in their
+practice which can then be shared with each
+24
+other. The Finnish AI strategy seeks to position
+the government within public-private-people
+partnerships and actively explores cross-sectoral
+models of collaboration to support AI.
+
+with NVIDIA to establish a joint AI technology
+center. This collaboration provides the Finnish
+AI ecosystem with significant computing power,
+graphical processing units (GPU) and AI software
+for AI applications for research and industry use
+(FCAI 2020). Finland has also set up a 5G network
+pilot (5GTNF) with private partners and research
+and academic partners to establish an environment
+for research and business development purposes.26
+Finland’s government has directly invested
+towards various AI capacity building initiatives
+including research, learning reform, data
+management and computational infrastructure.
+In 2018 the government announced €160 million
+for AI investment, which includes €34 million
+in funding for the AI Business program,27 a fund
+which focuses on developing new value from AI
+and the platform economy.28 This program has
+been authorized to allocate €100 million in funds
+over a four-year period to Finnish-registered
+startups, SMEs and larger companies engaging
+in AI research and development, and €60 million
+in capital loans to ‘growth engines.’29 In terms of
+economic impact, Finland is forecast to achieve a
+€20 billion increase in GDP by 2023, equivalent
+to an additional 8% (Microsoft & PwC 2018).
+Overall, a review of Finland’s national AI strategy
+illustrates a government that is focused on engaging
+stakeholders, developing partnerships and acting
+as a facilitator to drive AI development.
+
+Finland’s government acknowledges the need to
+build digital ecosystems and platforms to fortify the
+foundation needed to enable AI development and
+applications. As Finland’s small population impedes
+the development of such platforms, the country
+directs its efforts to building digital platforms
+that are scalable. Finland is prominent in the EU’s
+Digital Single Market and works on digitalization
+and designing human-centered platforms scalable
+to the European Union such as MyData – a personal
+data management platform that seeks to develop an
+internationally scalable interoperability model for
+personal data management.25 Additionally, in order
+to accelerate AI research and adoption in Finland,
+the Finnish Center for AI (FCAI) has partnered
+
+24 https://www.tekoalyaika.fi/en/background/ethics/
+25 https://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/161688/41_19_Leading%20the%20way%20into%20the%20age%20of%20artificial%20intelligence.pdf; 52-57
+26 http://5gtnf.fi/overview/
+27 https://www.businessfinland.fi/en/for-finnish-customers/home
+28 https://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/161688/41_19_Leading%20the%20way%20into%20the%20age%20of%20artificial%20intelligence.pdf ; 83.
+29 Ibid, 83
+
+17
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+United Arab Emirates’
+National AI Strategy
+The UAE has been an early proponent of AI
+adoption, having launched its vision for AI with
+the appointment of a Minister of State for AI in
+October 2017,30 the creation of a UAE Council for
+AI in March 2018,31 and the official adoption of
+a National AI Strategy in April 2019.32 The UAE’s
+government views AI as a critical component for the
+advancement of key sectors and to bolster overall
+economic productivity.33 The government’s strategy
+aims to establish and brand the country as a hub
+for AI adoption, and become one of the leading
+nations in AI by 2031.34 This strategy was supported
+by the launch of the National Program for Artificial
+Intelligence (BRAIN) which focuses on the UAE’s
+objective to become a leader in responsible use of
+35
+AI, and the Think AI initiative which encourages
+private companies to engage with the government
+through a series of strategic roundtables to accelerate
+the adoption of AI.36 The themes for the first five
+roundtables focused on attracting and fostering
+talent, enhancing the adoption of AI, regulation
+and governance, preparing suitable infrastructure
+and developing national standards.37
+
+The UAE’s national strategy lays out a sectoral
+approach with priority sectors identified to pilot AI
+adoption.38 These priority sectors include resources
+and energy, logistics and transport, tourism
+and hospitality, healthcare and cybersecurity.39
+Their strategy for building momentum for AI
+development is to begin with existing strengths they
+identify as industry assets and emerging sectors and
+smart government before focusing on opportunities
+where they hope to lead such as data sharing and
+governance and developing a new generation of
+regional talent.40 The UAE’s national strategy also
+defines eight strategic objectives to help the country
+move from an AI adopter to an AI innovator and
+exporter, bringing together their foundational
+priorities, activities and leadership vision as
+illustrated in Figure 2.
+
+30 https://u.ae/en/about-the-uae/strategies-initiatives-and-awards/federal-governments-strategies-and-plans/uae-strategy-for-artificial-intelligence
+31 https://ai.gov.ae/uae-ai-initiatives/
+32 https://uaecabinet.ae/en/details/news/uae-cabinet-adopts-national-artificial-intelligence-strategy-2031
+33 https://u.ae/en/about-the-uae/strategies-initiatives-and-awards/federal-governments-strategies-and-plans/uae-strategy-for-artificial-intelligence
+34 https://ai.gov.ae/wp-content/uploads/resources/UAE_National_Strategy_for_Artificial_Intelligence_2031.pdf
+35 https://ai.gov.ae/about-us/
+36 https://ai.gov.ae/the-uae-government-launches-think-ai-initiative/
+37 Ibid
+38 https://ai.gov.ae/wp-content/uploads/resources/UAE_National_Strategy_for_Artificial_Intelligence_2031.pdf
+39 Ibid, 10.
+40 Ibid, 10.
+
+18
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+FIGURE 2: UAE National Strategy Objectives
+VISION
+To become one the leading nations in AI by 2031
+
+BUILD A
+REPUTATION AS
+AN AI DESTINATION
+Eg. UAI brand
+
+LEADERSHIP
+INCREASE THE
+UAE COMPETITIVE
+ASSETS IN PRIORITY
+SECTORS THROUGH
+DEPLOYMENT OF AI
+
+DEVELOP A
+FERTILE
+ECOSYSTEM
+FOR AI
+
+ADOPT AI
+ACROSS
+GOVERNMENT
+SERVICES TO
+IMPROVE LIVES
+
+Eg. Proof-of-concept
+in priority sectors
+
+Eg. Applied AI
+accelerator
+
+Eg. National AI
+challenges
+
+AI ACTIVITY
+ATTRACT AND TRAIN
+TALENT FOR FUTURE
+JOBS ENABLED BY IA
+
+Eg. Public AI
+basic training
+
+BRING WORLDLEADING RESEARCH
+CAPABILITY TO WORK
+WITH TARGET
+INDUSTRIES
+
+PROVIDE THE DATA
+AND SUPPORTING
+INFRASTRUCTURE
+ESSENTIAL TO
+BECOME A TEST BED
+FOR AI
+
+ENSURE
+STRONG
+GOVERNANCE
+AND EFFECTIVE
+REGULATION
+
+Eg. Key thinkers
+program
+
+Eg. Secure data
+infrastructure
+
+Eg. Intergovernmental
+panel on AI
+
+FOUNDATIONS
+Source: UAE National Strategy for Artificial Intelligence (2018), p18.
+https://ai.gov.ae/wp-content/uploads/resources/UAE_National_Strategy_for_Artificial_Intelligence_2031.pdf
+
+worldbank.org/digitaldevelopment
+19
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+The UAE has launched various programs to
+support the underlying foundation for which AI
+applications can be developed. A non-exhaustive list
+of initiatives includes Smart Dubai, Dubai’s smart
+city transformation initiative which proactively
+engages in multi-stakeholder collaborations to codevelop AI applications,41 the UAE Strategy for the
+Fourth Industrial Revolution, which focuses on AI
+as well as industries where AI can have impact like
+genomics and healthcare,42 and the Dubai Internet
+of Things (IoT) Strategy, which aims to develop
+an advanced IoT ecosystem that can support AIenabled IoT as it becomes available.43 To support
+the development of these programs and initiatives
+and the UAE’s goal of becoming a regional AI
+hub, the government is also investing in acquiring
+teams from other regions and incentivizing them to
+develop in the UAE.44
+
+Finally, the UAE’s AI strategy places significant
+importance on PPP and multi-stakeholder
+engagement. The AI Office is focusing on
+several partnering initiatives with the private
+sector. For example, they aim to launch an
+‘applied AI accelerator’ to support domestic AI
+entrepreneurship and product development in
+the region.45 Their national strategy also notes how
+existing funds for local innovators such as the
+Mohammed bin Rashid Innovation Fund can be
+used in collaboration with the AI Council to support
+partnerships with government.46 Additionally, the
+government is providing incentives to encourage
+greater partnerships between the UAE and
+multinational AI companies through facilitating
+larger FDI schemes and AI-related investment
+funds.47
+
+41 https://www.smartdubai.ae/
+42 https://government.ae/en/about-the-uae/strategies-initiatives-and-awards/federal-governments-strategies-and-plans/the-uae-strategy-for-the-fourth-industrial-revolution
+43 https://www.government.ae/en/about-the-uae/strategies-initiatives-and-awards/local-governments-strategies-and-plans/dubai-internet-of-things-strategy
+44 https://ai.gov.ae/wp-content/uploads/resources/UAE_National_Strategy_for_Artificial_Intelligence_2031.pdf ; 28.
+45 Ibid, 27.
+46 Ibid, 26.
+47 Ibid, 28.
+
+worldbank.org/digitaldevelopment
+20
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+Comparing the Role of Government
+in the Finnish and UAE National AI
+strategies
+
+In the decade before the National AI Strategy
+was approved by the UAE Cabinet in 2019, the
+UAE ranked behind only Turkey in the Middle
+East and North Africa region in terms of total
+AI investments. From 2008-2018 an aggregate of
+$2.15 billion was spent on AI transactions in the
+UAE through mergers, acquisitions and various
+forms of investment (Microsoft & EY 2019). Direct
+spending on AI systems – including AI software
+applications and platforms – is predicted to reach
+$73 million in 2020 (IDC 2019). PwC estimates that
+AI will positively impact the UAE’s GDP by 13.6%
+in 2030, although this represents forecasts based
+on dynamic economic modeling carried out prior
+to the onset of the coronavirus pandemic (PwC
+2018b). While the effect of the pandemic remains
+difficult to quantify, a 2020 survey of UAE business
+leaders found 68% stating that AI – along with
+automation and machine learning – will be even
+more important for their companies in the postCovid era, and 40% responding more specifically
+that it will facilitate further innovation (GE
+Innovation Barometer 2020). Overall, a review of
+the UAE’s national strategy illustrates a government
+that is very active in driving AI development, and
+focused on a sectoral approach.
+
+This section synthesizes the findings from the
+review of AI strategies in Finland and the UAE.
+The heat maps shown in Figure 3 (Finland) and
+Figure 4 (UAE) indicate the role of government
+for initiatives in each category as either “directing,”
+“enabling”, or having no initiative, reflecting
+government approaches defined earlier in Box 2.
+The assessment in these heat maps is based on a
+broader review of the national strategies for these
+countries included in the background paper of this
+report, reflecting details that are not referenced in
+the shorter summaries included in this working
+paper. The authors acknowledge that some AI
+policies and initiatives may not have been available
+for consideration during the period of review
+between 2019-2020, and that different conclusions
+may be reached regarding the magnitude of
+government interventions across the domains,
+tools and instruments illustrated in the heat maps.
+
+worldbank.org/digitaldevelopment
+21
+
+FIGURE 3: Finland: Role of Government in AI Heat Map
+TOOLS and INSTRUMENTS
+AI POLICY DOMAINS
+
+LEGAL AND
+REGULATORY
+REFORMS
+
+EXPANSION OF
+PUBLIC SERVICES
+AND PROGRAMS
+
+SOFT LAW, STANDARDS
+AND INDUSTRY
+SELF-REGULATION
+
+MULTI-STAKEHOLDER
+PARTNERSHIPS
+AND PPPS
+
+NEW CENTERS
+AND FACILITATING
+COLLABORATIONS
+
+STRATEGIC
+INVESTMENTS AND
+DIRECT FUNDING
+
+MULTI-STAKEHOLDER
+PARTNERSHIPS
+AND PPPS
+
+NEW CENTERS
+AND FACILITATING
+COLLABORATIONS
+
+STRATEGIC
+INVESTMENTS AND
+DIRECT FUNDING
+
+SCIENTIFIC
+RESEARCH
+AI TALENT
+DEVELOPMENT
+ENTREPRENEURSHIP
+ECOSYSTEM
+ETHICAL AI
+STANDARDS
+DATA
+ACCESS
+AI IN THE PUBLIC
+SECTOR
+SECTORAL
+ADOPTION OF AI
+BUILDING CAPABILITIES
+FOR GOVERNING AI
+
+FIGURE 4: UAE: Role of Government in AI Heat Map
+TOOLS and INSTRUMENTS
+AI POLICY DOMAINS
+
+LEGAL AND
+REGULATORY
+REFORMS
+
+EXPANSION OF
+PUBLIC SERVICES
+AND PROGRAMS
+
+SOFT LAW, STANDARDS
+AND INDUSTRY
+SELF-REGULATION
+
+SCIENTIFIC
+RESEARCH
+AI TALENT
+DEVELOPMENT
+ENTREPRENEURSHIP
+ECOSYSTEM
+ETHICAL AI
+STANDARDS
+DATA
+ACCESS
+AI IN THE PUBLIC
+SECTOR
+SECTORAL
+ADOPTION OF AI
+BUILDING CAPABILITIES
+FOR GOVERNING AI
+
+KEY:
+
+DIRECTING
+
+ENABLING
+
+NO INITIATIVE
+22
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+The governments of both Finland and the UAE
+have demonstrated active roles in developing and
+executing AI policies and initiatives. Four areas of
+flagship policies emerge in Finland’s AI strategy
+including supporting scientific research and
+developing AI talent, supporting entrepreneurial
+ecosystems for AI, enhancing data access and
+establishing ethical data and algorithm governance
+guidance through collaboration with stakeholders,
+and finally a focus on developing AI for public
+service delivery. Similarly, the UAE government’s
+approach to AI adoption also focuses on the
+expansion of AI in public service, developing local
+scientific research capabilities, and developing AI
+training programs for students and government
+employees through public-private partnerships. The
+UAE strategy has limited reference to regulatory or
+
+hard law approaches for managing AI development
+across any of the key policy domains, though it has
+indicated committing to ethical standards through
+frameworks and toolkits, and providing strategic
+investments and partnerships to advance adoption
+of AI within targeted sectors. Both governments
+also place high strategic importance on engaging
+multi-stakeholder collaborations to facilitate
+AI. However, while the UAE has taken a hybrid
+approach with more top-down directed initiatives
+to accelerate the development of an AI ecosystem,
+Finland has instead exhibited a mostly bottom-up
+approach. Other key differences include the greater
+focus the UAE has had on acquiring AI talent
+from abroad, as well as their more emphatic role in
+directing sectoral adoption of AI.
+
+worldbank.org/digitaldevelopment
+23
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+NATIONAL AI STRATEGIES ACROSS THE DEVELOPING WORLD
+This section presents a summary of findings
+from a review of AI strategies in Asia, Africa and
+South America to yield greater insight into how
+
+governments are approaching AI in a mix of nine
+emerging markets and developing countries.
+
+Asia: India and China
+
+Strategy on Artificial Intelligence’ outlines a
+comprehensive approach, including key sectors
+for intervention and crosscutting themes such as
+data storage and privacy as national priority (NITI
+Aayog 2018). The Chinese strategy also targets
+key sectors along with numerous other initiatives
+aimed at leading in AI research and technology
+globally. China’s plan to become a world leader
+in AI by 2030 outlines comprehensive measures
+including directly funding start-ups, selecting
+national champions and limiting foreign companies
+in domestic markets (Ding 2018).
+
+While both India and China exhibit global
+leadership in developing comprehensive national
+AI strategies, China’s AI ecosystem is more mature,
+and its government has committed a greater
+number of resources towards it. Both governments
+take charge in defining priorities and designing
+their AI strategies. The Indian federal government’s
+NITI Aayog think tank is tasked with designing
+its national strategy,48 and the resulting ‘National
+
+Both India and China’s AI strategies are also
+defined by the central government in a top-down
+approach, while relying on local governments to
+execute strategies. Decision-making power rests
+in the hands of central government to design and
+develop the targets and policies of the AI strategy.
+Compared to India, China’s policies more frequently
+reflect a directing role of government, such as direct
+
+worldbank.org/digitaldevelopment
+
+48 Expert interview with member of NITI Aayog on May 9, 2019.
+
+24
+
+funding for start-up accelerators, scholarships for
+AI graduate students, establishment of national AI
+research centers or innovation hubs, and financing
+rewards and “grand challenges.”
+
+Aayog in India has sought numerous stakeholder
+consultations in designing India’s AI strategy.
+NITI Aayog has also designed recommendations
+for India’s strategy and sectoral applications
+based on wide consultation with technical and
+sectoral AI experts and academics.50 In contrast,
+there is less evidence of stakeholder consultation
+in China’s strategy development. Both countries
+rely on cooperation with the private sector to
+
+To accelerate AI adoption, both India and China
+adopt a mix of policies aimed at both establishing
+digital foundations that can enable AI ecosystems,
+as well as directly supporting AI development. Both
+use strategies across domain areas including skills
+development, investment in scientific research
+and data access. For example, China’s strategy
+supports new AI academic degrees, new public
+national datasets and cloud service platforms,
+and the development of hardware to support AI
+research, including supercomputing facilities,
+funding for quantum computing and encouraging
+national champions to acquire chip technologies by
+signing deals with international firms (Ding 2018).
+India’s strategy applies AI in target development
+sectors, such as applying computer vision for
+traffic management or natural language processing
+(NLP) to reduce language barriers and improve
+interoperability across states, while at the same
+time investing directly in AI talent and skills
+development, data access and governance and
+ethical frameworks.49
+
+implement AI in sectoral applications. India’s
+strategy outlines that, while the government is
+responsible for providing an enabling environment
+and infrastructure, the private sector must lead
+the implementation and adoption in use cases.
+The Chinese government encourages cooperation
+between the public and private sectors, especially
+in terms of sharing data between the government
+and companies. Furthermore, since 2018, China’s
+government has been publicly encouraging several
+51
+domestic “AI Champions.”
+
+The strategies of both countries focus on enabling
+technological development. China’s approach to AI
+applications has been characterized as “experiment
+first and regulate later,” yielding rapid innovation
+and implementation, especially in healthcare (Nesta
+2020, p3). In terms of stakeholder engagement,
+China has less involvement from stakeholders
+outside central government, whereas NITI
+
+49 Expert interview with member of NITI Aayog, May 9, 2019.
+50 Expert interview with member of NITI Aayog, May 9, 2019.
+51 Baidu’s focus will be on autonomous driving; the cloud computing division of Alibaba is tasked with a project called “city brains,” a set of AI solutions to
+
+improve urban life, including smart transport; Tencent will focus on computer vision for medical diagnosis; while Shenzhen-listed iFlytek, a dominant
+player in voice recognition, will specialize in voice intelligence. See Ding 2018.
+
+25
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+Africa: Egypt, Ghana,
+Kenya and South Africa
+The four African country cases reviewed exhibit
+a nascent level of maturity concerning their AI
+strategies and ecosystems. Human development
+indicators are relatively low, setting the context for
+multi-stakeholder engagement and a bottom-up
+approach, particularly in skills training, with the
+private sector and nonprofit organizations as key
+stakeholders. Across the four countries, there are
+a range of initiatives to address AI. For example,
+Kenya’s “Blockchain and Artificial Intelligence
+Taskforce” aims to prioritize the development and
+implementation of AI and blockchain with the
+goal of supporting the government in leveraging
+and harnessing new technologies (Dutton et al.
+2018). In Egypt, the Minister of ICT has recently
+announced a national AI strategy with four pillars
+including rapid adoption of AI in the government
+to increase efficiency and transparency; applying
+AI in key development sectors; capacity building
+and academic advances to boost innovation; and
+prioritizing digital cooperation in the region and
+globally.52 While Ghana does not have a national
+AI strategy, the president has proposed a national
+strategy umbrella for science, technology and
+
+innovation (STI) with a holistic approach to
+development.53 South Africa is leading the continent
+in AI adoption with a strong start-up ecosystem
+predominantly driven by the private sector (Gadzala
+2018).
+Initiatives for AI adoption led by various stakeholders
+in the four countries exhibit a combination of both
+top-down and bottom-up strategies. The top-down
+approach is particularly observed in governments’
+aspirations to invest in hubs and education
+programs. In Egypt for example, the government
+
+52 Egypt’s national AI strategy is available at https://stip.oecd.org/stip/policy-initiatives/2019%2Fdata%2FpolicyInitiatives%2F26476
+53 The seven pillars address the coordination of all sectors involving STI, the private-public partnerships (PPPs), the R&D funding, the STEM education,
+
+required legislation as well as the implementation of AI across key sectors of the economy. See Government of Ghana. n.d. “Gov’t using science, technology
+for national development.”
+
+worldbank.org/digitaldevelopment
+26
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+put forward multiple initiatives publicly advocated
+by the president (Ahram Online 2020). In Ghana,
+the government is also investing in innovation by
+launching a $10 million initiative called the National
+54
+Entrepreneurship and Innovation Plan (NEIP).
+From a bottom-up approach, the government
+encourages private associations to create hubs and
+conferences for AI skills at the local level. In South
+Africa, private associations have been organizing
+conferences to teach deep learning and AI locally,
+such as the Deep Learning Indaba conference
+(Snow 2019).
+Finally, some of these countries have demonstrated
+constraining policies to mitigate the risks of AI,
+with a particular focus on data protection. In Kenya
+the Open Data portal makes public government
+
+54 http://neip.gov.gh/page/2/
+55 http://www.opendata.go.ke/
+
+27
+
+datasets accessible for free in the context of a data
+protection law.55 In Ghana the STI’s policy pillars
+include start-up incubation centers and a National
+Entrepreneurship and Innovation Plan that falls
+under Ghana’s 2012 Data Protection Act, which
+regulates how personal information is acquired,
+stored and disclosed. Similarly, Egypt has adopted
+the Personal Data Protection Law (Law No. 151
+of 2020) which aims to protect and regulate the
+collection and processing of personal data of Egypt’s
+citizens and residents. Overall, while the four
+African countries reviewed in this report do not
+have a single comprehensive and focused national
+AI strategy as seen in Finland and the UAE, they
+nonetheless exhibit a number of related initiatives
+to drive AI.
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+Latin America and Central Asia:
+Argentina, Brazil and Kazakhstan
+Argentina, Brazil and Kazakhstan represent
+countries at various stages in national AI strategy
+development. Argentina published an AI strategy
+document in 2019 called Plan ArgenIA (though
+not yet approved by resolution).56 In late 2019
+Brazil announced a round of public consultations
+to request feedback on their proposed national AI
+strategy. 57 Kazakhstan did not have a national AI
+strategy at the time of review. All three countries
+exhibit early-stage innovation ecosystems.
+Argentina’s AI strategy highlights the use of AI
+for economic development (linked to SDGs) and
+R&D, while also calling attention to the importance
+of inclusiveness, sustainability and privacy. In
+Brazil, eight AI laboratories were created by the
+government to focus on priority application areas,
+including IoT, cybersecurity and AI in public
+administration.58 Kazakhstan includes AI and digital
+development as part of its national 2050 Vision
+Modernization 3.0, through which the government
+is prioritizing the acceleration of technological
+modernization of the economy (Nos 2017). In
+Brazil, the government is adopting a more granular
+approach to digitalization at the industry level, with
+priority offered to health care, agriculture and smart
+cities (Mari 2017), while at the same time setting
+
+56
+57
+58
+59
+
+up partnerships and goals to create an advanced AI
+center (Felipe 2019). As with other case countries
+at the “nascent” level of AI ecosystem maturity,
+AI initiatives in Argentina, Brazil and Kazakhstan
+more often prioritize enabling policies over
+constraining ones.
+All three countries’ governments exhibit a mix of
+top-down and bottom-up approaches to progress
+either digital or AI strategies (where they
+exist). Through collaboration with universities,
+governments support AI-specific laboratories,
+and Master’s degree and PhD programs and
+59
+fellowships. Kazakhstan’s government has invested
+in accelerating inclusion and innovation with their
+Technology Forum and the Start-Up Kazakhstan
+Tech Garden, and has also invested nearly $47
+
+https://www.lexology.com/library/detail.aspx?g=f9412c52-8d18-49ee-805e-4b7c3d66ab1d
+For details of contributions received, see Brazil’s public contributions website: http://participa.br/profile/estrategia-brasileira-de-inteligencia-artificial
+https://agenciabrasil.ebc.com.br/en/geral/noticia/2019-11/brazil-unveils-eight-new-ai-labs
+For example, Argentinian doctoral programs, the Graduate Program in Information Systems and Artificial Intelligence at the University of Sao Paulo
+(http://ppgsi.each.usp.br/artificial-intelligence/?lang=en), or the Nazarbayev University research labs in Advanced Robotics and Mechatronic Systems
+(https://nu.edu.kz/research/laboratories).
+
+worldbank.org/digitaldevelopment
+28
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+million in grants and loans to support more than
+600 start-up projects under the national 2030
+Vision (Egusa 2019). Brazil’s National AI Strategy
+was launched with a round of public consultations
+in December 2019, and a small but growing AI
+start-up ecosystem is developing in private sector
+markets, supported by government-funded AI
+laboratories.60 In both Brazil and Kazakhstan,
+academia and nonprofit organizations support
+local AI development.
+
+adoption in key sectors is led by ministries and can
+include partnerships with technology companies.
+Argentina’s strategy engages the public and private
+sectors, third sector (nonprofit organizations, civil
+society, and nongovernmental organizations), the
+scientific and technology sector and international
+organizations to provide input. It also includes
+efforts to develop PPPs for supercomputing
+capabilities (Presidencia de la Nation 2018).
+Regarding multi-stakeholder engagement, the
+Brazilian Association of Artificial Intelligence
+helps in upskilling the labor force and promoting
+the exchange of information between national and
+international companies (Yamamoto 2017).
+
+Partnerships and multi-stakeholder engagement to
+drive AI adoption has been observed in all three
+of these countries that are characterized by nascent
+AI innovation ecosystems. In Kazakhstan, AI
+
+60 http://thefuturesociety.org/2020/03/17/unesco-regional-forum-on-ai-in-latin-america-and-the-caribbean/
+
+29
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+Overview of AI Flagship Initiatives Observed
+As observed across the eleven countries reviewed,
+the AI policymaking landscape has a wide range
+of policy and regulatory approaches. Some
+governments focus on regulation, policy reform,
+soft law and multi-stakeholder partnerships to
+create an “enabling” environment for AI adoption,
+
+as in the case of Finland. Other countries opt for
+a more “directing” approach centered on strategic
+investments, direct funding and establishing new
+centers, such as in the UAE. The analysis of the
+country cases has also identified some common
+flagship initiatives which are summarized in Box 2.
+
+BOX 2: Overview of Common AI Flagship Initiatives Observed
+
+• Supporting the development of AI innovation clusters and hubs including collaboration between
+government, academia and the private sector;
+• Investing continuously in research capability including computing, data and algorithmic infrastructure
+starting from practical applications and moving towards fundamental research;
+• Injecting direct financial investment in start-ups to compensate for gaps in venture capital funding;
+• Developing AI talent via multiple pillars including digital skills and STEM education, funding for new
+AI academic and graduate programs, and foreign talent attraction and retention measures;
+• Establishing a comprehensive data and algorithm governance framework enabling access to the
+flow of high-quality data, while ensuring fair, accountable, explainable, privacy-enhancing and
+secure processing;
+• Targeting key sectors for AI adoption for economic growth and human development; and
+• Adopting AI to improve public service delivery and resource efficiency while building capability
+and expertise.
+
+worldbank.org/digitaldevelopment
+30
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+As observed, “transitioning” countries – those
+with an established baseline digital economy and
+that are evolving towards universal Internet usage
+such as India and China tend to address several
+domain areas to accelerate their AI adoption.
+These domains include encouraging the growth of
+scientific research, building digital infrastructure,
+starting to address ethical questions, exploring AI
+in government applications, and working closely
+with start-ups for AI adoption. Also, countries at the
+intersection of “transitioning” and “transforming”
+digital economies – those with a relatively stable
+and widespread base of digital technology – provide
+examples of emerging practices for harnessing AI.
+These governments support both hardware and
+software developments and create new research
+centers in collaboration with both universities and
+the private sector. Moreover, they can build an
+
+assessment of AI impact on their local economies
+and adequately reform national education to assure
+digital skills and STEM education at large, as well
+as upskilling the public administration. Some case
+countries also prioritize national champions for
+key sectors and collaborate with the private sector
+to create new platforms for data sharing.
+More in-depth exploration is required on the role
+of government in countries with less developed
+innovation ecosystems and digital foundations. In
+these countries with nascent innovation ecosystems
+and weaker digital economy foundations such
+as Kenya, Ghana, Egypt and South Africa,
+governments have reduced capability, capacity
+and resources to drive AI at a national level. As
+such, in practice the ability of governments may be
+impeded.
+
+FUTURE RESEARCH
+As policy and regulatory pathways for harnessing AI
+are still in their infancy, further time and research
+is needed to assess the outputs of these strategies,
+and their effectiveness in order to identify best
+practices for developing countries. Rather than
+concluding with best practices, this article provides
+an initial review of policy and regulatory practices
+currently deployed in AI policymaking, illustrating
+a wide range of tools and approaches that
+governments have taken in their attempt to harness
+AI technologies while mitigating anticipated risks.
+While many of the policies observed have been
+
+in effect for a few years, more time, evidence and
+analysis is needed to measure and determine their
+effectiveness based on targeted outcomes.
+An additional focus of further research should be
+to understand how to accelerate AI adoption in
+developing countries while implementing the right
+safeguards to ensure trust in the digital era within
+these national contexts. More research is needed to
+build consensus around best practices, particularly
+around how to effectively operationalize policies
+that are articulated in this report. A comprehensive
+
+worldbank.org/digitaldevelopment
+31
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+country AI readiness assessment framework
+and maturity assessment could help to analyze
+countries’ implementation of possible roadmaps for
+development. In addition to focusing on countries’
+adoption of AI, additional analysis is needed in this
+evolving AI ecosystem to understand the economic
+impact of AI, and the extent to which AI strategies
+are achieving intended development outcomes
+within developing countries. This analysis should
+include the economic impact across different
+vertical sectors that rank high within development
+country agendas. And while previous studies have
+explored sectoral applications of AI in emerging
+markets (Strusani & Houngbonon 2019; IFC 2020),
+further research is needed with a narrower focus
+
+on sectoral applications in countries at the lower
+end of the income scale. In terms of policy and
+regulation, future research is needed to address a)
+the mix of policy instruments such as legislation,
+technical interventions and standards, and industry
+guidelines; b) the additional range of potential risks
+to be addressed including data security, privacy,
+transparency, safety and data bias; c) scenarios
+to predict, preempt or mitigate unforeseen
+consequences and negative externalities, including
+rising unemployment, social and economic
+inequality; and finally d) legal and judicial systems
+to address new legal questions such as liability for
+autonomous systems and privacy concerns related
+to the processing or storing of personal data.
+
+worldbank.org/digitaldevelopment
+32
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+ACKNOWLEDGMENTS
+This working paper is based on a background
+report prepared by a team led by the World
+Bank in collaboration with The Future Society.
+The core World Bank team consisted of Zaki B.
+Khoury (Senior Digital Development Specialist,
+Digital Development) and Audrey Ariss (Digital
+Development Specialist, Digital Development)
+for the background report and Rami Amin
+(Consultant, Digital Development) for the
+development of this working paper. Previous World
+Bank colleagues from the Digital Development
+Global Practice also contributed to this work
+including Aki Ilari Enkenberg and Jane Treadwell.
+The Future Society team included Nicolas Miailhe
+(Founder and President); Yolanda Lannquist (Head
+of Research and Advisory); Arohi Jain Rajvanshi
+(Senior AI Policy Researcher); R. Buse Çetin (AI
+Policy Researcher); and Adriana Bora (AI Policy
+Researcher). Colin Blackman was the principal
+editor of the background report that informed this
+working paper. The team is also grateful to William
+Ursenbach (Senior External Affairs Assistant,
+External and Corporate Relations) for the layout
+and graphical design of this working paper, and
+to Kay Kim (Consultant, Digital Development)
+for copyediting the final draft. The work was
+conducted under the general guidance of Mark
+Williams (Practice Manager, Digital Development)
+as well as Isabel Neto (Practice Manager, Digital
+Development), Michel Rogy (Practice Manager,
+Digital Development), and Nicole Klingen (Practice
+Manager, Digital Development). The team is also
+grateful for the support provided by Boutheina
+Guermazi (Director, Digital Development).
+
+Specialist, Digital Development); Tim Kelly
+(Lead Digital Development Specialist, Digital
+Development); Khuram Farooq (Senior Financial
+Management Specialist, Governance); and
+Rowena M. Gorospe (Senior Counsel, Institutional
+Administration). The team was also fortunate to
+receive advice and guidance at various points in
+the report preparation process from David Satola
+(Lead Counsel, Legal-Operations); Samia Melhem
+(Lead Digital Development Specialist, Digital
+Development); Stela Mocan (Lead IT Officer,
+Technology and Innovation); Astrid Jacobsen
+(Senior Digital Development Specialist, Digital
+Development); Craig Hammer (Program Manager,
+DEC Strategy and Resources); Kimberly D. Johns
+(Senior Public Sector Specialist, Governance);
+Hunt La Cascia (Senior Procurement Specialist,
+Governance); Oleg V. Petrov (Senior Digital
+Development Specialist, Digital Development);
+Oualid Bachiri (Digital Development Specialist,
+Digital Development); Roumeen Islam (Economic
+Advisor, Infrastructure) and Tania Priscilla Begazo
+Gomez (Senior Economist, Digital Development).
+The team is also grateful for comments received for
+the working paper from Hoon Sahib Soh, Special
+Representative in the World Bank Group Korea
+Office, and Yoon-Seok Ko, Vice President of Data
+and AI at the National Information Society Agency
+(NIA) in Korea.
+This work received financial support from the
+Digital Development Partnership (DDP) and
+its Multi-Donor Trust Fund (MDTF). The team
+acknowledges support received from Bertram
+Boie (Senior Economist, Digital Development)
+and Christine Howard (Program Assistant,
+Digital Development) for their coordination, and
+are thankful for the support from DDP member
+countries and organizations.
+
+The team is grateful for peer review comments
+received from World Bank colleagues during the
+Decision Meeting review for the background
+report from Sajitha Bashir (Advisor, Education);
+Juan Navas-Sabater (Lead Digital Development
+33
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+REFERENCES
+Abishev, Olzhas, and Yerbol Spatayev. 2019. The Future Development of Digital Health in Kazakhstan. Eurohealth 25 (2): 24-28.
+Ahram Online. 2020. “Egypt’s Sisi orders applying AI technology in construction projects.” Ahram Online, October 25.
+https://english.ahram.org.eg/NewsContent/1/64/389166/Egypt/Politics-/Egypts-Sisi-orders-applying-AI-technology-in-const.aspx
+AI-HLEG (High-Level Expert Group on Artificial Intelligence). 2019. Ethics Guidelines for Trustworthy AI.
+Brussels: European Commission.
+Allen, Robbie. 2018. “ICML 2018 Accepted Papers Stats.” Medium: Machine Learning in Practice, July 9.
+https://medium.com/machine-learning-in-practice/icml-2018-accepted-papers-stats-339f1cad5a55
+Arab Republic of Egypt. 2019. “During Meeting with AmCham Members, ICT Minister Announces Preparation of Egypt AI strategy.”
+Press Release, January 20. http://www.mcit.gov.eg/Media_Center/Press_Room/Press_Releases/28084
+Arabian Business. 2018. “UAE Adopts New National AI Strategy Aimed at Becoming Global Leader.” Arabian Business, April 22.
+https://www.arabianbusiness.com/technology/418254-uae-adopts-new-national-ai-strategy-aimed-at-becoming-global-leader
+Arshadi, A. K. and others. 2020. “Artificial Intelligence for Covid-19 Drug Discovery and Vaccine Development.”
+Frontiers in Artificial Intelligence, 18.
+https://doi.org/10.3389/frai.2020.00065
+Astana Times. 2019. “Microsoft Kazakhstan to Assist Domestic Companies Integrate AI Technology.” The Astana Times, March 18.
+https://astanatimes.com/2019/03/microsoft-kazakhstan-to-assist-domestic-companies-integrate-ai-technology/
+AU-EU Digital Economy Task Force (AU-EU DETF). 2019. New Africa-Europe Digital Economy Partnership: Accelerating the Achievement
+of the Sustainable Development Goals.
+https://ec.europa.eu/digital-single-market/en/news/new-africa-europe-digital-economy-partnership-report-eu-au-digital-economy-task-force
+Avasant. 2019. Applied AI and Advanced Analytics Services 2019.
+https://avasant.com/report/applied-ai-and-analytics-services-2019-radarview/
+BAAI (Beijing Academy of Artificial Intelligence). 2019. “Beijing AI Principles.”
+https://www.baai.ac.cn/news/beijing-ai-principles-en.html?fbclid=IwAR2HtIRKJxxy9Q1Y953H-2pMHl_bIr8pcsIxho93BtZY-FPH39vV9v9B2eY
+Baker, Liana B. 2017. “Trump Bars Chinese-Backed Firm from Buying U.S. Chipmaker Lattice.” Reuters, September 13.
+https://www.reuters.com/article/us-lattice-m-a-canyonbridge-trump/trump-bars-chinese-backed-firm-from-buying-u-s-chipmaker-latticeidUSKCN1BO2ME
+Banga, Karishma and Dirk Willem te Velde. 2018 Digitalization and the Future of Manufacturing in Africa. London: Supporting Economic
+Transformation. https://set.odi.org/wp-content/uploads/2018/03/SET_Digitalisation-and-future-of-African-manufacturing_Final.pdf
+Barton, D., J. Woetzel, J. Seong, Q. Tian. 2017. Artificial Intelligence: Implications for China. McKinsey Global Institute.
+https://www.mckinsey.com/featured-insights/china/artificial-intelligence-implications-for-china
+
+worldbank.org/digitaldevelopment
+34
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+Beridze, I. 2018. “Mitigating the Effects of AI on Inequality and Crime in Developing Countries and Emerging Markets.” Paper presented at
+the conference “AI for Good,” Center for Artificial Intelligence & Robotics, UNICRI, Geneva, May 2018.
+BNamericas. 2018. “Brazil Launches Digital Transformation Strategy.” BNamericas, March 22.
+https://www.bnamericas.com/en/news/brazil-launches-digital-transformation-strategy
+Briter Bridges. 2019. Adopting Artificial Intelligence in Africa. Report prepared in collaboration with Alliance 4 AI.
+https://briterbridges.com/innovation-maps
+Brundage, M. and others. 2018. Malicious Use of Artificial Intelligence: Forecasting, Prevention and Mitigation.
+Oxford: Future of Humanity Institute.
+https://arxiv.org/pdf/1802.07228.pdf
+Brynjolfsson, E., and Andrew McAfee. 2014. The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies.
+New York: W.W. Norton.
+Brynjolfsson, E., T. Mitchell, and D. Rock. 2018. “What Can Machines Learn, and What Does It Mean for Occupations and the Economy?”
+AEA Papers and Proceedings 108: 43-47.
+Bughin, J., J. Seong, J. Manyika, M. Chui, and R. Joshi. 2018. Notes from the AI Frontier: Modeling the Impact of AI on the World Economy.
+McKinsey Global Institute.
+Bughin, J. and J. Woetzel. 2019. Navigating a World of Disruption. McKinsey Global Institute.
+C MINDS. 2018. Towards an AI Strategy in Mexico: Harnessing the AI Revolution.
+https://docs.wixstatic.com/ugd/7be025_e726c582191c49d2b8b6517a590151f6.pdf
+Campbell, Thomas A. 2019. Artificial Intelligence: An Overview of State Initiatives. Future Grasp.
+https://www.futuregrasp.com/artificial-intelligence-an-overview-of-state-initiatives
+Capgemini and Digital Transformation Institute. 2017. Turning AI into concrete value: the successful implementers’ toolkit.
+CB Insights. 2019. “China is Starting to Edge Out the US in AI Investment.” CB Insights Research Briefs,
+https://www.cbinsights.com/research/china-artificial-intelligence-investment-startups-tech/
+Chang, Jae-Hee, and Phu Huynh. 2016. ASEAN in Transformation: The Future of Jobs at Risk of Automation.
+Geneva: International Labour Organization (ILO).
+https://www.ilo.org/actemp/publications/WCMS_579554/lang--en/index.htm
+Chen, James. 2019. “Abu Dhabi Investment Council (ADIC).” Investopedia, April 8.
+https://www.investopedia.com/terms/a/abu-dhabi-investment-council.asp
+China State Council. 2017. “A Next Generation Artificial Intelligence Development Plan.”
+(G. Webster, R. Creemers, P. Triolo, and E. Kania, Trans.). Stanford-New America DigiChina Project. State Council.
+https://www.newamerica.org/cybersecurity-initiative/digichina/blog/full-translation-chinas-new-generation-artificial-intelligence-development-plan-2017/
+
+worldbank.org/digitaldevelopment
+35
+
+ANALYTICAL INSIGHTS - NOTE 3
+
+Chui, M., M. Harryson, J. Manyika, R. Roberts, R. Chung, A. Heteren, and P. Nel. 2018a.
+Notes from the AI Frontier: Applying AI for Social Good. Discussion Paper. McKinsey Global Institute.
+https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Artificial%20Intelligence/Applying%20artificial%20intelligence%20
+for%20social%20good/MGI-Applying-AI-for-social-good-Discussion-paper-Dec-2018.ashx
+Chui, Michael, James Manyika, Mehdi Miremadi, Nicolaus Henke, Rita Chung, Pieter Nel, and Sankalp Malhotra. 2018b.
+Notes from the AI Frontier: Insights from Hundreds of Use Cases. Discussion Paper. McKinsey Global Institute.
+https://www.mckinsey.com/~/media/mckinsey/featured%20insights/artificial%20intelligence/notes%20from%20the%20ai%20frontier%20
+applications%20and%20value%20of%20deep%20learning/notes-from-the-ai-frontier-insights-from-hundreds-of-use-cases-discussion-paper.ashx
+Cisse, M. 2018. “Look to Africa to Advance Artificial Intelligence.” Nature 562 (7728): 461-461. DOI: 10.1038/d41586-018-07104-7.
+Conseil régional d’Île-de-France. 2018. “Un plan pour faire L’Ile-de-France 1er region europeenne en intelligence artificielle,”
+https://www.iledefrance.fr/un-plan-pour-faire-de-lile-de-france-la-1re-region-europeenne-en-intelligence-artificielle
+Cremer, J., Y-A. de Montjoye, and H. Schweizer. 2019. Competition Policy for the Digital Era. Brussels: European Commission.
+https://ec.europa.eu/competition/publications/reports/kd0419345enn.pdf
+Cussins Newman, Jessica. 2020. Decision Points in AI Governance: Three Case Studies Explore Efforts to Operationalize AI Principles. UC
+Berkeley Center for Long-Term Cybersecurity. https://cltc.berkeley.edu/ai-decision-points/
+Dean, Jeff and Moustapha Cisse. 2018. “Google AI in Ghana.” Google Africa Blog, June 13.
+https://africa.googleblog.com/2018/06/google-ai-in-ghana.html
+Deloitte. 2019. Global artificial intelligence industry whitepaper.
+https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/technology-media-telecommunications/deloitte-cn-tmt-ai-reporten-190927.pdf
+Dernis, H., P. Gkotsis, N. Grassano, S. Nakazato, M. Squicciarini, B. Van Beuzekom, and A. Vezzani. 2019. World Corporate Top R&D
+investors: Shaping the Future of Technologies and of AI. EUR 29831 EN, Luxembourg: Publications Office of the European Union,
+doi:10.2760/472704
+Dias, Y., Calicchio, N. and J. Lombardi. 2019. Brazil Digital Report – 1st edition. McKinsey & Company.
+https://www.mckinsey.com/br/our-insights/blog-made-in-brazil/brazil-digital-report
+Ding, Jeffrey. 2018 Deciphering China’s AI Dream: The Context, Components, Capabilities, and Consequences of China’s Strategy to Lead
+the World in AI. Future of Humanity Institute, Oxford University.
+https://www.fhi.ox.ac.uk/wp-content/uploads/Deciphering_Chinas_AI-Dream.pdf
+Ding, Jeffrey. 2019. “China’s AI “National Team”.” ChinaAI Newsletter #51.
+https://chinai.substack.com/p/chinai-51-chinas-ai-national-team
+Dubai Advantage. 2018. Artificial Intelligence: Investment Opportunity Brief.
+https://thedubaiadvantage.com/wp-content/uploads/2018/10/Artifical_Intelligence_InvestmentOpportunityBrief.pdf
+Dutton, T., Barron, B., and Boskovic, G. 2018. Building an AI World: Report on National and Regional AI Strategies. Toronto: CIFAR.
+https://www.cifar.ca/docs/default-source/ai-society/buildinganaiworld_eng.pdf
+
+worldbank.org/digitaldevelopment
+36
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+Dutton, T. 2018. “An Overview of National AI Strategies.” Medium: Politics + AI, June 28.
+https://medium.com/politics-ai/an-overview-of-national-ai-strategies-2a70ec6edfd
+Economou, Nicolas. 2017. “The New Normal: A ‘Principled’ Artificial Intelligence Could Improve Justice.” ABA Journal, October 3.
+https://www.abajournal.com/legalrebels/article/a_principled_artificial_intelligence_could_improve_justice
+Edwards, Caryn. 2018, “The Development of AI in South Africa.” The South African, November 20.
+https://www.thesouthafrican.com/the-development-of-ai-in-south-africa/
+Egusa, C. 2019. “An entrepreneurs guide to Qazaqstan’s startup scene.” Podium, March 26.
+https://thenextweb.com/podium/2019/03/26/an-entrepreneurs-guide-to-qazaqstans-startup-scene/
+Element AI and Nesta. 2019. Data Trusts: A New Tool for Data Governance.
+https://hello.elementai.com/rs/024-OAQ-547/images/Data_Trusts_EN_201914.pdf
+Ehimuan-Chiazor, Juliet. 2017. “Making the Internet Work Better for Everyone in Africa.” Google Africa Blog, July 27.
+https://africa.googleblog.com/2017/07/making-internet-work-better-for.html
+Eurasian Economic Commission. 2018. “Eurasian Integration Sets Out on a Path of the Fourth Industrial Revolution.”
+Eurasian Economic Commission, September 21.
+http://www.eurasiancommission.org/en/nae/news/Pages/21-09-2018-5.aspx
+European Commission. 2020. White Paper on Artificial Intelligence: A European approach to excellence and trust.
+https://ec.europa.eu/info/sites/info/files/commission-white-paper-artificial-intelligence-feb2020_en.pdf
+FCAI. 2020. “Finnish Center for Artificial Intelligence and NVIDIA to establish a joint NVIDIA AI Technology Center.”
+Finnish Center for Artificial Intelligence, May 25.
+https://fcai.fi/news/2020/5/25/finnish-center-for-artificial-intelligence-and-nvidia-to-establish-a-joint-nvidia-ai-technology-center
+Feldstein, S. 2019. “The Global Expansion of AI Surveillance.” Carnegie Endowment for International Peace, September 17.
+https://carnegieendowment.org/2019/09/17/global-expansion-of-ai-surveillance-pub-79847
+Felipe, Luis. 2019. “IBM to Create Brazil’s “Most Advanced” Artificial Intelligence Centre.” PortugaliNews, February 12.
+https://portugalinews.eu/ibm-to-create-brazils-most-advanced-artificial-intelligence-centre/
+Fjeld, Jessica and Achten, Nele and Hilligoss, Hannah and Nagy, Adam and Srikumar, Madhulika. 2020.
+“Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-Based Approaches to Principles for AI”
+Berkman Klein Center Research Publication No. 2020-1
+https://ssrn.com/abstract=3518482 or http://dx.doi.org/10.2139/ssrn.3518482
+Fleming, Sean. 2018. “In Rwanda, High-Speed Drones are Delivering Blood to Remote Communities.” World Economic Forum.
+https://www.weforum.org/agenda/2018/12/in-rwanda-drones-are-delivering-blood-to-remote-communities/
+Floridi, Luciano, and others. 2018. “AI4People—An Ethical Framework for a Good AI Society: Opportunities, Risks, Principles, and Recommendations.” Minds & Machines 28 (4): 689–707.
+https://doi.org/10.1007/s11023-018-9482-5
+
+worldbank.org/digitaldevelopment
+37
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+Foley, Paul, and others. 2020. International Digital Economy and Society Index 2020. The
+European Commission, Directorate-General of Communications Networks, Content and Technology.
+https://ec.europa.eu/digital-single-market/en/digital-economy-and-society-index-desi
+Freeman, Katherine. 2016. “Algorithmic Injustice: How the Wisconsin Supreme Court Failed to Protect Due Process Rights
+in State v. Loomis.” North Carolina Journal of Law and Technology 18 (5): 75-106.
+https://scholarship.law.unc.edu/ncjolt/vol18/iss5/3
+Friedman, B., and H. Nissenbaum. 1996. “Bias in Computer Systems”. ACM Transactions on Information Systems 14 (3): 330–347.
+Fundação Alexandre de Gusmão (FUNAG). 2017. Internet of Things: An Action Plan for Brazil, by Filipe G. Martins and Claudio Leal,
+special adviser to the President of the Republic.”
+http://www.funag.gov.br/images/2017/Novembro/Dialogos/Claudio_Leal-Internet-of-Things.pdf
+Furman, J. 2019. Unlocking Digital Competition: Report of the Digital Competition Expert Panel.
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/785547/unlocking_digital_competition_
+furman_review_web.pdf
+Future of Life Institute. 2018. “State of California endorses Asilomar AI Principles,” https://futureoflife.org/2018/08/31/state-of-california-endorses-asilomar-ai-principles/
+Gadzala, A. 2018. Coming to Life: Artificial Intelligence in Africa. Washington, DC: Atlantic Council.
+https://www.atlanticcouncil.org/wp-content/uploads/2019/09/Coming-to-Life-Artificial-Intelligence-in-Africa.pdf
+Gagne, J.F. and others. 2020. Global AI Talent Pool Report 2020.
+https://jfgagne.ai/global-ai-talent-report-2020/
+Gallegos, Doyle, Junko Narimatsu, Oana Ariana Batori, Janet Hernandez, Daniel Leza, Ivan Skenderoski, and Erik Whitlock. 2018. Innovative Business Models for Expanding Fiber-Optic Networks and Closing the Access Gaps. Washington, DC: World Bank Group.
+http://documents.worldbank.org/curated/en/674601544534500678/Main-Report
+Gaskell, A. 2020. “Talent in the age of AI.” Forbes, January 22.
+https://www.forbes.com/sites/adigaskell/2020/01/22/talent-in-the-age-of-ai/
+Gatti, Roberta V., and others. 2018. The Human Capital Project. Washington, DC: World Bank Group.
+http://documents.worldbank.org/curated/en/363661540826242921/The-Human-Capital-Project
+GE Innovation Barometer. 2020. “UAE Grows Its Reputation for Innovation – 2020 GE Global Innovation Barometer.”
+General Electric, December 16.
+https://www.ge.com/news/reports/uae-grows-its-reputation-for-innovation-2020-ge-global-innovation-barometer
+Goldfarb, A. and D. Trefler. 2018. AI and International Trade. NBER Working Paper 24254.
+Hawkins, Amy. 2018. “Beijing’s Big Brother Tech Needs African Faces.” Foreign Policy, July 24.
+https://foreignpolicy.com/2018/07/24/beijings-big-brother-tech-needs-african-faces/
+Heinrich, M. 2019. “Heinrich, Portman, Schatz Propose National Strategy For Artificial Intelligence; Call For $2.2 Billion Investment In
+Education, Research & Development.” Press Release, May 21.
+https://www.heinrich.senate.gov/press-releases/heinrich-portman-schatz-propose-national-strategy-for-artificial-intelligence-call-for-22-billion-investment-in-education-research-and-development
+
+worldbank.org/digitaldevelopment
+38
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+HM Government. 2018. Industrial Strategy: Artificial Intelligence Sector Deal.
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/702810/180425_BEIS_AI_Sector_
+Deal__4_.pdf
+Holon IQ. 2020. The Global AI Strategy Landscape.
+https://www.holoniq.com/notes/the-global-ai-strategy-landscape/
+IDC (International Data Corporation). 2019. “Spending on Artificial Intelligence Systems in the Middle East & Africa to Top $374 Million in
+2020.” IDC Media Center, September 30.
+https://www.idc.com/getdoc.jsp?containerId=prMETA45546719
+IFC (International Finance Corporation). 2020. Artificial Intelligence in Emerging Markets: Opportunities, Trends, and Emerging Business
+Models. Washington, D.C.: International Finance Corporation.
+https://www.ifc.org/wps/wcm/connect/publications_ext_content/ifc_external_publication_site/publications_listing_page/artificial+intelligence+in+emerging+markets
+ILO (International Labour Organization). 2018. The Economics of artificial intelligence: Implications for the future of work. Geneva: ILO.
+https://www.ilo.org/wcmsp5/groups/public/---dgreports/---cabinet/documents/publication/wcms_647306.pdf
+INSEAD.2020. The Global Talent in the Age of Artificial Intelligence: The Global Talent Competitiveness Index 2020. Paris: INSEAD.
+https://gtcistudy.com/wp-content/uploads/2020/01/GTCI-2020-Report.pdf
+ITU (International Telecommunication Union). 2018. Accessing the Economic Impact of Artificial Intelligence.
+https://www.itu.int/dms_pub/itu-s/opb/gen/S-GEN-ISSUEPAPER-2018-1-PDF-E.pdf
+Jackson, T. 2017. “SA’s hearX Group Crowdfunding Campaign Oversubscribed.” Disrupt Africa, August 9.
+http://disrupt-africa.com/2017/08/sas-hearx-group-crowdfunding-campaign-oversubscribed/
+Kahn, J. and J. Vanian. 2021. “How A.I. can speed up the COVID-19 vaccination drive.” Fortune, January 5.
+https://fortune.com/2021/01/05/a-i-covid-19-vaccination-drive/
+Kamel, Nevine. 2019. “Communications Ministry Explores Increasing Egyptian Technology Exports at MWC 2019.”
+The Daily News Egypt, February 26.
+https://dailynewssegypt.com/2019/02/26/communications-ministry-explores-increasing-egyptian-technology-exports-at-mwc-2019/
+Kania, Elsa B. 2017. “Testimony before the U.S.-China Economic and Security Review Commission: Chinese Advances in Unmanned
+Systems and the Military Applications of Artificial Intelligence—the PLA’s Trajectory towards Unmanned, “Intelligentized” Warfare.”
+U.S.-China Economic and Security Review Commission. February 23.
+https://www.uscc.gov/sites/default/files/Kania_Testimony.pdf
+Klein, A. 2020. “Reducing bias in AI-based financial services.” Brookings Institution Report, July 10.
+https://www.brookings.edu/research/reducing-bias-in-ai-based-financial-services/
+Kozyrkov, Cassie. 2018. “Why Businesses Fail at Machine Learning.” Hacker Noon, June 28.
+https://hackernoon.com/why-businesses-fail-at-machine-learning-fbff41c4d5db
+Kratsios, M. 2020. ”Artificial intelligence can serve democracy: the G7 launches a new global partnership Thursday,” Wall Street Journal,
+https://www.wsj.com/articles/artificial-intelligence-can-serve-democracy-11590618319
+
+worldbank.org/digitaldevelopment
+39
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+Lannquist, Ashley. 2017. “Blockchains, Cryptocurrencies and the New Decentralized Economy: Part 2 – Blockchain-Based Apps.”
+Medium: Blockchain at Berkeley, June 30.
+https://medium.com/blockchain-at-berkeley/blockchains-cryptocurrencies-the-new-decentralized-economy-part-2-blockchain-based-apps-e6ea71236ca
+Lannquist, Yolanda and others. 2020. “The Intersection and Governance of Artificial Intelligence and Cybersecurity.”
+The Future Society. https://www.researchgate.net/publication/341412701_The_Intersection_and_Governance_of_Artificial
+Lee, Kai-Fu. 2018. AI Superpowers: China, Silicon Valley and the New World Order. Boston: Houghton Mifflin Harcourt.
+Lin, H. 2016. Governance of Information Technology and Cyber Weapons in Governance of Dual-Use Technologies: Theory and Practice.
+Cambridge, MA: American Academy of Arts & Sciences.
+Lindauer, D. and L. Pritchett. 2002. “What’s the Big Idea? The Third Generation of Policies for Economic Growth.”
+Economia 3 (1): 1-36, Fall 2002.
+Loucks, J. and others. 2019. “Future in the balance? How countries are pursuing an AI advantage: Insights from Deloitte’s State of AI in the
+Enterprise, 2nd Edition survey.” Deloitte Insights, May 1.
+https://www2.deloitte.com/us/en/insights/focus/cognitive-technologies/ai-investment-by-country.html
+Lyon, David. 2009. “Surveillance, Power, and Everyday Life.” In The Oxford Handbook of Information and Communication Technologies,
+edited by Chrisanthi Avgerou, Robin Mansell, Danny Quah, and Roger Silverstone. Oxford: Oxford University Press.
+Macron, Emmanuel. 2018. Discours du Président de la République sur l’intelligence artificielle, Paris Collège de France, March 29.
+https://www.elysee.fr/emmanuel-macron/2018/03/29/discours-du-president-de-la-republique-sur-lintelligence-artificielle
+Manyika, James and others. 2017. Jobs Lost, Jobs Gained: Workforce Transitions in a Time of Automation. McKinsey Global Institute.
+Mari, Angelica. 2017. “Brazilian Government Defines IoT Priorities.” ZDNet, July 10.
+https://www.zdnet.com/article/brazilian-government-defines-iot-priorities/
+Mari, Angelica. 2019. “Microsoft Launches AI Skills Initiative in Brazil.” ZDNet, February 14.
+https://www.zdnet.com/article/microsoft-launches-ai-skills-initiative-in-brazil/
+Mazzucato, Mariana. 2015. The Entrepreneurial State: Debunking Public vs. Private Sector Myths. New York: Public Affairs.
+McKinsey & Company. 2017. Digitally Enabled Automation and Artificial Intelligence: Shaping the Future of Work in Europe’s Digital
+Front-Runners.
+McKinsey & Company. 2019. “Can AI Help Society as Much as it Helps Business?” McKinsey Quarterly. August.
+https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/can-artificial-intelligence-help-society-as-much-as-it-helpsbusiness
+McKinsey Global Institute. 2020. “How to Ensure Artificial Intelligence Benefits Society: A Conversation with Stuart Russell and James
+Manyika.” January.
+https://www.mckinsey.com/featured-insights/artificial-intelligence/
+Mehrabi, N. and others. 2019. “A survey on bias and fairness in machine learning.” arXiv preprint arXiv:1908.09635.
+
+worldbank.org/digitaldevelopment
+40
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+Mercer, Christina, and Laurie Clarke. 2018, “Banned Technologies from Across the World.” Techworld, September 24.
+https://www.techworld.com/picture-gallery/apps-wearables/blocked-technologies-you-didnt-know-about-3627422/
+Miailhe, N. and others. 2019. AI for Sustainable Development Goals, Delphi Special Issue page 207.
+https://delphi.lexxion.eu/article/DELPHI/2019/4/10
+Microsoft and EY. 2019. Artificial Intelligence in Middle East and North Africa. Report commissioned by Microsoft and conducted by EY.
+https://info.microsoft.com/rs/157-GQE-382/images/MicrosoftSouthAfricanreportSRGCM1070.pdf
+Microsoft and PwC. 2018. Uncovering AI in Finland: 2018 Field Guide to AI. Microsoft and PwC Digital Services.
+https://cdn2.hubspot.net/hubfs/2185773/Julkaisut/uncovering-ai-in-finland.pdf
+Miner, A.S., Laranjo, L. and A. Baki Kocaballi. 2020. “Chatbots in the fight against the COVID-19 pandemic.”
+npj Digital Medicine (Nature), 3 (65). https://doi.org/10.1038/s41746-020-0280-0
+Ministry of Economic Affairs and Employment. 2017. Finland’s Age of Artificial Intelligence: Turning Finland into a Leading Country in the
+Application of Artificial Intelligence.
+https://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/160391/TEMrap_47_2017_verkkojulkaisu.pdf
+Ministry of Economic Affairs and Employment. 2019. Leading the Way into the Era of Artificial Intelligence.
+Final Report of Finland’s Artificial Intelligence Programme 2019.
+http://julkaisut.valtioneuvosto.fi/handle/10024/161688
+Ministry of Finance. 2018a. “Digital Economy and Society Index: Finland has EU’s Best Digital Public Services.” News Item, May 23.
+https://vm.fi/en/article/-/asset_publisher/digitaalitalouden-ja-yhteiskunnan-indeksi-suomessa-eu-n-parhaat-julkiset-digitaaliset-palvelut
+Ministry of Finance. 2018b. “Proposal for Establishing Information Policy as a New Policy Sector in Finland.” Press Release, December 5.
+https://valtioneuvosto.fi/en/article/-/asset_publisher/10623/tietopolitiikasta-uusi-politikka-alue-suomeen
+Ministry of Finance. 2019. AuroraAI – Towards a Human-Centric Society. Helsinki: Ministry of Finance.
+https://vm.fi/documents/10623/1464506/AuroraAI+development+and+implementation+plan+2019–2023.pdf
+Miriri, Duncan. 2018. “Kenya to Publish Draft Data Protection Bill this Month: Minister.” Reuters, June 11.
+https://www.reuters.com/article/us-kenya-dataprotection/kenya-to-publish-draft-data-protection-bill-this-month-minister-idUSKBN1J71S5
+MMC Ventures. 2019. The State of AI 2019 Divergence.
+https://www.mmcventures.com/The-State-of-AI-2019-Divergence.pdf
+Mulgan, G. 2019. “Why Regulation Needs an Overhaul.” Nesta (Blog), March 12.
+https://www.nesta.org.uk/blog/regulation-needs-overhaul/
+Murison, Malek. 2018. “Brazil’s National IoT Strategy Gets the Green Light.” Internet of Business, March 28.
+https://internetofbusiness.com/brazil-national-iot-strategy/
+Mzekandaba, Simnikiwe. 2019. “ANC Promises to Bolster Tech Innovation.” ITWeb, January 14.
+https://www.itweb.co.za/content/GxwQDM1A9BrMlPVo
+National Communication Authority. 2018. Ghana’s Digital Agenda.
+https://www.nca.org.gh/assets/Uploads/Key-NCA-Projects-2018.pdf
+
+worldbank.org/digitaldevelopment
+41
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+Ndichu, David. 2018. “Microsoft to Set Up Two Data Centers in the UAE.” ITP.net, March 14.
+http://www.itp.net/616782-microsoft-to-set-up-two-data-centres-in-the-uae
+Nesta. 2019. “Anticipatory Regulation,” Nesta.
+https://www.nesta.org.uk/feature/innovation-methods/anticipatory-regulation/
+Nesta. 2020. “The AI Powered State: China’s approach to public sector innovation,” Nesta.
+https://media.nesta.org.uk/documents/Nesta_TheAIPoweredState_2020.pdf
+Niiler, Eric. 2020. “An AI Epidemiologist Sent the First Warnings of the Wuhan Virus.” Wired, January 25.
+https://www.wired.com/story/ai-epidemiologist-wuhan-public-health-warnings/
+NITI Aayog. 2018. National Strategy for Artificial Intelligence. Discussion Paper.
+https://niti.gov.in/writereaddata/files/document_publication/NationalStrategy-for-AI-Discussion-Paper.pdf
+Nos, Irina. 2017. “Kazakhstan’s Modernisation 3.0 is to create a completely new, non-commodity economic model, minister says.”
+https://astanatimes.com/2017/04/kazakhstans-modernisation-3-0-is-to-create-a-completely-new-non-commodity-economic-model-minister-says
+OECD (Organisation for Economic Cooperation and Development).
+2017, Big Data: Bringing Competition Policy to the Digital Era. Paris: OECD.
+OECD (Organisation for Economic Cooperation and Development).
+Centers Of Excellence As A Tool For Capability Building Case Study: Canada.
+https://www.oecd.org/sti/center%20of%20excellence%20-%20canada.pdf
+OECD (Organisation for Economic Cooperation and Development).
+2019a. Artificial Intelligence in Society. Paris: OECD.
+https://www.oecd.org/publications/artificial-intelligence-in-society-eedfee77-en.htm
+OECD (Organisation for Economic Cooperation and Development).
+2019b. Measuring the Digital Transformation: A Roadmap for the Future. Paris: OECD.
+https://www.oecd.org/publications/measuring-the-digital-transformation-9789264311992-en.htm
+OECD (Organisation for Economic Cooperation and Development).
+2020. Using artificial intelligence to help combat COVID-19.
+https://www.oecd.org/coronavirus/policy-responses/using-artificial-intelligence-to-help-combat-covid-19-ae4c5c21/
+Oxford Business Group. 2018. “Young Egyptians Gain ICT Capabilities and Entrepreneurial Skills with New Programs.”
+in The Report: Egypt 2018. London: Oxford Business Group.
+https://oxfordbusinessgroup.com/analysis/brain-gain-multiple-initiatives-launched-develop-ict-capabilities-and-entrepreneurial-skills-young
+Oxford Insights. 2020. Government AI Readiness Index 2020. Malvern: Oxford Insights.
+https://www.oxfordinsights.com/government-ai-readiness-index-2020
+Pekkarinen, Aino. 2019. “Significant Boost for AI Research from the Academy of Finland.” Press Release. FCAI, January 8.
+https://www.helsinki.fi/en/news/data-science-news/significant-boost-for-ai-research-from-the-academy-of-finland
+
+worldbank.org/digitaldevelopment
+42
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+Perrault, Raymond, Yoav Shoham, Erik Brynjolfsson, Jack Clark, John Etchemendy, Barbara Grosz, Terah Lyons, James Manyika, Saurabh
+Mishra, and Juan Carlos Niebles, “The AI Index 2019 Annual Report”, AI Index Steering Committee, Human-Centered AI Institute, Stanford
+University, Stanford, CA, December 2019.
+Poikola, Antti, Kai Kuikkaniemi, and Harri Honko. 2014. My Data - A Nordic Model for Human-Centered Personal Data Management and
+Processing. Ministry of Transport and Communications. http://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/78439/MyData-nordic-model.pdf
+Presidencia de la Nation. 2018. Plan Nacional de Inteligencia Artificial. Buenos Aires.
+https://www.uai.edu.ar/ciiti/2019/buenos-aires/downloads/B1/JA-Plan-Nacional-IA.pdf
+Prime Minister of Kazakhstan. 2017. “The President of Kazakhstan Nursultan Nazarbayev’s Address to the Nation of Kazakhstan. January 31,
+2017.” http://www.akorda.kz/en/addresses/addresses_of_president/the-president-of-kazakhstan-nursultan-nazarbayevs-address-to-the-nation-of-kazakhstan-january-31-2017
+Purdy, Mark and Paul Daugherty. 2016. Why Artificial Intelligence is the Future of Growth. Accenture and Frontier Economics.
+https://www.accenture.com/t20170524t055435__w__/ca-en/_acnmedia/pdf-52/accenture-why-ai-is-the-future-of-growth.pdf
+PwC. 2017. Sizing the Prize: What’s the Real Value of AI for Your Business and How Can You Capitalise? London.
+https://www.pwc.com/gx/en/issues/analytics/assets/pwc-ai-analysis-sizing-the-prize-report.pdf
+PwC. 2018a. The Macroeconomic Impact of Artificial Intelligence. London.
+https://www.pwc.co.uk/economic-services/assets/macroeconomic-impact-of-ai-technical-report-feb-18.pdf
+PwC. 2018b. US$320 billion by 2030? The potential impact of AI in the Middle East.
+https://www.pwc.com/m1/en/publications/documents/economic-potential-ai-middle-east.pdf
+PwC. 2019. Gaining National Competitive Advantage through Artificial Intelligence (AI): Policy Making and National AI Strategies. Luxembourg : PwC. https://www.pwc.lu/en/advisory/digital-tech-impact/technology/gaining-national-competitive-advantage-through-ai.html
+Raju, V., Javaid, M., Khan, I.H. and A. Haleem. 2020. “Artificial Intelligence (AI) applications for COVID-19 pandemic.”
+Diabetes & Metabolic Syndrome: Clinical Research & Reviews, Vol 14 (4).
+https://doi.org/10.1016/j.dsx.2020.04.012
+Reality Check Team. 2019. “Huawei: Which Countries are Blocking its 5G Technology?” BBC News, May 18.
+https://www.bbc.com/news/world-48309132
+Republic of Kenya. 2019. Digital Economy Blueprint: Powering Kenya’s Transformation.
+https://www.ict.go.ke/wp-content/uploads/2019/05/Kenya-Digital-Economy-2019.pdf
+Richardson, Peter and others. 2020. “Baricitinib as potential treatment for 2019-nCoV acute respiratory disease”.
+The Lancet 395 (10223): E30-E31. https://doi.org/10.1016/S0140-6736(20)30304-4.
+Risse, M. 2018. Human Rights and Artificial Intelligence. Cambridge, MA: Carr Center for Human Rights Policy, Harvard Kennedy School.
+Ritchie, H. and M. Roser. 2014. “Natural Disasters.” Our World in Data (revised November 2019).
+https://ourworldindata.org/natural-disasters
+
+worldbank.org/digitaldevelopment
+43
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+Rodrik, D. 2016. “Premature Deindustrialization.” Journal of Economic Growth 21(1).
+Rodrik, D. 2017. Straight Talk on Trade: Ideas for a Sane World Economy. Princeton, NJ: Princeton University Press.
+Rodrik, D. 2018. New Technologies, Global Value Chains and the Developing Economies. Background Paper 1,
+Pathways for Prosperity Commission.
+Roland Berger. 2018. Artificial Intelligence: A Strategy for European Startups. Munich: Roland Berger.
+https://www.rolandberger.com/en/Publications/AI-startups-as-innovation-drivers.html?country=null
+Savage, N. 2020. “The race to the top among the world’s leaders in artificial intelligence.” Nature, 588, S102-S104.
+https://doi.org/10.1038/d41586-020-03409-8
+Sawahel, Wagdy. 2019. “First AI faculty Unveiled at Global Forum Meeting.” University World News: Africa Edition, April 5.
+https://www.universityworldnews.com/post.php?story=20190405064313832
+Schwab, Klaus. 2015. “The Fourth Industrial Revolution: What It Means and How to Respond.” Foreign Affairs, December 12.
+https://www.weforum.org/agenda/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond/
+Scudellari, Megan. 2020. “Five Companies Using AI to Fight Coronavirus: Deep learning models predict old and
+new drugs that might successfully treat COVID-19.” IEEE Spectrum, March 19.
+https://spectrum.ieee.org/the-human-os/artificial-intelligence/medical-ai/companies-ai-coronavirus?utm_source=POLITICO.EU&utm_
+campaign=817f8bef8e-EMAIL_CAMPAIGN_2020_03_25_09_59&utm_medium=email&utm_term=0_10959edeb5-817f8bef8e-190492457
+Shankar, S. and others. 2017. “No classification without representation: Assessing geodiversity issues in open data sets for the developing
+world.” Conference on Neural Information Processing Systems (NIPS 2017).
+https://arxiv.org/pdf/1711.08536.pdf
+Sharif, N. 2006. “Emergence and development of the National Innovation Systems concept.” Research Policy, 35 (5).
+https://doi.org/10.1016/j.respol.2006.04.001
+Shrum, K. and others. 2019. AI and its Impact on Public Administration. Washington, DC: National Academy of Public Administration.
+https://www.napawash.org/uploads/Academy_Studies/9781733887106.pdf
+Simonite, Tom. 2020. “Chinese Hospitals Deploy AI to Help Diagnose Covid-19.” Wired, February 26.
+https://www.wired.com/story/chinese-hospitals-deploy-ai-help-diagnose-covid-19/
+Smith, G. and Rustagi, I. 2020. Mitigating Bias in Artificial Intelligence: An Equity Fluent Leadership Playbook. Berkeley, CA:
+Berkeley Haas Center for Equity.
+https://haas.berkeley.edu/wp-content/uploads/UCB_Playbook_R10_V2_spreads2.pdf
+Smith, M. and S. Neupane. 2018. Artificial Intelligence and Human Development: Toward a Research Agenda. International Development
+Research Centre. idl-bnc-idrc.dspacedirect.org/handle/10625/56949
+Snow, Jackie. 2019 “How Africa is Seizing an AI Opportunity.” Fast Company, March 10.
+https://www.fastcompany.com/90308114/how-africa-is-seizing-an-ai-opportunity
+Sonneborn, W. and L. Graf. 2020. “How AI can help developing countries rebuild after the pandemic.” World Bank Blogs, September 16.
+https://blogs.worldbank.org/digital-development/how-ai-can-help-developing-countries-rebuild-after-pandemic
+
+worldbank.org/digitaldevelopment
+44
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+Stathoulopoulos, Kostas, and Juan Mateos-Garcia. 2019. Gender Diversity in AI Research. London: Nesta.
+https://www.nesta.org.uk/report/gender-diversity-ai/
+Stebbing, Justin and others. 2020. “COVID-19: Combining Antiviral and Anti-Inflammatory Treatments.”
+The Lancet: Infectious Diseases 20 (40): P400-402.
+https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30132-8/fulltext
+Stix, C. 2019. A Survey of the European Union’s Artificial Intelligence Ecosystem. Cambridge: Leverhulme Centre for the Future of
+Intelligence, University of Cambridge.
+http://lcfi.ac.uk/media/uploads/files/Stix_Europe_AI_Final.pdf
+Strusani, D. and G.V. Houngbonon. 2019.
+“The Role of Artificial Intelligence in Supporting Development in Emerging Markets.” EM Compass, Note 69.
+https://openknowledge.worldbank.org/handle/10986/32365
+Takahashi, Dean. 2018. “Dubai and IBM Offer Government-Endorsed Blockchain Platform in UAE.” VentureBeat, October 29.
+https://venturebeat.com/2018/10/29/dubai-and-ibm-offer-government-endorsed-blockchain-platform-in-uae/
+Taulli, Tom. 2019. “SF Facial Recognition Ban: What Now for AI (Artificial Intelligence)? Forbes, May 19.
+https://www.forbes.com/sites/tomtaulli/2019/05/19/sf-facial-recognition-ban-what-now-for-ai-artificial-intelligence/#2d15c61c2e96
+UN Science-Policy-Business Forum on the Environment. 2018. Digital Earth: Building, Financing and Governing a Digital Ecosystem for
+Planetary Data, White Paper, Draft 1.2.
+https://un-spbf.org/wp-content/uploads/2019/03/White-Paper-Draft.pdf
+UN Secretary-General’s High-level Panel. 2019. The Age of Digital Interdependence. Report of the UN Secretary-General’s High-level Panel
+on Digital Cooperation.
+https://www.un.org/en/pdfs/DigitalCooperation-report-for%20web.pdf
+USAID.2018. Reflecting the Past, Shaping the Future: Making AI Work for International Development. Washington, DC.
+https://www.usaid.gov/sites/default/files/documents/15396/AI-ML-in-Development.pdf
+Villani, C. and others. 2018. For a Meaningful Artificial Intelligence: Towards a French and European Strategy.
+Paris: Conseil national du numérique.
+Vinuesa, R., Azizpour, H., Leite, I. et al. 2020. The role of artificial intelligence in achieving the Sustainable Development Goals.
+Nature Communications, 11, 233.
+https://doi.org/10.1038/s41467-019-14108-y
+Whittaker, M. and others. 2018. AI Now Report 2018. New York: AI Now Institute, New York University.
+https://ainowinstitute.org/AI_Now_2018_Report.pdf
+White House. 2020. American Artificial Intelligence Initiative: Year One Annual Report. Office of Science and Technology Policy.
+https://www.whitehouse.gov/wp-content/uploads/2020/02/American-AI-Initiative-One-Year-Annual-Report.pdf
+Winick, Erin. 2018. “Every Study We Could Find on What Automation Will Do to Jobs, in One Chart.” MIT Technology Review, January 25.
+https://www.technologyreview.com/2018/01/25/146020/every-study-we-could-find-on-what-automation-will-do-to-jobs-in-one-chart/
+
+worldbank.org/digitaldevelopment
+45
+
+ANALYTICAL INSIGHTS - NOTE 4
+
+World Bank. 2016. World Development Report 2016: Digital Dividends. Washington, DC: World Bank. doi:10.1596/978-1-4648-0671-1.
+World Bank. 2019a. Information and Communications for Development 2018: Data-Driven Development. Information and
+Communications for Development. Washington, DC: World Bank. doi:10.1596/978-1-4648-1325-2.
+World Bank. 2019b. Digital Economy for Africa (DE4A): Diagnostic Tool and Guidelines for Task Teams. Version 2.0.
+Washington, DC: World Bank.
+World Bank. 2019c. World Development Report 2019: The Changing Nature of Work.
+Washington, DC: World Bank. doi:10.1596/978-1-4648-1328-3.
+World Bank. 2020. World Development Report 2021 Webinar. Webinar Presentation. June 3, 2020.
+Yamamoto, C. 2017, “Associação Brasileira de Inteligência Artificial – ABRIA.” Oráculo TI, 31 May.
+https://oraculoti.com.br/2017/05/31/associacao-brasileira-de-inteligencia-artificial-abria/
+Yampolskiy, R. 2018. Current State of Knowledge on Failures of AI-Enabled Products. Consortium for Safer AI.
+
+worldbank.org/digitaldevelopment
+46
+
+worldbank.org/digitaldevelopment
+
+Analytical Insights
+DIGITAL DEVELOPMENT
+
+

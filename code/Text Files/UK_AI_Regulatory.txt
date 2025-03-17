@@ -1,0 +1,39 @@
+UK Government Publishes AI Regulatory Framework
+April 04, 2023
+The UK government published a white paper on March 29 setting out a “pro-innovation” UK regulatory framework for artificial intelligence (AI). The framework centers upon five cross-sectoral principles, of which implementation will be context-specific to the use of AI, rather than the technology itself. The government does not propose introducing a new regulator or any new legal requirements on businesses, instead leveraging existing powers of UK regulators and their domain-specific expertise.
+
+Objectives:
+The framework is designed to achieve the following three objectives:
+Drive growth and prosperity: By reducing regulatory uncertainty and removing existing barriers to innovation, the UK government aims to allow AI companies to capitalize on early development successes and achieve long-term market advantage. There is clearly a competitive urgency in the government’s proposals: “By acting now, we can give UK innovators a head start in the global race to convert the potential of AI into long term advantages for the UK, maximising the economic and social value of these technologies and strengthening our current position as a world leader in AI.”
+Increase public trust in AI: By effectively addressing risks, the UK government’s goal is to remove barriers for AI products and innovation caused by a lack of trust in AI.
+Strengthening the UK’s position as a global leader in AI: By working with global partners, the UK government hopes to hold a crucial leadership role in shaping international governance and regulation, particularly in the development of the global AI assurance industry.
+The government expressly excludes from the scope of the white paper issues relating to access to data, compute capability, and sustainability, as well as the balancing of the rights of content producers and AI developers.
+
+Key Takeaways:
+
+Defining AI: There will be no legal definition of AI. Instead, “AI” is defined by reference to the combination of two characteristics: (1) adaptivity—i.e., being “trained” and operating by inferring patterns and connections in data which are not easily discernible to humans; and (2) autonomy—i.e., making decisions without the express intent or ongoing control of a human. Defining AI with reference to functional capabilities is intended to future-proof the framework against unanticipated new technologies that are autonomous and adaptive.
+Context-specific – Regulating use, not technology: The framework will regulate outcomes that AI is likely to generate. This approach could even extend to failure to use AI; the government highlighted feedback received from regulators that failure to exploit AI capabilities may in fact risk harm, such as not utilizing AI in safety-critical processes.
+Five cross-sectoral principles: When implementing a context-specific approach, regulators must have regard to five cross-sectoral principles, as explained further below.
+
+No new legal requirements: The government states that it will not introduce any new legal requirements. However, following an unspecified implementation period, the government may introduce a statutory duty requiring regulators to have regard to the cross-sectoral principles. It is a clear sign of the government’s pro-growth objective that this is the only (potential) new statutory requirement, rather than any duty targeted directly at businesses.
+No intervention on liability or accountability in the AI supply chain: The government concludes that it is too soon to make a cross-sectoral decision on liability in the AI supply chain, which currently differs across legal frameworks. For example, data controllers and data processors have specific allocation of accountability under data protection law, and similarly with producers and distributors under product safety laws. The government leaves this issue to regulators who, it states, are best positioned to begin allocating liability in their sectors, adopting a context-based approach that builds on best practice.
+
+New centralized coordinating functions: The government will establish cross-sectoral monitoring, risk assessment, education, horizon-scanning, and other centralized functions in order to support implementation and coherence of the framework.
+AI assurance techniques and technical standards: The government suggests that these will play a critical role in supporting the framework, which it will encourage by publishing a toolkit of assurance techniques in collaboration with industry.
+Territorial application: The framework applies across the United Kingdom and will not change the territorial application of any existing legislation. The UK government will work with international partners to promote interoperability and coherence between different approaches, noting the complex and cross-border nature of AI supply chains.
+Cross-Sectoral Principles
+
+The principles of the regulatory framework are explained further below:
+
+Safety, security, and robustness: AI systems should function as intended and in a robust, secure, and safe way throughout the AI lifecycle, and risks should be continually identified, assessed, and managed. Safety-related risks will be sector specific, and regulators should take a proportionate approach to manage them. Regulators may require the corresponding AI lifecycle actors to regularly test or carry out due diligence on the functioning, resilience, and security of a system.
+Appropriate transparency and explainability: Transparency refers to the communication of appropriate information about an AI system and explainability refers to the extent to which it is possible for relevant parties to access, interpret, and understand the decision-making processes. Parties directly affected by the use of an AI system should also be able to access sufficient information about AI systems to be able to enforce their rights. Regulators will likely implement this principle through regulatory guidance.
+Fairness: AI systems should not undermine the legal rights of individuals or organizations, discriminate unfairly against individuals, or create unfair market outcomes (e.g., in equality and human rights, data protection, consumer law, or financial regulations). Regulators may implement this principle through a combination of guidance (sector specific and jointly), technical standards and assurance techniques, as well as enforcing existing statutory obligations.
+Accountability and governance: Businesses should put in place governance measures that ensure effective oversight of the supply and use of AI systems, with clear lines of accountability established across the AI lifecycle. Regulators will likely implement this principle through regulatory guidance and assurance techniques.
+Contestability and redress: Users, impacted third parties, and actors in the AI lifecycle should be able to contest an AI decision or outcome that is harmful or creates material risk of harm. Regulators will be expected to clarify existing routes to contestability and redress and implement proportionate measures to ensure that the outcomes of AI use are contestable where appropriate. The government’s initial non-statutory approach will not create new rights or new routes to redress at this stage.
+
+Next Steps:
+The government requested views on certain proposals, including the cross-sectoral principles, by June 21, 2023. The white paper also includes a long list of actions for the UK government to undertake over the coming year and beyond, which include the following:
+Publishing a portfolio of AI assurance techniques:
+Publishing an AI regulation roadmap for the central risk and monitoring functions
+Encouraging regulators to publish guidance on how cross-sectoral principles will apply within their remit
+Publishing a draft central, cross-economy AI risk register for consultation

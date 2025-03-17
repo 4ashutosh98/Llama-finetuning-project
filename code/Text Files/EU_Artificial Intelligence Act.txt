@@ -1,0 +1,39 @@
+Artificial Intelligence Act: deal on comprehensive rules for trustworthy AI
+Press Release 09-12-2023 - 00:04 
+Summary:
+1. Safeguards agreed on general purpose artificial intelligence
+2. Limitation for the of use biometric identification systems by law enforcement
+3. Bans on social scoring and AI used to manipulate or exploit user vulnerabilities
+4. Right of consumers to launch complaints and receive meaningful explanations
+5. Fines ranging from 35 million euro or 7% of global turnover to 7.5 million or 1.5% of turnover
+
+Introduction: MEPs reached a political deal with the Council on a bill to ensure AI in Europe is safe, respects fundamental rights and democracy, while businesses can thrive and expand. On Friday, Parliament and Council negotiators reached a provisional agreement on the Artificial Intelligence Act. This regulation aims to ensure that fundamental rights, democracy, the rule of law and environmental sustainability are protected from high risk AI, while boosting innovation and making Europe a leader in the field. The rules establish obligations for AI based on its potential risks and level of impact.
+
+Banned applications: Recognising the potential threat to citizens’ rights and democracy posed by certain applications of AI, the co-legislators agreed to prohibit: biometric categorisation systems that use sensitive characteristics (e.g. political, religious, philosophical beliefs, sexual orientation, race); untargeted scraping of facial images from the internet or CCTV footage to create facial recognition databases; emotion recognition in the workplace and educational institutions; social scoring based on social behaviour or personal characteristics; AI systems that manipulate human behaviour to circumvent their free will; AI used to exploit the vulnerabilities of people (due to their age, disability, social or economic situation).
+
+Law enforcement exemptions: Negotiators agreed on a series of safeguards and narrow exceptions for the use of biometric identification systems (RBI) in publicly accessible spaces for law enforcement purposes, subject to prior judicial authorisation and for strictly defined lists of crime. “Post-remote” RBI would be used strictly in the targeted search of a person convicted or suspected of having committed a serious crime.
+
+“Real-time” RBI would comply with strict conditions and its use would be limited in time and location, for the purposes of:
+
+targeted searches of victims (abduction, trafficking, sexual exploitation),
+prevention of a specific and present terrorist threat, or
+the localisation or identification of a person suspected of having committed one of the specific crimes mentioned in the regulation (e.g. terrorism, trafficking, sexual exploitation, murder, kidnapping, rape, armed robbery, participation in a criminal organisation, environmental crime).
+
+Obligations for high-risk systems: For AI systems classified as high-risk (due to their significant potential harm to health, safety, fundamental rights, environment, democracy and the rule of law), clear obligations were agreed. MEPs successfully managed to include a mandatory fundamental rights impact assessment, among other requirements, applicable also to the insurance and banking sectors. AI systems used to influence the outcome of elections and voter behaviour, are also classified as high-risk. Citizens will have a right to launch complaints about AI systems and receive explanations about decisions based on high-risk AI systems that impact their rights.
+
+Guardrails for general artificial intelligence systems: To account for the wide range of tasks AI systems can accomplish and the quick expansion of its capabilities, it was agreed that general-purpose AI (GPAI) systems, and the GPAI models they are based on, will have to adhere to transparency requirements as initially proposed by Parliament. These include drawing up technical documentation, complying with EU copyright law and disseminating detailed summaries about the content used for training.
+
+For high-impact GPAI models with systemic risk, Parliament negotiators managed to secure more stringent obligations. If these models meet certain criteria they will have to conduct model evaluations, assess and mitigate systemic risks, conduct adversarial testing, report to the Commission on serious incidents, ensure cybersecurity and report on their energy efficiency. MEPs also insisted that, until harmonised EU standards are published, GPAIs with systemic risk may rely on codes of practice to comply with the regulation.
+
+
+Measures to support innovation and SMEs: MEPs wanted to ensure that businesses, especially SMEs, can develop AI solutions without undue pressure from industry giants controlling the value chain. To this end, the agreement promotes so-called regulatory sandboxes and real-world-testing, established by national authorities to develop and train innovative AI before placement on the market.
+
+Sanctions and entry into force: Non-compliance with the rules can lead to fines ranging from 35 million euro or 7% of global turnover to 7.5 million or 1.5 % of turnover, depending on the infringement and size of the company.
+
+Quotes: Following the deal, co-rapporteur Brando Benifei (S&D, Italy) said: “It was long and intense, but the effort was worth it. Thanks to the European Parliament’s resilience, the world’s first horizontal legislation on artificial intelligence will keep the European promise - ensuring that rights and freedoms are at the centre of the development of this ground-breaking technology. Correct implementation will be key - the Parliament will continue to keep a close eye, to ensure support for new business ideas with sandboxes, and effective rules for the most powerful models”.
+
+Co-rapporteur Dragos Tudorache (Renew, Romania) said: “The EU is the first in the world to set in place robust regulation on AI, guiding its development and evolution in a human-centric direction. The AI Act sets rules for large, powerful AI models, ensuring they do not present systemic risks to the Union and offers strong safeguards for our citizens and our democracies against any abuses of technology by public authorities. It protects our SMEs, strengthens our capacity to innovate and lead in the field of AI, and protects vulnerable sectors of our economy. The European Union has made impressive contributions to the world; the AI Act is another one that will significantly impact our digital future”.
+
+Press conference: Lead MEPs Brando Benifei (S&D, Italy) and Dragos Tudorache (Renew, Romania), the Secretary of State for digitalisation and artificial intelligence Carme Artigas, and Commissioner Thierry Breton held a joint press conference after the negotiations. The statement of Mr Benifei is available here and Mr Tudorache's here. More extracts are available here
+
+Next steps: The agreed text will now have to be formally adopted by both Parliament and Council to become EU law. Parliament’s Internal Market and Civil Liberties committees will vote on the agreement in a forthcoming meeting.

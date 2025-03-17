@@ -1,0 +1,29 @@
+AI Summit Series
+The NAII launched the AI Summit Series in 2022 to bring together AI professionals and other stakeholders to address how artificial intelligence is being used to improve health outcomes for Veterans and the public.
+
+International Summit for AI in Health Care
+
+This video recaps the three-day International Summit for AI in Health Care hosted by VA NAII.
+
+From September 6-8, 2023, VA NAII hosted its second AI Summit, the International Summit for AI in Health Care, to explore how AI and machine learning (ML) are shaping the future of Veterans’ health care.
+
+Nearly 1,000 participants gathered in Washington, D.C., in addition to 400+ attendees that joined virtually, for the three-day event. Leaders in AI and health care from international governments, academia, and industry from around the world addressed how trustworthy AI – AI that is ethical, secure, and mitigates bias – can bring innovations and real-world solutions to health issues prevalent among Veterans as well as to overcome pressing challenges within the healthcare delivery system.
+
+In addition to plenary sessions with expert speakers, the summit included interactive panel sessions to foster discussions around AI policy and generate ideas related to the state of AI in health care and medical practice, particularly in areas such as mental health, suicide prevention, and innovations in cancer treatment, surgery, recovery, and rehabilitation. Discussions also focused on innovating health care delivery through trustworthy AI, where VA is working on the frontiers of AI research and development.
+
+Featured Speakers
+The Honorable Denis McDonough, Secretary of Veterans Affairs, announced the release of VA’s new Trustworthy AI Framework, which integrates the White House’s AI Bill of Rights, as well as other AI guiding principles. Under VA’s Trustworthy AI Framework, AI must be purposeful, effective, and safe, secure and private, fair and equitable, transparent and explainable, and accountable and monitored.
+
+VA Under Secretary for Health, Dr. Shereef Elnahal, announced the next AI Tech Sprint, which will address the administrative workload that places a heavy burden on clinicians at VA and across the U.S. healthcare system. AI Tech Sprint participants will be challenged to propose AI solutions to mitigate the time-consuming reporting and routine tasks clinicians are responsible for, so they can spend more time directly with patients.
+
+Assistant Under Secretary for Health for the Office of Discovery, Education and Affiliate Networks, Dr. Carolyn Clancy, shared the VA NAII’s data use agreement with LinkedIn, which holds great potential to advance VA’s data scientist recruiting.
+
+VA Chief AI Officer and NAII Director, Dr. Gil Alterovitz, presented VA’s new AI website. The new website is designed to serve as a hub for information and resources related to AI initiatives within VA, showcasing their commitment to leveraging innovative solutions for the benefit of those who have served the nation.
+
+Leaders from the Netherlands Ministry of Health and Defense, Colonel Henk Van der Wal and Monica Schagen, discussed the Netherlands’ leading AI work in a plenary session on the Current State, Collaboration and Future Advancement of AI in Health Care.
+
+CEO and Founder of insitro, Dr. Daphne Koller, shared her company’s groundbreaking work on multimodal AI, which can process and generate outputs from more than one type of data to provide improved capabilities and understanding of specific health problems.
+
+The summit also featured remarks from, VA Chief Technology Officer, Charles Worthington, Founder and CEO of FOUR, Antonija Burcul, Pulitzer Prize-winner and Professor of Medicine at Columbia University, Dr. Siddhartha Mukherjee, and Chief AI Officer at the Department of Health and Human Services, Greg Singleton. View the full agenda and featured speakers here.
+
+To quote the remarks of Honorable Denis McDonough, “Our people are at the heart of all that we do…  It’s our job at VA to be there when Veterans need us.”
